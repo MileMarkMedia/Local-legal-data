@@ -7,7 +7,7 @@
 
 Network steps use only free public U.S. government APIs and need no keys.
 """
-import csv, datetime, json, re, sys, time, urllib.parse, urllib.request
+import csv, datetime, io, json, re, sys, time, urllib.error, urllib.parse, urllib.request, zipfile
 from collections import Counter, defaultdict
 from pathlib import Path
 
@@ -16,8 +16,7 @@ SRC = ROOT / "source"
 GEO_CACHE = SRC / "geocode.json"
 FARS_CACHE = SRC / "fars.json"
 CRASH_AREAS = {"Personal Injury", "Car Accidents", "Truck Accidents"}
-FIRST_YEAR = 2019
-UA = {"User-Agent": "local-legal-data/1.0 (public data reports)"}
+UA = {"User-Agent": "local-legal-data/1.0 (+https://github.com/MileMarkMedia/Local-legal-data)"}
 PUBLISHER = "MileMark Legal Marketing"
 DISCLOSURE = f"Firms listed here are clients of {PUBLISHER}, which maintains this dataset."
 
@@ -96,71 +95,98 @@ def geocode(firms):
 
 
 # ---------------------------------------------------------------- FARS
-def fars_rows(state_fips, county_fips, year):
-    url = ("https://crashviewer.nhtsa.dot.gov/CrashAPI/crashes/GetCrashesByLocation?"
-           + urllib.parse.urlencode({"fromCaseYear": year, "toCaseYear": year, "state": int(state_fips),
-                                     "county": int(county_fips), "format": "json"}))
-    data = get_json(url)
-    if not isinstance(data, dict) or "Results" not in data:
-        raise RuntimeError("Unexpected FARS response")
-    rows = data["Results"]
-    while rows and isinstance(rows[0], list):
-        rows = [r for group in rows for r in group]
-    out = []
-    for r in rows:
-        low = {k.lower(): v for k, v in r.items()}
-        if int(low.get("caseyear", year)) != year:
-            continue
-        out.append({"fatals": int(low["fatals"]), "vehicles": int(low.get("totalvehicles") or 0),
-                    "city": (low.get("cityname") or "").strip(), "road": (low.get("tway_id") or "").strip()})
+FARS_ZIP = "https://static.nhtsa.gov/nhtsa/downloads/FARS/{y}/National/FARS{y}NationalCSV.zip"
+FARS_PAGE = "https://www.nhtsa.gov/research-data/fatality-analysis-reporting-system-fars"
+
+
+def norm_county(name):
+    name = re.sub(r"\(\d+\)", "", name.lower())
+    name = re.sub(r"\b(county|parish|city and borough|borough|census area|municipality)\b", "", name)
+    return re.sub(r"[^a-z]", "", name.replace("saint", "st"))
+
+
+def fars_year(year, wanted):
+    """Download one year of the national FARS file and total it for the wanted counties."""
+    req = urllib.request.Request(FARS_ZIP.format(y=year), headers=UA)
+    try:
+        with urllib.request.urlopen(req, timeout=180) as r:
+            blob = r.read()
+    except urllib.error.HTTPError as exc:
+        if exc.code in (403, 404):
+            return None  # that year is not published
+        raise
+    archive = zipfile.ZipFile(io.BytesIO(blob))
+    member = next(n for n in archive.namelist() if n.lower().endswith("accident.csv"))
+    out = {geoid: {"crashes": 0, "deaths": 0, "multi": 0, "cities": {}, "roads": {}, "name": ""} for geoid in wanted}
+    with archive.open(member) as fh:
+        for row in csv.DictReader(io.TextIOWrapper(fh, encoding="cp1252", newline="")):
+            row = {k.strip().upper(): (v or "").strip() for k, v in row.items() if k}
+            geoid = f"{int(row['STATE']):02d}{int(row['COUNTY']):03d}"
+            t = out.get(geoid)
+            if t is None:
+                continue
+            t["crashes"] += 1
+            t["deaths"] += int(row["FATALS"])
+            t["multi"] += int(row["VE_FORMS"]) > 1
+            t["name"] = row.get("COUNTYNAME", "")
+            city, road = row.get("CITYNAME", ""), row.get("TWAY_ID", "")
+            if city:
+                t["cities"][city] = t["cities"].get(city, 0) + 1
+            if road:
+                t["roads"][road] = t["roads"].get(road, 0) + 1
     return out
 
 
 def fetch_fars(firms, geo):
     cache = load(FARS_CACHE, {"counties": {}})
+    if cache.get("format") != 2:
+        cache = {"counties": {}, "format": 2}
     counties = cache["counties"]
     wanted = {}
     for f in firms:
         g = geo.get(f["slug"]) or {}
         if g.get("matched") and CRASH_AREAS & set(f["practice_areas"]):
             wanted[g["geoid"]] = g
-    last_year = datetime.date.today().year - 1
-    known_latest = cache.get("latest_year") or 0
-    printed = False
-    failures = 0
-    for geoid, g in sorted(wanted.items()):
-        if failures >= 5:
-            print("::warning::FARS API unavailable, stopping early")
+    for geoid, g in wanted.items():
+        counties.setdefault(geoid, {"county": g["county"], "years": {}})
+    def store(year, totals):
+        for geoid, t in totals.items():
+            name = t.pop("name")
+            bad = bool(name) and norm_county(name) != norm_county(counties[geoid]["county"])
+            if bad:
+                print(f"::warning::County name mismatch for {geoid}: {name} vs {counties[geoid]['county']}")
+            counties[geoid]["mismatch"] = bad or (counties[geoid].get("mismatch", False) and not name)
+            counties[geoid]["years"][str(year)] = t
+        print(year, "loaded", sum(t["crashes"] for t in totals.values()), "fatal crashes in", len(totals), "counties", flush=True)
+
+    this_year = datetime.date.today().year
+    latest = None
+    try:
+        for year in range(this_year, this_year - 4, -1):
+            totals = fars_year(year, wanted)
+            if totals is None:
+                print(year, "not published", flush=True)
+                continue
+            latest = year
+            store(year, totals)
             break
-        entry = counties.setdefault(geoid, {"county": g["county"], "state_fips": g["state_fips"],
-                                           "county_fips": g["county_fips"], "years": {}})
-        for year in range(FIRST_YEAR, last_year + 1):
-            key = str(year)
-            # Older years are final. Refresh only the newest two published years and anything missing.
-            if key in entry["years"] and year < known_latest - 1:
-                continue
-            try:
-                rows = fars_rows(g["state_fips"], g["county_fips"], year)
-            except Exception as exc:
-                print(f"::warning::FARS request failed for {geoid} {year}: {exc}")
-                failures += 1
-                if failures >= 5:
-                    break
-                continue
-            failures = 0
-            if rows and not printed:
-                print("Sample FARS row:", rows[0])
-                printed = True
-            entry["years"][key] = rows
-            time.sleep(0.25)
-        print(geoid, g["county"], {y: len(r) for y, r in entry["years"].items()}, flush=True)
-        dump(FARS_CACHE, cache)
-    years_with_data = [int(y) for c in counties.values() for y, rows in c["years"].items() if rows]
-    if years_with_data:
-        cache["latest_year"] = max(years_with_data)
+        if latest is None:
+            print("::warning::No FARS year could be loaded")
+            return
+        for year in range(latest - 1, latest - 5, -1):
+            complete = all(str(year) in counties[g]["years"] for g in wanted)
+            if complete and year < latest - 1:
+                continue  # older years are final; the newest two are re-read because they get revised
+            totals = fars_year(year, wanted)
+            if totals:
+                store(year, totals)
+    except Exception as exc:
+        print(f"::warning::FARS download failed, keeping earlier data: {type(exc).__name__}: {exc}")
+        return
+    cache["latest_year"] = latest
     cache["checked"] = datetime.date.today().isoformat()
     dump(FARS_CACHE, cache)
-    print("FARS counties:", len(wanted), "latest year with data:", cache.get("latest_year"))
+    print("FARS counties:", len(wanted), "latest year:", latest)
 
 
 # ---------------------------------------------------------------- output
@@ -181,27 +207,26 @@ def county_summaries(firms, geo):
     latest = cache.get("latest_year")
     if not latest:
         return {}, None
-    years = list(range(max(FIRST_YEAR, latest - 4), latest + 1))
+    years = list(range(latest - 4, latest + 1))
     by_geoid = defaultdict(list)
     for f in firms:
         g = geo.get(f["slug"]) or {}
         if g.get("matched") and CRASH_AREAS & set(f["practice_areas"]):
             by_geoid[g["geoid"]].append(f)
     out = {}
+    skip_city = re.compile(r"not applicable|unknown|not reported|^other$", re.I)
     for geoid, local in by_geoid.items():
         c = cache["counties"].get(geoid)
-        if not c or any(str(y) not in c["years"] for y in years):
-            continue  # never publish a county with a missing year
+        if not c or c.get("mismatch") or any(str(y) not in c["years"] for y in years):
+            continue  # never publish a county with a missing year or an unconfirmed match
         table, roads, cities = [], Counter(), Counter()
         for y in years:
-            rows = c["years"][str(y)]
-            table.append({"year": y, "crashes": len(rows), "deaths": sum(r["fatals"] for r in rows),
-                          "multi": sum(1 for r in rows if r["vehicles"] > 1)})
-            for r in rows:
-                if r["road"]:
-                    roads[r["road"]] += 1
-                if r["city"] and not re.search(r"not applicable|unknown|not reported|other", r["city"], re.I):
-                    cities[r["city"].title()] += 1
+            t = c["years"][str(y)]
+            table.append({"year": y, "crashes": t["crashes"], "deaths": t["deaths"], "multi": t["multi"]})
+            roads.update(t["roads"])
+            for city, n in t["cities"].items():
+                if not skip_city.search(city):
+                    cities[city.title()] += n
         if sum(t["crashes"] for t in table) == 0:
             continue
         state = local[0]["state"]
@@ -293,7 +318,7 @@ def report_page(r, checked):
     intro += (f" From {first['year']} through {last['year']}, the county had {total_c:,} fatal crashes "
               f"that killed {total_d:,} people.")
     lines += [intro, "", "## Fatal crashes by year", "",
-              "| Year | Fatal crashes | Deaths | Crashes with two or more vehicles |", "| --- | --- | --- | --- |"]
+              "| Year | Fatal crashes | Deaths | Crashes with two or more moving vehicles |", "| --- | --- | --- | --- |"]
     lines += [f"| {t['year']} | {t['crashes']:,} | {t['deaths']:,} | {t['multi']:,} |" for t in y]
     lines += [f"| Total | {total_c:,} | {total_d:,} | {sum(t['multi'] for t in y):,} |", ""]
     if r["cities"]:
@@ -311,7 +336,7 @@ def report_page(r, checked):
               "kept by the National Highway Traffic Safety Administration. FARS counts a crash when it involves a motor "
               "vehicle on a public road and a person dies within 30 days. Crashes that caused injuries or property damage "
               "without a death are not included, so these numbers describe only the most serious crashes in the county.", "",
-              f"Source: [NHTSA Crash API](https://crashviewer.nhtsa.dot.gov/CrashAPI). Data retrieved {checked}. "
+              f"Source: [NHTSA FARS national data files]({FARS_PAGE}). Data retrieved {checked}. "
               f"County totals for every county in this project are in "
               f"[fatal-crashes-by-county.csv](../../../data/fatal-crashes-by-county.csv).", ""]
     lines += [f"## Injury law firms in {name}", ""]
@@ -323,7 +348,7 @@ def report_page(r, checked):
               "name": f"Fatal crashes in {name}, {st}, {first['year']} to {last['year']}",
               "description": f"Yearly counts of fatal motor vehicle crashes and deaths in {name}, {st}, from NHTSA FARS.",
               "spatialCoverage": f"{name}, {st}", "temporalCoverage": f"{first['year']}/{last['year']}",
-              "isBasedOn": "https://crashviewer.nhtsa.dot.gov/CrashAPI",
+              "isBasedOn": FARS_PAGE,
               "license": "https://creativecommons.org/publicdomain/zero/1.0/",
               "creator": {"@type": "Organization", "name": PUBLISHER}}
     lines += [f'<script type="application/ld+json">{json.dumps(schema)}</script>', ""]
