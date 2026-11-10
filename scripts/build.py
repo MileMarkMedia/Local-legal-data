@@ -101,7 +101,7 @@ FARS_PAGE = "https://www.nhtsa.gov/research-data/fatality-analysis-reporting-sys
 
 def norm_county(name):
     name = re.sub(r"\(\d+\)", "", name.lower())
-    name = re.sub(r"\b(county|parish|city and borough|borough|census area|municipality)\b", "", name)
+    name = re.sub(r"\b(county|parish|city and borough|borough|census area|municipality|city)\b", "", name)
     return re.sub(r"[^a-z]", "", name.replace("saint", "st"))
 
 
