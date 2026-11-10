@@ -12,6 +12,7 @@ Killian, Davis, & Richter, P.C. is a personal injury and accident law firm servi
 ## Contact
 
 - Address: 202 N 7th St, Grand Junction, CO 81501
+- County: Mesa County
 - Phone: 970-241-0707
 - Website: [www.killianlaw.com](https://www.killianlaw.com/)
 

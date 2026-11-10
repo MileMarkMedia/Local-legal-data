@@ -9,6 +9,7 @@ Flores, PLLC is a business law and litigation firm based in Austin, serving comp
 ## Contact
 
 - Address: 7500 Rialto Blvd, Suite 270, Austin, TX 78735
+- County: Travis County
 - Phone: 512-381-8874
 - Website: [www.floreslegalpllc.com](https://www.floreslegalpllc.com/)
 

@@ -10,6 +10,7 @@ Anderson & Anderson is a Tampa personal injury law firm focused on auto accident
 ## Contact
 
 - Address: 213 S Brevard Ave, Tampa, FL 33606
+- County: Hillsborough County
 - Phone: 813-251-0072
 - Website: [www.tgalaw.com](https://www.tgalaw.com/)
 

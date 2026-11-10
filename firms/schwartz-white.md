@@ -11,6 +11,7 @@ Schwartz \| White is a Boca Raton law firm focused on divorce and family law, se
 ## Contact
 
 - Address: 2000 Glades Road, Suite 208, Boca Raton, FL 33431
+- County: Palm Beach County
 - Phone: 561-391-9943
 - Website: [www.schwartz-white.com](https://www.schwartz-white.com/)
 

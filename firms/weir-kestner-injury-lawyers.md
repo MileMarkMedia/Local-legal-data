@@ -9,6 +9,7 @@ Weir & Kestner Injury Lawyers is a Tennessee personal injury law firm serving Mu
 ## Contact
 
 - Address: 128 1/2 N Church St, Murfreesboro, TN 37130
+- County: Rutherford County
 - Phone: 615-220-4180
 - Website: [www.wkjustice.com](https://www.wkjustice.com/)
 

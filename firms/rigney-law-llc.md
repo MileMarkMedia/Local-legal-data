@@ -10,6 +10,7 @@ Rigney Law LLC is an Indianapolis criminal defense firm founded in 2017 by Jacob
 ## Contact
 
 - Address: 250 E 38th St, Indianapolis, IN 46205
+- County: Marion County
 - Phone: 317-623-0989
 - Website: [www.rigneylawindy.com](https://www.rigneylawindy.com/)
 

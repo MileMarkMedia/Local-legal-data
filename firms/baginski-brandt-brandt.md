@@ -10,6 +10,7 @@ Baginski Brandt & Brandt is a Port St. Lucie family law and divorce firm that al
 ## Contact
 
 - Address: 8483 S US Highway 1, Port St. Lucie, FL 34952
+- County: St. Lucie County
 - Phone: 772-466-0707
 - Website: [www.bbblegal.com](https://www.bbblegal.com/)
 

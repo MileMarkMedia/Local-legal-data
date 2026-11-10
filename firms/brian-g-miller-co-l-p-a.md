@@ -10,6 +10,7 @@ Brian G. Miller Co., L.P.A. is a personal injury law firm based in Worthington, 
 ## Contact
 
 - Address: 250 West Old Wilson Bridge Road, Suite 270, Worthington, OH 43085
+- County: Franklin County
 - Phone: 614-221-4035
 - Website: [www.bgmillerlaw.com](https://www.bgmillerlaw.com/)
 

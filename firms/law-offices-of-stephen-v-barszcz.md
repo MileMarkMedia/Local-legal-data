@@ -12,6 +12,7 @@ The Law Offices of Stephen V. Barszcz is a national disability firm based in Pin
 ## Contact
 
 - Address: 6251 Park Blvd., Suite 3, Pinellas Park, FL 33781
+- County: Pinellas County
 - Phone: 877-655-2667
 - Website: [www.barzlaw.com](https://www.barzlaw.com/)
 

@@ -9,6 +9,7 @@ David Toback, Attorney At Law is a Tampa estate planning and tax law firm with o
 ## Contact
 
 - Address: 1211 N. Westshore Blvd, Suite 315, Tampa, FL 33607
+- County: Hillsborough County
 - Phone: 813-252-7529
 - Website: [www.davidtobacklaw.com](https://www.davidtobacklaw.com/)
 

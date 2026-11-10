@@ -9,6 +9,7 @@ Suncoast Civil Law is a Sarasota law firm handling business and civil litigation
 ## Contact
 
 - Address: 6981 Curtiss Avenue #3, Sarasota, FL 34231
+- County: Sarasota County
 - Phone: 941-366-1800
 - Website: [www.moransanchylaw.com](https://www.moransanchylaw.com/)
 

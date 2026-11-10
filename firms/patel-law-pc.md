@@ -10,6 +10,7 @@ Patel Law, PC is a personal injury and criminal defense firm serving central Ill
 ## Contact
 
 - Address: 108 West University Ave, Urbana, IL 61801
+- County: Champaign County
 - Phone: 217-384-1111
 - Website: [www.patellawteam.com](https://www.patellawteam.com/)
 

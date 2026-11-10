@@ -11,6 +11,7 @@ Musleh Law Firm is a personal injury firm serving Ocala and North Central Florid
 ## Contact
 
 - Address: 907 SE 3rd Avenue, Ocala, FL 34471
+- County: Marion County
 - Phone: 352-732-0600
 - Website: [www.ocalalawyer.com](https://www.ocalalawyer.com/)
 

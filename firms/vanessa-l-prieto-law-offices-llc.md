@@ -10,6 +10,7 @@ Vanessa L. Prieto Law Offices, LLC is a Fort Lauderdale firm focused on family l
 ## Contact
 
 - Address: 1845 SE 4th Avenue, Fort Lauderdale, FL 33316
+- County: Broward County
 - Phone: 954-800-2362
 - Website: [www.vanessaprietolaw.com](https://www.vanessaprietolaw.com/)
 

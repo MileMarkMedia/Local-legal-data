@@ -10,6 +10,7 @@ Schwartz Kalina, PLLC is a Leesburg law firm serving clients throughout Loudoun 
 ## Contact
 
 - Address: 118 Edwards Ferry Rd NE, Suite 100, Leesburg, VA 20176
+- County: Loudoun County
 - Phone: 703-667-0954
 - Website: [www.schwartzkalina.com](https://www.schwartzkalina.com/)
 

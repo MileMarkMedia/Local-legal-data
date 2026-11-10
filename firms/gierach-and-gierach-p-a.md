@@ -11,6 +11,7 @@ Gierach and Gierach, P.A. is a Winter Park law firm focused on estate planning, 
 ## Contact
 
 - Address: 1201 S Orlando Avenue, Suite 460, Winter Park, FL 32789-7109
+- County: Orange County
 - Phone: 407-598-8013
 - Website: [www.gierachlaw.com](https://www.gierachlaw.com/)
 

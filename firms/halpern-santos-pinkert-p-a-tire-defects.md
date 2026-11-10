@@ -9,6 +9,7 @@ Halpern Santos & Pinkert, P.A. is a Coral Gables, Florida law firm whose tire pr
 ## Contact
 
 - Address: 150 Alhambra Cir, #1100, Coral Gables, FL 33134
+- County: Miami-Dade County
 - Phone: 305-445-1111
 - Website: [www.tiredefectattorney.com](https://www.tiredefectattorney.com/)
 

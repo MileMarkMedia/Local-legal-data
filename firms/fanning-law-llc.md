@@ -11,6 +11,7 @@ Fanning Law, LLC is a La Plata, Maryland law firm focused on divorce and family 
 ## Contact
 
 - Address: 201 Centennial St, Suite 2A, La Plata, MD 20646
+- County: Charles County
 - Phone: 301-934-3620
 - Website: [www.fanninglawllc.com](https://www.fanninglawllc.com/)
 

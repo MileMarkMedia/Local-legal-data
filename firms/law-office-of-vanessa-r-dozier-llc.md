@@ -11,6 +11,7 @@ The Law Office of Vanessa R. Dozier, LLC is a Maryland law firm focused on famil
 ## Contact
 
 - Address: 10490 Little Patuxent Pkwy, Suite 600, Columbia, MD 21044
+- County: Howard County
 - Phone: 240-403-4033
 - Website: [www.vrdozierlaw.com](https://www.vrdozierlaw.com/)
 

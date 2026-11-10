@@ -10,6 +10,7 @@ Evans Bowers is an Atlanta law firm focused on defamation and environmental law,
 ## Contact
 
 - Address: 729 Piedmont Ave NE, Atlanta, GA 30308
+- County: Fulton County
 - Phone: 404-850-6750
 - Website: [www.evansbowers.com](https://www.evansbowers.com/)
 

@@ -9,6 +9,7 @@ Boone & Davis, Attorneys at Law is a Fort Lauderdale personal injury firm servin
 ## Contact
 
 - Address: 2311 North Andrews Ave., Ft. Lauderdale, FL 33311-3993
+- County: Broward County
 - Phone: 954-566-9919
 - Website: [www.booneanddavislaw.com](https://www.booneanddavislaw.com/)
 

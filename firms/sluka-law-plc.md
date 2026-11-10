@@ -9,6 +9,7 @@ Sluka Law PLC is a Woodstock law firm focused exclusively on workers' compensati
 ## Contact
 
 - Address: 13 Elm St, 2nd Floor, Woodstock, VT 05091
+- County: Windsor County
 - Phone: 802-457-1000
 - Website: [www.slukalaw.com](https://www.slukalaw.com/)
 

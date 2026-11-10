@@ -11,6 +11,7 @@ The Law Office of Israel Garcia is a San Antonio personal injury firm focused on
 ## Contact
 
 - Address: 926 Chulie Drive, San Antonio, TX 78216
+- County: Bexar County
 - Phone: 210-529-9999
 - Website: [www.israelgarcialaw.com](https://www.israelgarcialaw.com/)
 

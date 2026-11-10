@@ -10,6 +10,7 @@ Sandra Bonfiglio, P.A. is a Fort Lauderdale law firm practicing family law exclu
 ## Contact
 
 - Address: 105 South Avenue Of The Arts, Fort Lauderdale, FL 33312
+- County: Broward County
 - Phone: 954-945-7591
 - Website: [www.sandrabonfiglio.com](https://www.sandrabonfiglio.com/)
 

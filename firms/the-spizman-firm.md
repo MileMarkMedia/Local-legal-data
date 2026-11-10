@@ -11,6 +11,7 @@ The Spizman Firm is an Atlanta DUI and criminal defense law firm led by Managing
 ## Contact
 
 - Address: 200 Ashford Center N, Suite 200, Atlanta, GA 30338
+- County: DeKalb County
 - Phone: 770-685-6400
 - Website: [www.hsflawfirm.com](https://www.hsflawfirm.com/)
 

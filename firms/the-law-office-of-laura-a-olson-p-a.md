@@ -12,6 +12,7 @@ The Law Office of Laura A. Olson, P.A. is a Tampa law firm focused on divorce an
 ## Contact
 
 - Address: 1313 S. Howard Avenue, Tampa, FL 33606
+- County: Hillsborough County
 - Phone: 813-222-0888
 - Website: [www.attorneylauraolson.com](https://www.attorneylauraolson.com/)
 

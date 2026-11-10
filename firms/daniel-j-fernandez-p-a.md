@@ -9,6 +9,7 @@ Daniel J. Fernandez P.A. is a Tampa criminal defense firm representing people fa
 ## Contact
 
 - Address: 625 E Twiggs St, Suite 102, Tampa, FL 33602
+- County: Hillsborough County
 - Phone: 813-229-5353
 - Website: [www.djfernandezlaw.com](https://www.djfernandezlaw.com/)
 

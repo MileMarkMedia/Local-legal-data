@@ -10,6 +10,7 @@ WiseLieberman, PLLC is a Boca Raton law firm that focuses exclusively on divorce
 ## Contact
 
 - Address: 1800 NW Corporate Blvd., Suite 310, Boca Raton, FL 33431
+- County: Palm Beach County
 - Phone: 561-488-7788
 - Website: [www.wiselieberman.com](https://www.wiselieberman.com/)
 

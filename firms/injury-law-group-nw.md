@@ -11,6 +11,7 @@ Injury Law Group NW is a personal injury firm based in Issaquah serving King Cou
 ## Contact
 
 - Address: 1180 NW Maple Street, Suite 310, Issaquah, WA 98027
+- County: King County
 - Phone: 425-313-1184
 - Website: [www.injurylawgroupnw.com](https://www.injurylawgroupnw.com/)
 

@@ -10,6 +10,7 @@ The Villari Firm, PLLC is a Philadelphia law firm focused on medical malpractice
 ## Contact
 
 - Address: 258 S 11th Street, 1st Floor, Philadelphia, PA 19107
+- County: Philadelphia County
 - Phone: 215-372-8889
 - Website: [www.thevillarifirm.com](https://www.thevillarifirm.com/)
 

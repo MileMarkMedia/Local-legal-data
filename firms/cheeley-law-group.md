@@ -10,6 +10,7 @@ Cheeley Law Group is a trial-focused personal injury law firm based in Alpharett
 ## Contact
 
 - Address: 2500 Old Milton Pkwy, Suite 200, Alpharetta, GA 30009
+- County: Fulton County
 - Phone: 770-814-7001
 - Website: [www.cheeleylawgroup.com](https://www.cheeleylawgroup.com/)
 

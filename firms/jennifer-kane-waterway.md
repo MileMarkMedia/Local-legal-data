@@ -10,6 +10,7 @@ Jennifer Kane Waterway, P.A. is a Fort Lauderdale marital and family law firm se
 ## Contact
 
 - Address: 500 E. Broward Blvd., Suite 900, Fort Lauderdale, FL 33394
+- County: Broward County
 - Phone: 954-332-2410
 - Website: [www.waterwaylaw.com](https://www.waterwaylaw.com/)
 

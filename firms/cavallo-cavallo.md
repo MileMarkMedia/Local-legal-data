@@ -9,6 +9,7 @@ Cavallo & Cavallo is a family-owned law firm serving the Bronx, Westchester Coun
 ## Contact
 
 - Address: 3453 E. Tremont Avenue, Bronx, NY 10465
+- County: Bronx County
 - Phone: 718-822-2203
 - Website: [www.cavallolawyers.com](https://www.cavallolawyers.com/)
 

@@ -11,6 +11,7 @@ The Law Offices of Larry E. Bray, P.A. is a West Palm Beach probate, estate plan
 ## Contact
 
 - Address: 801 Northpoint Parkway, West Palm Beach, FL 33407
+- County: Palm Beach County
 - Phone: 561-571-8970
 - Website: [www.braylawoffices.com](https://www.braylawoffices.com/)
 

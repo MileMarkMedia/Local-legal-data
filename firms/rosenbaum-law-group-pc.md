@@ -9,6 +9,7 @@ Rosenbaum Law Group, PC is a personal injury law firm serving Portland and clien
 ## Contact
 
 - Address: 1826 NE Broadway, Portland, OR 97232
+- County: Multnomah County
 - Phone: 503-288-8000
 - Website: [www.rosenbaumlawgroup.com](https://www.rosenbaumlawgroup.com/)
 

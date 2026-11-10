@@ -9,6 +9,7 @@ The Law Offices of Christopher Eads, PLLC is a Mt. Juliet, Tennessee law firm fo
 ## Contact
 
 - Address: 1400 N Mt Juliet Rd, Suite 206, Mt. Juliet, TN 37122
+- County: Wilson County
 - Phone: 615-622-6060
 - Website: [www.chriseadslegal.com](https://www.chriseadslegal.com/)
 

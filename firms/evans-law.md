@@ -13,6 +13,7 @@ Evans Law is an Atlanta law firm focused on real estate litigation, serving clie
 ## Contact
 
 - Address: 750 Piedmont Ave NE, Atlanta, GA 30308
+- County: Fulton County
 - Phone: 404-276-0629
 - Website: [www.atlantarealestateattorney.com](https://www.atlantarealestateattorney.com/)
 

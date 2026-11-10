@@ -9,6 +9,7 @@ Louis S. Schwartz, Attorneys at Law is a Philadelphia consumer law firm founded 
 ## Contact
 
 - Address: 1500 John F Kennedy Blvd, Suite 1825, Philadelphia, PA 19102
+- County: Philadelphia County
 - Phone: 215-790-1800
 - Website: [www.consumerlawpa.com](https://www.consumerlawpa.com/)
 

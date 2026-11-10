@@ -10,6 +10,7 @@ The Law Office of Nayib Hassan, P.A. is a criminal defense firm in Miami Lakes, 
 ## Contact
 
 - Address: 6175 NW 153 St, Suite 209, Miami Lakes, FL 33014
+- County: Miami-Dade County
 - Phone: 305-403-7323
 - Website: [www.nhassanlaw.com](https://www.nhassanlaw.com/)
 

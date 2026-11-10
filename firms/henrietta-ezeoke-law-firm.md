@@ -9,6 +9,7 @@ Henrietta Ezeoke Law Firm, PLLC is a personal injury law firm serving Missouri C
 ## Contact
 
 - Address: 7070 Knights CT, Suite 1104, Missouri City, TX 77459
+- County: Fort Bend County
 - Phone: 713-234-0030
 - Website: [www.yourhoustoninjurylawyer.com](https://www.yourhoustoninjurylawyer.com/)
 

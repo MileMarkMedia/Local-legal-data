@@ -11,6 +11,7 @@ Kohl & Cook Law Firm LLC is an Ohio law firm focused on foreclosure defense, con
 ## Contact
 
 - Address: 438 E Wilson Bridge Rd, Suite 200, Worthington, OH 43085
+- County: Franklin County
 - Phone: 614-763-5111
 - Website: [www.kohlcook.com](https://www.kohlcook.com/)
 

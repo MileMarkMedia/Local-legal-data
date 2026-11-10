@@ -10,6 +10,7 @@ Jami L. Huber, P.A. is a West Palm Beach law firm focused on probate, trust, and
 ## Contact
 
 - Address: 500 South Australian Avenue, Suite 500, West Palm Beach, FL 33401
+- County: Palm Beach County
 - Phone: 561-283-4770
 - Website: [www.jamihuberlaw.com](https://www.jamihuberlaw.com/)
 

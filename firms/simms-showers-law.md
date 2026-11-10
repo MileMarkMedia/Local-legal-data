@@ -9,6 +9,7 @@ Simms Showers Law is a Leesburg, Virginia law firm handling criminal defense and
 ## Contact
 
 - Address: 305 Harrison Street SE, Third Floor, Leesburg, VA 20175
+- County: Loudoun County
 - Phone: 703-879-1364
 - Website: [www.simmsshowerslaw.com](https://www.simmsshowerslaw.com/)
 

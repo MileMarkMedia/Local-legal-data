@@ -9,6 +9,7 @@ Scott Law Team is a Florida employment law firm with offices in Jupiter, West Pa
 ## Contact
 
 - Address: 250 South Central Blvd, Suite 205, Jupiter, FL 33458
+- County: Palm Beach County
 - Phone: 561-653-0008
 - Website: [www.floridalaborlawyer.com](https://www.floridalaborlawyer.com/)
 

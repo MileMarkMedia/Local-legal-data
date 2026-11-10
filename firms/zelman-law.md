@@ -10,6 +10,7 @@ Zelman Law is a Tallahassee criminal defense and family law firm serving Leon, W
 ## Contact
 
 - Address: 1030 E Lafayette St, Suite 9, Tallahassee, FL 32301
+- County: Leon County
 - Phone: 850-765-5948
 - Website: [www.joshuadzelman.com](https://www.joshuadzelman.com/)
 

@@ -10,6 +10,7 @@ Bunde & Roberts, P.C. is a boutique family law practice serving Pittsburgh and W
 ## Contact
 
 - Address: 223 4th Avenue, Suite 500, Pittsburgh, PA 15222
+- County: Allegheny County
 - Phone: 412-391-4330
 - Website: [www.bunderoberts.com](https://www.bunderoberts.com/)
 

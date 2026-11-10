@@ -9,6 +9,7 @@ Lobo Law is a Las Vegas criminal defense firm led by attorney Adrian Marie Lobo,
 ## Contact
 
 - Address: 8872 S Eastern Ave, Suite 250, Las Vegas, NV 89123
+- County: Clark County
 - Phone: 702-290-8998
 - Website: [www.lvcriminallawfirm.com](https://www.lvcriminallawfirm.com/)
 

@@ -10,6 +10,7 @@ Connolly Injury Law is a Chicago firm focused on workers' compensation and perso
 ## Contact
 
 - Address: 1720 W Division Street, Chicago, IL 60622
+- County: Cook County
 - Phone: 312-780-0816
 - Website: [www.connollyinjurylaw.com](https://www.connollyinjurylaw.com/)
 

@@ -10,6 +10,7 @@ FL DUI Group is a DUI defense firm serving Orlando and Central Florida, with cas
 ## Contact
 
 - Address: 200 East Robinson Street, Suite 1140, Orlando, FL 32801
+- County: Orange County
 - Phone: 321-256-1141
 - Website: [www.flduigroup.com](https://www.flduigroup.com/)
 

@@ -11,6 +11,7 @@ Snyder Heitman LLC is a Greenville personal injury law firm serving the Upstate 
 ## Contact
 
 - Address: 50 Parkins Mill Road, Suite A, Greenville, SC 29607
+- County: Greenville County
 - Phone: 864-335-3500
 - Website: [www.davissnyderlaw.com](https://www.davissnyderlaw.com/)
 

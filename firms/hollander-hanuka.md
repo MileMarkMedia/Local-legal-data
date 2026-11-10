@@ -11,6 +11,7 @@ Hollander & Hanuka is a criminal defense firm serving Fort Myers and Lee County,
 ## Contact
 
 - Address: 1375 Jackson Street, Suite 405, Fort Myers, FL 33901
+- County: Lee County
 - Phone: 239-332-3300
 - Website: [www.criminalattorney-fortmyers.com](https://www.criminalattorney-fortmyers.com/)
 

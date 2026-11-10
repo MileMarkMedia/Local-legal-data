@@ -9,6 +9,7 @@ Gregory Tendrich, P.A. is a Florida investment, stockbroker, and securities frau
 ## Contact
 
 - Address: 3010 N. Military Trail, Suite 210, Boca Raton, FL 33431
+- County: Palm Beach County
 - Phone: 561-417-8777
 - Website: [www.yourstocklawyer.com](https://www.yourstocklawyer.com/)
 

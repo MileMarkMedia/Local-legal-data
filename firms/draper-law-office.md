@@ -10,6 +10,7 @@ Draper Law Office is a Kissimmee law firm focused on personal injury and family 
 ## Contact
 
 - Address: 705 W. Emmett Street, Kissimmee, FL 34741
+- County: Osceola County
 - Phone: 407-846-0075
 - Website: [www.draperlawoffice.com](https://www.draperlawoffice.com/)
 

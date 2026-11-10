@@ -10,6 +10,7 @@ Costanzo Law Firm, APC is an employment law firm serving San Jose, Palo Alto, Lo
 ## Contact
 
 - Address: 111 W. St. John Street, Suite 700, San Jose, CA 95113
+- County: Santa Clara County
 - Phone: 408-993-8493
 - Website: [www.costanzo-law.com](https://www.costanzo-law.com/)
 

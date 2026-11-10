@@ -11,6 +11,7 @@ Anderson & Ferrin is an Orlando family law and bankruptcy firm serving clients t
 ## Contact
 
 - Address: 1115 E. Livingston Street, Orlando, FL 32803
+- County: Orange County
 - Phone: 407-412-7041
 - Website: [www.vandersonlaw.com](https://www.vandersonlaw.com/)
 

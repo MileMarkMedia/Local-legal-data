@@ -10,6 +10,7 @@ Spencer Morgan Law is a Miami personal injury firm representing accident victims
 ## Contact
 
 - Address: 9155 S Dadeland Blvd, Suite 1104, Miami, FL 33156
+- County: Miami-Dade County
 - Phone: 305-423-3800
 - Website: [www.smorganlaw.com](https://www.smorganlaw.com/)
 

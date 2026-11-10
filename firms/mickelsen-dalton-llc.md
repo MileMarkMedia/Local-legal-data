@@ -9,6 +9,7 @@ Mickelsen Dalton LLC is a personal injury and wrongful death law firm based in C
 ## Contact
 
 - Address: 25 Society St., Charleston, SC 29401
+- County: Charleston County
 - Phone: 843-804-0428
 - Website: [www.mickelsendalton.com](https://www.mickelsendalton.com/)
 

@@ -10,6 +10,7 @@ Dominko & Swaim Law Group, PLLC (DSLG) is a boutique Sarasota law firm focused o
 ## Contact
 
 - Address: 6571 Palmer Park Cir, Sarasota, FL 34238
+- County: Sarasota County
 - Phone: 941-394-0183
 - Website: [www.dslawgroup.com](https://www.dslawgroup.com/)
 

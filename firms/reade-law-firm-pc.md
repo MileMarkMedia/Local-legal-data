@@ -9,6 +9,7 @@ Reade Law Firm, PC is a family law practice in Peabody serving individuals and f
 ## Contact
 
 - Address: 3 Essex Green Dr, Suite 2, Peabody, MA 01960
+- County: Essex County
 - Phone: 978-767-8383
 - Website: [www.rrlawfirm.net](https://www.rrlawfirm.net/)
 

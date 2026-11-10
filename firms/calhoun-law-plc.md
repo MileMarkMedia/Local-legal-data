@@ -9,6 +9,7 @@ Calhoun Law, PLC is a Nashville, Tennessee law firm focused on personal injury, 
 ## Contact
 
 - Address: 222 2nd Ave N, Suite 326, Nashville, TN 37201
+- County: Davidson County
 - Phone: 615-250-8000
 - Website: [www.calhounlawtn.com](https://www.calhounlawtn.com/)
 

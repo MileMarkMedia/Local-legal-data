@@ -10,6 +10,7 @@ Buckhead Family Law is an Atlanta family law firm handling divorce and related d
 ## Contact
 
 - Address: 3017 Bolling Way NE, First Floor, Atlanta, GA 30305
+- County: Fulton County
 - Phone: 404-390-0000
 - Website: [www.buckheadfamilylaw.com](https://www.buckheadfamilylaw.com/)
 

@@ -1,0 +1,1768 @@
+{
+ "alan-goldfarb-p-a": {
+  "county": "Miami-Dade County",
+  "county_fips": "086",
+  "geoid": "12086",
+  "matched": true,
+  "state_fips": "12"
+ },
+ "albaugh-law-firm": {
+  "county": "St. Johns County",
+  "county_fips": "109",
+  "geoid": "12109",
+  "matched": true,
+  "state_fips": "12"
+ },
+ "anderson-anderson": {
+  "county": "Hillsborough County",
+  "county_fips": "057",
+  "geoid": "12057",
+  "matched": true,
+  "state_fips": "12"
+ },
+ "anderson-ferrin": {
+  "county": "Orange County",
+  "county_fips": "095",
+  "geoid": "12095",
+  "matched": true,
+  "state_fips": "12"
+ },
+ "andrew-l-schwartz-p-c": {
+  "county": "Cobb County",
+  "county_fips": "067",
+  "geoid": "13067",
+  "matched": true,
+  "state_fips": "13"
+ },
+ "andrew-m-schwartz-legal-team": {
+  "county": "Palm Beach County",
+  "county_fips": "099",
+  "geoid": "12099",
+  "matched": true,
+  "state_fips": "12"
+ },
+ "anthony-z-vargas-esq-attorney-at-law": {
+  "county": "San Diego County",
+  "county_fips": "073",
+  "geoid": "06073",
+  "matched": true,
+  "state_fips": "06"
+ },
+ "argyris-mah-llp": {
+  "county": "Santa Clara County",
+  "county_fips": "085",
+  "geoid": "06085",
+  "matched": true,
+  "state_fips": "06"
+ },
+ "arnoux-sharma-standeford-llc": {
+  "county": "Cook County",
+  "county_fips": "031",
+  "geoid": "17031",
+  "matched": true,
+  "state_fips": "17"
+ },
+ "arwani-law-firm": {
+  "county": "Orange County",
+  "county_fips": "095",
+  "geoid": "12095",
+  "matched": true,
+  "state_fips": "12"
+ },
+ "baginski-brandt-brandt": {
+  "county": "St. Lucie County",
+  "county_fips": "111",
+  "geoid": "12111",
+  "matched": true,
+  "state_fips": "12"
+ },
+ "beal-crutcher": {
+  "county": "Williamson County",
+  "county_fips": "187",
+  "geoid": "47187",
+  "matched": true,
+  "state_fips": "47"
+ },
+ "bentz-holguin-law-firm-llc": {
+  "county": "Cook County",
+  "county_fips": "031",
+  "geoid": "17031",
+  "matched": true,
+  "state_fips": "17"
+ },
+ "berman-sobin-gross-llp": {
+  "county": "Montgomery County",
+  "county_fips": "031",
+  "geoid": "24031",
+  "matched": true,
+  "state_fips": "24"
+ },
+ "bigos-law": {
+  "matched": false
+ },
+ "bleakley-bavol-denman-grace": {
+  "county": "Hillsborough County",
+  "county_fips": "057",
+  "geoid": "12057",
+  "matched": true,
+  "state_fips": "12"
+ },
+ "boone-davis-attorneys-at-law": {
+  "county": "Broward County",
+  "county_fips": "011",
+  "geoid": "12011",
+  "matched": true,
+  "state_fips": "12"
+ },
+ "bowman-law-firm": {
+  "county": "Gwinnett County",
+  "county_fips": "135",
+  "geoid": "13135",
+  "matched": true,
+  "state_fips": "13"
+ },
+ "brian-g-miller-co-l-p-a": {
+  "county": "Franklin County",
+  "county_fips": "049",
+  "geoid": "39049",
+  "matched": true,
+  "state_fips": "39"
+ },
+ "bruce-s-rosenwater-associates-p-a": {
+  "county": "Palm Beach County",
+  "county_fips": "099",
+  "geoid": "12099",
+  "matched": true,
+  "state_fips": "12"
+ },
+ "bubley-bubley-p-a": {
+  "county": "Hillsborough County",
+  "county_fips": "057",
+  "geoid": "12057",
+  "matched": true,
+  "state_fips": "12"
+ },
+ "buckhead-family-law": {
+  "county": "Fulton County",
+  "county_fips": "121",
+  "geoid": "13121",
+  "matched": true,
+  "state_fips": "13"
+ },
+ "bunde-roberts-p-c": {
+  "county": "Allegheny County",
+  "county_fips": "003",
+  "geoid": "42003",
+  "matched": true,
+  "state_fips": "42"
+ },
+ "bundza-rodriguez-p-a": {
+  "county": "Volusia County",
+  "county_fips": "127",
+  "geoid": "12127",
+  "matched": true,
+  "state_fips": "12"
+ },
+ "cairns-law": {
+  "county": "Pinellas County",
+  "county_fips": "103",
+  "geoid": "12103",
+  "matched": true,
+  "state_fips": "12"
+ },
+ "calhoun-law-plc": {
+  "county": "Davidson County",
+  "county_fips": "037",
+  "geoid": "47037",
+  "matched": true,
+  "state_fips": "47"
+ },
+ "cardwell-steigerwald-young-llp": {
+  "county": "San Francisco County",
+  "county_fips": "075",
+  "geoid": "06075",
+  "matched": true,
+  "state_fips": "06"
+ },
+ "carroll-law-firm-llc": {
+  "county": "Fulton County",
+  "county_fips": "121",
+  "geoid": "13121",
+  "matched": true,
+  "state_fips": "13"
+ },
+ "cavallo-cavallo": {
+  "county": "Bronx County",
+  "county_fips": "005",
+  "geoid": "36005",
+  "matched": true,
+  "state_fips": "36"
+ },
+ "cessna-george-law-firm": {
+  "county": "Laurel County",
+  "county_fips": "125",
+  "geoid": "21125",
+  "matched": true,
+  "state_fips": "21"
+ },
+ "cheeley-law-group": {
+  "county": "Fulton County",
+  "county_fips": "121",
+  "geoid": "13121",
+  "matched": true,
+  "state_fips": "13"
+ },
+ "citizen-soldier-law": {
+  "county": "Morris County",
+  "county_fips": "027",
+  "geoid": "34027",
+  "matched": true,
+  "state_fips": "34"
+ },
+ "cohan-law-firm": {
+  "county": "New York County",
+  "county_fips": "061",
+  "geoid": "36061",
+  "matched": true,
+  "state_fips": "36"
+ },
+ "colvin-saenz-rodriguez-kennamer-llp": {
+  "county": "Cameron County",
+  "county_fips": "061",
+  "geoid": "48061",
+  "matched": true,
+  "state_fips": "48"
+ },
+ "connolly-injury-law": {
+  "county": "Cook County",
+  "county_fips": "031",
+  "geoid": "17031",
+  "matched": true,
+  "state_fips": "17"
+ },
+ "costanzo-law-firm-apc": {
+  "county": "Santa Clara County",
+  "county_fips": "085",
+  "geoid": "06085",
+  "matched": true,
+  "state_fips": "06"
+ },
+ "courtney-mills-llc": {
+  "county": "Greene County",
+  "county_fips": "077",
+  "geoid": "29077",
+  "matched": true,
+  "state_fips": "29"
+ },
+ "craig-d-earnhart-p-a": {
+  "county": "Palm Beach County",
+  "county_fips": "099",
+  "geoid": "12099",
+  "matched": true,
+  "state_fips": "12"
+ },
+ "d-amore-personal-injury-law-llc": {
+  "county": "Baltimore city",
+  "county_fips": "510",
+  "geoid": "24510",
+  "matched": true,
+  "state_fips": "24"
+ },
+ "daniel-j-fernandez-p-a": {
+  "county": "Hillsborough County",
+  "county_fips": "057",
+  "geoid": "12057",
+  "matched": true,
+  "state_fips": "12"
+ },
+ "daniel-m-copeland-attorney-at-law-p-a": {
+  "county": "Duval County",
+  "county_fips": "031",
+  "geoid": "12031",
+  "matched": true,
+  "state_fips": "12"
+ },
+ "daniel-t-fleischer-attorney-at-law": {
+  "county": "Broward County",
+  "county_fips": "011",
+  "geoid": "12011",
+  "matched": true,
+  "state_fips": "12"
+ },
+ "david-toback-attorney-at-law": {
+  "county": "Hillsborough County",
+  "county_fips": "057",
+  "geoid": "12057",
+  "matched": true,
+  "state_fips": "12"
+ },
+ "devore-law-group-p-a": {
+  "county": "Palm Beach County",
+  "county_fips": "099",
+  "geoid": "12099",
+  "matched": true,
+  "state_fips": "12"
+ },
+ "dominko-swaim-law-group-pllc": {
+  "county": "Sarasota County",
+  "county_fips": "115",
+  "geoid": "12115",
+  "matched": true,
+  "state_fips": "12"
+ },
+ "donna-hung-law-group": {
+  "county": "Orange County",
+  "county_fips": "095",
+  "geoid": "12095",
+  "matched": true,
+  "state_fips": "12"
+ },
+ "draper-law-office": {
+  "county": "Osceola County",
+  "county_fips": "097",
+  "geoid": "12097",
+  "matched": true,
+  "state_fips": "12"
+ },
+ "drew-fritsch-law-firm-p-a": {
+  "county": "Charlotte County",
+  "county_fips": "015",
+  "geoid": "12015",
+  "matched": true,
+  "state_fips": "12"
+ },
+ "drude-tomori-law-pa": {
+  "county": "Pinellas County",
+  "county_fips": "103",
+  "geoid": "12103",
+  "matched": true,
+  "state_fips": "12"
+ },
+ "edward-j-jennings-p-a": {
+  "county": "Broward County",
+  "county_fips": "011",
+  "geoid": "12011",
+  "matched": true,
+  "state_fips": "12"
+ },
+ "empowerment-legal-pllc": {
+  "county": "Clay County",
+  "county_fips": "019",
+  "geoid": "12019",
+  "matched": true,
+  "state_fips": "12"
+ },
+ "escobar-law-offices": {
+  "county": "Fairfax County",
+  "county_fips": "059",
+  "geoid": "51059",
+  "matched": true,
+  "state_fips": "51"
+ },
+ "evans-bowers": {
+  "county": "Fulton County",
+  "county_fips": "121",
+  "geoid": "13121",
+  "matched": true,
+  "state_fips": "13"
+ },
+ "evans-law": {
+  "county": "Fulton County",
+  "county_fips": "121",
+  "geoid": "13121",
+  "matched": true,
+  "state_fips": "13"
+ },
+ "fanning-law-llc": {
+  "county": "Charles County",
+  "county_fips": "017",
+  "geoid": "24017",
+  "matched": true,
+  "state_fips": "24"
+ },
+ "farley-weed-llc": {
+  "county": "Pike County",
+  "county_fips": "103",
+  "geoid": "42103",
+  "matched": true,
+  "state_fips": "42"
+ },
+ "farrell-disability-law": {
+  "county": "Duval County",
+  "county_fips": "031",
+  "geoid": "12031",
+  "matched": true,
+  "state_fips": "12"
+ },
+ "faulkner-law-group-pllc": {
+  "county": "Hillsborough County",
+  "county_fips": "057",
+  "geoid": "12057",
+  "matched": true,
+  "state_fips": "12"
+ },
+ "fisher-law-llc": {
+  "county": "Norfolk County",
+  "county_fips": "021",
+  "geoid": "25021",
+  "matched": true,
+  "state_fips": "25"
+ },
+ "fisher-wilsey-p-a": {
+  "county": "Pinellas County",
+  "county_fips": "103",
+  "geoid": "12103",
+  "matched": true,
+  "state_fips": "12"
+ },
+ "fl-drug-defense-group": {
+  "county": "Orange County",
+  "county_fips": "095",
+  "geoid": "12095",
+  "matched": true,
+  "state_fips": "12"
+ },
+ "fl-dui-group": {
+  "county": "Orange County",
+  "county_fips": "095",
+  "geoid": "12095",
+  "matched": true,
+  "state_fips": "12"
+ },
+ "flores-pllc": {
+  "county": "Travis County",
+  "county_fips": "453",
+  "geoid": "48453",
+  "matched": true,
+  "state_fips": "48"
+ },
+ "florida-law-advisers-p-a": {
+  "county": "Hillsborough County",
+  "county_fips": "057",
+  "geoid": "12057",
+  "matched": true,
+  "state_fips": "12"
+ },
+ "florin-gray": {
+  "county": "Hillsborough County",
+  "county_fips": "057",
+  "geoid": "12057",
+  "matched": true,
+  "state_fips": "12"
+ },
+ "foley-wilson-law-firm": {
+  "county": "Lee County",
+  "county_fips": "071",
+  "geoid": "12071",
+  "matched": true,
+  "state_fips": "12"
+ },
+ "foster-hsu-llp": {
+  "county": "Santa Clara County",
+  "county_fips": "085",
+  "geoid": "06085",
+  "matched": true,
+  "state_fips": "06"
+ },
+ "fox-farley-willis-burnette": {
+  "county": "Anderson County",
+  "county_fips": "001",
+  "geoid": "47001",
+  "matched": true,
+  "state_fips": "47"
+ },
+ "franco-law-firm": {
+  "county": "Hillsborough County",
+  "county_fips": "057",
+  "geoid": "12057",
+  "matched": true,
+  "state_fips": "12"
+ },
+ "fuxa-tyler": {
+  "county": "Broward County",
+  "county_fips": "011",
+  "geoid": "12011",
+  "matched": true,
+  "state_fips": "12"
+ },
+ "gale-h-moore-p-a": {
+  "county": "Pinellas County",
+  "county_fips": "103",
+  "geoid": "12103",
+  "matched": true,
+  "state_fips": "12"
+ },
+ "ghandi-deeter-blackham-law-offices": {
+  "county": "Clark County",
+  "county_fips": "003",
+  "geoid": "32003",
+  "matched": true,
+  "state_fips": "32"
+ },
+ "gierach-and-gierach-p-a": {
+  "county": "Orange County",
+  "county_fips": "095",
+  "geoid": "12095",
+  "matched": true,
+  "state_fips": "12"
+ },
+ "gillette-law-p-a": {
+  "county": "Duval County",
+  "county_fips": "031",
+  "geoid": "12031",
+  "matched": true,
+  "state_fips": "12"
+ },
+ "godfrey-legal": {
+  "county": "Orange County",
+  "county_fips": "095",
+  "geoid": "12095",
+  "matched": true,
+  "state_fips": "12"
+ },
+ "goldshaw-greenblatt-pierce-llc": {
+  "county": "Philadelphia County",
+  "county_fips": "101",
+  "geoid": "42101",
+  "matched": true,
+  "state_fips": "42"
+ },
+ "greater-orlando-family-law": {
+  "county": "Orange County",
+  "county_fips": "095",
+  "geoid": "12095",
+  "matched": true,
+  "state_fips": "12"
+ },
+ "gregory-tendrich-p-a": {
+  "county": "Palm Beach County",
+  "county_fips": "099",
+  "geoid": "12099",
+  "matched": true,
+  "state_fips": "12"
+ },
+ "gunn-law-group-p-a": {
+  "county": "Hillsborough County",
+  "county_fips": "057",
+  "geoid": "12057",
+  "matched": true,
+  "state_fips": "12"
+ },
+ "gustad-law-group": {
+  "county": "King County",
+  "county_fips": "033",
+  "geoid": "53033",
+  "matched": true,
+  "state_fips": "53"
+ },
+ "halpern-santos-pinkert-p-a": {
+  "county": "Miami-Dade County",
+  "county_fips": "086",
+  "geoid": "12086",
+  "matched": true,
+  "state_fips": "12"
+ },
+ "halpern-santos-pinkert-p-a-tire-defects": {
+  "county": "Miami-Dade County",
+  "county_fips": "086",
+  "geoid": "12086",
+  "matched": true,
+  "state_fips": "12"
+ },
+ "hamilton-o-neill": {
+  "county": "Miami-Dade County",
+  "county_fips": "086",
+  "geoid": "12086",
+  "matched": true,
+  "state_fips": "12"
+ },
+ "hammad-s-matin-p-a": {
+  "county": "Charles County",
+  "county_fips": "017",
+  "geoid": "24017",
+  "matched": true,
+  "state_fips": "24"
+ },
+ "henrietta-ezeoke-law-firm": {
+  "county": "Fort Bend County",
+  "county_fips": "157",
+  "geoid": "48157",
+  "matched": true,
+  "state_fips": "48"
+ },
+ "hillen-druek-pllc": {
+  "county": "Suffolk County",
+  "county_fips": "103",
+  "geoid": "36103",
+  "matched": true,
+  "state_fips": "36"
+ },
+ "hollander-hanuka": {
+  "county": "Lee County",
+  "county_fips": "071",
+  "geoid": "12071",
+  "matched": true,
+  "state_fips": "12"
+ },
+ "hornsby-law": {
+  "county": "Orange County",
+  "county_fips": "095",
+  "geoid": "12095",
+  "matched": true,
+  "state_fips": "12"
+ },
+ "hoy-law": {
+  "county": "Lincoln County",
+  "county_fips": "083",
+  "geoid": "46083",
+  "matched": true,
+  "state_fips": "46"
+ },
+ "hunt-law": {
+  "county": "Pinellas County",
+  "county_fips": "103",
+  "geoid": "12103",
+  "matched": true,
+  "state_fips": "12"
+ },
+ "iamele-iamele-llp": {
+  "county": "Baltimore city",
+  "county_fips": "510",
+  "geoid": "24510",
+  "matched": true,
+  "state_fips": "24"
+ },
+ "injury-law-group-nw": {
+  "county": "King County",
+  "county_fips": "033",
+  "geoid": "53033",
+  "matched": true,
+  "state_fips": "53"
+ },
+ "ira-h-weinstock-p-c": {
+  "county": "Dauphin County",
+  "county_fips": "043",
+  "geoid": "42043",
+  "matched": true,
+  "state_fips": "42"
+ },
+ "israoui-law": {
+  "county": "Orange County",
+  "county_fips": "095",
+  "geoid": "12095",
+  "matched": true,
+  "state_fips": "12"
+ },
+ "jami-l-huber-p-a": {
+  "county": "Palm Beach County",
+  "county_fips": "099",
+  "geoid": "12099",
+  "matched": true,
+  "state_fips": "12"
+ },
+ "jaroslawicz-jaros-pllc": {
+  "county": "New York County",
+  "county_fips": "061",
+  "geoid": "36061",
+  "matched": true,
+  "state_fips": "36"
+ },
+ "jennifer-kane-waterway": {
+  "county": "Broward County",
+  "county_fips": "011",
+  "geoid": "12011",
+  "matched": true,
+  "state_fips": "12"
+ },
+ "john-reed-attorney-at-law": {
+  "county": "Galveston County",
+  "county_fips": "167",
+  "geoid": "48167",
+  "matched": true,
+  "state_fips": "48"
+ },
+ "joshi-law-firm-pa": {
+  "county": "Orange County",
+  "county_fips": "095",
+  "geoid": "12095",
+  "matched": true,
+  "state_fips": "12"
+ },
+ "justin-spizman": {
+  "county": "DeKalb County",
+  "county_fips": "089",
+  "geoid": "13089",
+  "matched": true,
+  "state_fips": "13"
+ },
+ "kainen-law-group-pllc": {
+  "county": "Clark County",
+  "county_fips": "003",
+  "geoid": "32003",
+  "matched": true,
+  "state_fips": "32"
+ },
+ "kaye-lembeck-hitt-french-family-law": {
+  "county": "Fulton County",
+  "county_fips": "121",
+  "geoid": "13121",
+  "matched": true,
+  "state_fips": "13"
+ },
+ "kelley-kaplan-delaney-eller-pllc": {
+  "county": "Palm Beach County",
+  "county_fips": "099",
+  "geoid": "12099",
+  "matched": true,
+  "state_fips": "12"
+ },
+ "kevin-l-hand-p-c": {
+  "county": "Bucks County",
+  "county_fips": "017",
+  "geoid": "42017",
+  "matched": true,
+  "state_fips": "42"
+ },
+ "killian-davis-richter-p-c": {
+  "county": "Mesa County",
+  "county_fips": "077",
+  "geoid": "08077",
+  "matched": true,
+  "state_fips": "08"
+ },
+ "king-law-group": {
+  "county": "Pinellas County",
+  "county_fips": "103",
+  "geoid": "12103",
+  "matched": true,
+  "state_fips": "12"
+ },
+ "kitroser-lewis-mighdoll": {
+  "county": "Palm Beach County",
+  "county_fips": "099",
+  "geoid": "12099",
+  "matched": true,
+  "state_fips": "12"
+ },
+ "knudsen-law": {
+  "county": "Hillsborough County",
+  "county_fips": "057",
+  "geoid": "12057",
+  "matched": true,
+  "state_fips": "12"
+ },
+ "kobal-law": {
+  "county": "Hillsborough County",
+  "county_fips": "057",
+  "geoid": "12057",
+  "matched": true,
+  "state_fips": "12"
+ },
+ "kohl-cook-law-firm-llc": {
+  "county": "Franklin County",
+  "county_fips": "049",
+  "geoid": "39049",
+  "matched": true,
+  "state_fips": "39"
+ },
+ "kohn-law": {
+  "county": "Hillsborough County",
+  "county_fips": "057",
+  "geoid": "12057",
+  "matched": true,
+  "state_fips": "12"
+ },
+ "konn-llc": {
+  "county": "Fulton County",
+  "county_fips": "121",
+  "geoid": "13121",
+  "matched": true,
+  "state_fips": "13"
+ },
+ "larsen-rico-pllc": {
+  "county": "Salt Lake County",
+  "county_fips": "035",
+  "geoid": "49035",
+  "matched": true,
+  "state_fips": "49"
+ },
+ "law-office-of-brian-s-karpe-llc": {
+  "county": "Capitol Planning Region",
+  "county_fips": "110",
+  "geoid": "09110",
+  "matched": true,
+  "state_fips": "09"
+ },
+ "law-office-of-israel-garcia": {
+  "county": "Bexar County",
+  "county_fips": "029",
+  "geoid": "48029",
+  "matched": true,
+  "state_fips": "48"
+ },
+ "law-office-of-jason-m-sullivan-pllc": {
+  "county": "Rockingham County",
+  "county_fips": "015",
+  "geoid": "33015",
+  "matched": true,
+  "state_fips": "33"
+ },
+ "law-office-of-joseph-linnehan-jr": {
+  "county": "Suffolk County",
+  "county_fips": "025",
+  "geoid": "25025",
+  "matched": true,
+  "state_fips": "25"
+ },
+ "law-office-of-kevin-f-coleman": {
+  "county": "Pinellas County",
+  "county_fips": "103",
+  "geoid": "12103",
+  "matched": true,
+  "state_fips": "12"
+ },
+ "law-office-of-linda-kenney-baden": {
+  "county": "New York County",
+  "county_fips": "061",
+  "geoid": "36061",
+  "matched": true,
+  "state_fips": "36"
+ },
+ "law-office-of-manning-zimmerman-oliveira-pllc": {
+  "county": "Hillsborough County",
+  "county_fips": "011",
+  "geoid": "33011",
+  "matched": true,
+  "state_fips": "33"
+ },
+ "law-office-of-michael-lawrence-varon-pllc": {
+  "county": "Westchester County",
+  "county_fips": "119",
+  "geoid": "36119",
+  "matched": true,
+  "state_fips": "36"
+ },
+ "law-office-of-nayib-hassan-p-a": {
+  "county": "Miami-Dade County",
+  "county_fips": "086",
+  "geoid": "12086",
+  "matched": true,
+  "state_fips": "12"
+ },
+ "law-office-of-shane-r-kadlec": {
+  "county": "Harris County",
+  "county_fips": "201",
+  "geoid": "48201",
+  "matched": true,
+  "state_fips": "48"
+ },
+ "law-office-of-steven-g-lavely": {
+  "county": "Manatee County",
+  "county_fips": "081",
+  "geoid": "12081",
+  "matched": true,
+  "state_fips": "12"
+ },
+ "law-office-of-taryn-g-sinatra-p-a": {
+  "county": "Palm Beach County",
+  "county_fips": "099",
+  "geoid": "12099",
+  "matched": true,
+  "state_fips": "12"
+ },
+ "law-office-of-vanessa-r-dozier-llc": {
+  "county": "Howard County",
+  "county_fips": "027",
+  "geoid": "24027",
+  "matched": true,
+  "state_fips": "24"
+ },
+ "law-office-of-wilfredo-o-allen": {
+  "county": "Miami-Dade County",
+  "county_fips": "086",
+  "geoid": "12086",
+  "matched": true,
+  "state_fips": "12"
+ },
+ "law-offices-of-carol-m-galloway-p-a": {
+  "county": "Duval County",
+  "county_fips": "031",
+  "geoid": "12031",
+  "matched": true,
+  "state_fips": "12"
+ },
+ "law-offices-of-david-m-benenfeld-p-a": {
+  "county": "Broward County",
+  "county_fips": "011",
+  "geoid": "12011",
+  "matched": true,
+  "state_fips": "12"
+ },
+ "law-offices-of-gary-e-gerson": {
+  "county": "Allegheny County",
+  "county_fips": "003",
+  "geoid": "42003",
+  "matched": true,
+  "state_fips": "42"
+ },
+ "law-offices-of-gilbert-a-schaffnit": {
+  "county": "Alachua County",
+  "county_fips": "001",
+  "geoid": "12001",
+  "matched": true,
+  "state_fips": "12"
+ },
+ "law-offices-of-kisha-m-hebbon-llc": {
+  "county": "Somerset County",
+  "county_fips": "035",
+  "geoid": "34035",
+  "matched": true,
+  "state_fips": "34"
+ },
+ "law-offices-of-larry-e-bray-p-a": {
+  "county": "Palm Beach County",
+  "county_fips": "099",
+  "geoid": "12099",
+  "matched": true,
+  "state_fips": "12"
+ },
+ "law-offices-of-lauren-h-kane": {
+  "county": "Philadelphia County",
+  "county_fips": "101",
+  "geoid": "42101",
+  "matched": true,
+  "state_fips": "42"
+ },
+ "law-offices-of-michael-p-burakoff-p-a": {
+  "matched": false
+ },
+ "law-offices-of-stephen-v-barszcz": {
+  "county": "Pinellas County",
+  "county_fips": "103",
+  "geoid": "12103",
+  "matched": true,
+  "state_fips": "12"
+ },
+ "law-offices-of-steve-w-marsee-p-a": {
+  "county": "Orange County",
+  "county_fips": "095",
+  "geoid": "12095",
+  "matched": true,
+  "state_fips": "12"
+ },
+ "law-offices-of-steven-a-mason-p-a": {
+  "county": "Broward County",
+  "county_fips": "011",
+  "geoid": "12011",
+  "matched": true,
+  "state_fips": "12"
+ },
+ "law-offices-of-timothy-grabe": {
+  "county": "Multnomah County",
+  "county_fips": "051",
+  "geoid": "41051",
+  "matched": true,
+  "state_fips": "41"
+ },
+ "legacy-protection-lawyers-llp": {
+  "county": "Pinellas County",
+  "county_fips": "103",
+  "geoid": "12103",
+  "matched": true,
+  "state_fips": "12"
+ },
+ "leifer-ramirez": {
+  "county": "Palm Beach County",
+  "county_fips": "099",
+  "geoid": "12099",
+  "matched": true,
+  "state_fips": "12"
+ },
+ "lindamood-robinson-p-c": {
+  "county": "Harris County",
+  "county_fips": "201",
+  "geoid": "48201",
+  "matched": true,
+  "state_fips": "48"
+ },
+ "linkhorst-law-firm-p-a": {
+  "county": "Palm Beach County",
+  "county_fips": "099",
+  "geoid": "12099",
+  "matched": true,
+  "state_fips": "12"
+ },
+ "lobo-law": {
+  "county": "Clark County",
+  "county_fips": "003",
+  "geoid": "32003",
+  "matched": true,
+  "state_fips": "32"
+ },
+ "louis-s-schwartz-attorneys-at-law": {
+  "county": "Philadelphia County",
+  "county_fips": "101",
+  "geoid": "42101",
+  "matched": true,
+  "state_fips": "42"
+ },
+ "luke-newman-p-a": {
+  "county": "Leon County",
+  "county_fips": "073",
+  "geoid": "12073",
+  "matched": true,
+  "state_fips": "12"
+ },
+ "lunsford-baskin-priebe-pllc": {
+  "county": "Orleans Parish",
+  "county_fips": "071",
+  "geoid": "22071",
+  "matched": true,
+  "state_fips": "22"
+ },
+ "madonna-law-group": {
+  "county": "Pasco County",
+  "county_fips": "101",
+  "geoid": "12101",
+  "matched": true,
+  "state_fips": "12"
+ },
+ "mainor-ellis-injury-lawyers": {
+  "county": "Clark County",
+  "county_fips": "003",
+  "geoid": "32003",
+  "matched": true,
+  "state_fips": "32"
+ },
+ "mark-david-shirian-p-c": {
+  "county": "New York County",
+  "county_fips": "061",
+  "geoid": "36061",
+  "matched": true,
+  "state_fips": "36"
+ },
+ "mark-r-manceri-p-a": {
+  "matched": false
+ },
+ "maryland-injury-lawyers": {
+  "county": "Baltimore city",
+  "county_fips": "510",
+  "geoid": "24510",
+  "matched": true,
+  "state_fips": "24"
+ },
+ "mcbride-legal-group-p-a": {
+  "county": "Martin County",
+  "county_fips": "085",
+  "geoid": "12085",
+  "matched": true,
+  "state_fips": "12"
+ },
+ "medura-family-law": {
+  "county": "Salt Lake County",
+  "county_fips": "035",
+  "geoid": "49035",
+  "matched": true,
+  "state_fips": "49"
+ },
+ "meros-brennan-brennan-p-a": {
+  "county": "Pinellas County",
+  "county_fips": "103",
+  "geoid": "12103",
+  "matched": true,
+  "state_fips": "12"
+ },
+ "messina-law-group-p-a": {
+  "county": "Pasco County",
+  "county_fips": "101",
+  "geoid": "12101",
+  "matched": true,
+  "state_fips": "12"
+ },
+ "miaoulis-law": {
+  "county": "Pinellas County",
+  "county_fips": "103",
+  "geoid": "12103",
+  "matched": true,
+  "state_fips": "12"
+ },
+ "michael-w-modica-attorney-at-law": {
+  "county": "New Castle County",
+  "county_fips": "003",
+  "geoid": "10003",
+  "matched": true,
+  "state_fips": "10"
+ },
+ "mickelsen-dalton-llc": {
+  "county": "Charleston County",
+  "county_fips": "019",
+  "geoid": "45019",
+  "matched": true,
+  "state_fips": "45"
+ },
+ "moore-law": {
+  "county": "Hillsborough County",
+  "county_fips": "057",
+  "geoid": "12057",
+  "matched": true,
+  "state_fips": "12"
+ },
+ "morain-buckelew-llc": {
+  "county": "Fulton County",
+  "county_fips": "121",
+  "geoid": "13121",
+  "matched": true,
+  "state_fips": "13"
+ },
+ "murray-murray-personal-injury-attorneys": {
+  "county": "Erie County",
+  "county_fips": "043",
+  "geoid": "39043",
+  "matched": true,
+  "state_fips": "39"
+ },
+ "musleh-law-firm": {
+  "county": "Marion County",
+  "county_fips": "083",
+  "geoid": "12083",
+  "matched": true,
+  "state_fips": "12"
+ },
+ "my-florida-deed": {
+  "county": "Orange County",
+  "county_fips": "095",
+  "geoid": "12095",
+  "matched": true,
+  "state_fips": "12"
+ },
+ "nationwide-disability-law": {
+  "county": "Macomb County",
+  "county_fips": "099",
+  "geoid": "26099",
+  "matched": true,
+  "state_fips": "26"
+ },
+ "neuman-law-pa": {
+  "matched": false
+ },
+ "nowack-olson-pllc": {
+  "county": "Broward County",
+  "county_fips": "011",
+  "geoid": "12011",
+  "matched": true,
+  "state_fips": "12"
+ },
+ "o-connell-law-firm": {
+  "county": "DeKalb County",
+  "county_fips": "089",
+  "geoid": "13089",
+  "matched": true,
+  "state_fips": "13"
+ },
+ "oa-law-firm": {
+  "county": "Hillsborough County",
+  "county_fips": "057",
+  "geoid": "12057",
+  "matched": true,
+  "state_fips": "12"
+ },
+ "orlando-accident-attorneys": {
+  "county": "Orange County",
+  "county_fips": "095",
+  "geoid": "12095",
+  "matched": true,
+  "state_fips": "12"
+ },
+ "patel-law-pc": {
+  "county": "Champaign County",
+  "county_fips": "019",
+  "geoid": "17019",
+  "matched": true,
+  "state_fips": "17"
+ },
+ "peeples-law": {
+  "matched": false
+ },
+ "pendas-law-firm": {
+  "county": "Orange County",
+  "county_fips": "095",
+  "geoid": "12095",
+  "matched": true,
+  "state_fips": "12"
+ },
+ "perkins-law": {
+  "county": "Palm Beach County",
+  "county_fips": "099",
+  "geoid": "12099",
+  "matched": true,
+  "state_fips": "12"
+ },
+ "perlet-shiner-p-a": {
+  "county": "Palm Beach County",
+  "county_fips": "099",
+  "geoid": "12099",
+  "matched": true,
+  "state_fips": "12"
+ },
+ "phillip-j-murphy-attorney-at-law": {
+  "county": "Rockland County",
+  "county_fips": "087",
+  "geoid": "36087",
+  "matched": true,
+  "state_fips": "36"
+ },
+ "pierce-law-firm": {
+  "county": "Harris County",
+  "county_fips": "201",
+  "geoid": "48201",
+  "matched": true,
+  "state_fips": "48"
+ },
+ "pike-lustig-llp": {
+  "county": "Palm Beach County",
+  "county_fips": "099",
+  "geoid": "12099",
+  "matched": true,
+  "state_fips": "12"
+ },
+ "pita-weber-del-prado": {
+  "county": "Miami-Dade County",
+  "county_fips": "086",
+  "geoid": "12086",
+  "matched": true,
+  "state_fips": "12"
+ },
+ "poulos-lopiccolo-pc": {
+  "county": "Monmouth County",
+  "county_fips": "025",
+  "geoid": "34025",
+  "matched": true,
+  "state_fips": "34"
+ },
+ "pursley-law-firm": {
+  "county": "San Diego County",
+  "county_fips": "073",
+  "geoid": "06073",
+  "matched": true,
+  "state_fips": "06"
+ },
+ "rabin-kammerer-johnson": {
+  "county": "Palm Beach County",
+  "county_fips": "099",
+  "geoid": "12099",
+  "matched": true,
+  "state_fips": "12"
+ },
+ "ratzan-faccidomo-llc": {
+  "county": "Miami-Dade County",
+  "county_fips": "086",
+  "geoid": "12086",
+  "matched": true,
+  "state_fips": "12"
+ },
+ "reade-law-firm-pc": {
+  "county": "Essex County",
+  "county_fips": "009",
+  "geoid": "25009",
+  "matched": true,
+  "state_fips": "25"
+ },
+ "reynolds-atkins-brezina-stewart-pllc": {
+  "county": "Knox County",
+  "county_fips": "093",
+  "geoid": "47093",
+  "matched": true,
+  "state_fips": "47"
+ },
+ "rigney-law-llc": {
+  "county": "Marion County",
+  "county_fips": "097",
+  "geoid": "18097",
+  "matched": true,
+  "state_fips": "18"
+ },
+ "riley-law-llc": {
+  "county": "Greater Bridgeport Planning Region",
+  "county_fips": "120",
+  "geoid": "09120",
+  "matched": true,
+  "state_fips": "09"
+ },
+ "rinaldo-law-group": {
+  "county": "Hillsborough County",
+  "county_fips": "057",
+  "geoid": "12057",
+  "matched": true,
+  "state_fips": "12"
+ },
+ "robert-e-craven-associates": {
+  "county": "Washington County",
+  "county_fips": "009",
+  "geoid": "44009",
+  "matched": true,
+  "state_fips": "44"
+ },
+ "robert-s-norell-p-a": {
+  "county": "Broward County",
+  "county_fips": "011",
+  "geoid": "12011",
+  "matched": true,
+  "state_fips": "12"
+ },
+ "ronald-cutler-p-a": {
+  "county": "Volusia County",
+  "county_fips": "127",
+  "geoid": "12127",
+  "matched": true,
+  "state_fips": "12"
+ },
+ "rosenbaum-law-group-pc": {
+  "county": "Multnomah County",
+  "county_fips": "051",
+  "geoid": "41051",
+  "matched": true,
+  "state_fips": "41"
+ },
+ "salazar-kelly-law-group-p-a": {
+  "county": "Osceola County",
+  "county_fips": "097",
+  "geoid": "12097",
+  "matched": true,
+  "state_fips": "12"
+ },
+ "sandra-bonfiglio-p-a": {
+  "county": "Broward County",
+  "county_fips": "011",
+  "geoid": "12011",
+  "matched": true,
+  "state_fips": "12"
+ },
+ "sanvenero-cittadino-llc": {
+  "county": "Monmouth County",
+  "county_fips": "025",
+  "geoid": "34025",
+  "matched": true,
+  "state_fips": "34"
+ },
+ "schlaich-thompson-chartered": {
+  "county": "Harford County",
+  "county_fips": "025",
+  "geoid": "24025",
+  "matched": true,
+  "state_fips": "24"
+ },
+ "schwartz-kalina": {
+  "county": "Loudoun County",
+  "county_fips": "107",
+  "geoid": "51107",
+  "matched": true,
+  "state_fips": "51"
+ },
+ "schwartz-white": {
+  "county": "Palm Beach County",
+  "county_fips": "099",
+  "geoid": "12099",
+  "matched": true,
+  "state_fips": "12"
+ },
+ "sconzo-law-office": {
+  "county": "Palm Beach County",
+  "county_fips": "099",
+  "geoid": "12099",
+  "matched": true,
+  "state_fips": "12"
+ },
+ "scott-law-team": {
+  "county": "Palm Beach County",
+  "county_fips": "099",
+  "geoid": "12099",
+  "matched": true,
+  "state_fips": "12"
+ },
+ "scriven-law-p-a": {
+  "county": "Hillsborough County",
+  "county_fips": "057",
+  "geoid": "12057",
+  "matched": true,
+  "state_fips": "12"
+ },
+ "seward-law-office-p-a": {
+  "county": "Hillsborough County",
+  "county_fips": "057",
+  "geoid": "12057",
+  "matched": true,
+  "state_fips": "12"
+ },
+ "shelbourne-law": {
+  "county": "Dorchester County",
+  "county_fips": "035",
+  "geoid": "45035",
+  "matched": true,
+  "state_fips": "45"
+ },
+ "shirazi-immigration-law-inc": {
+  "county": "Fulton County",
+  "county_fips": "121",
+  "geoid": "13121",
+  "matched": true,
+  "state_fips": "13"
+ },
+ "shiver-hamilton-campbell": {
+  "county": "Fulton County",
+  "county_fips": "121",
+  "geoid": "13121",
+  "matched": true,
+  "state_fips": "13"
+ },
+ "simmons-law-firm": {
+  "county": "Richland County",
+  "county_fips": "079",
+  "geoid": "45079",
+  "matched": true,
+  "state_fips": "45"
+ },
+ "simms-showers-law": {
+  "county": "Loudoun County",
+  "county_fips": "107",
+  "geoid": "51107",
+  "matched": true,
+  "state_fips": "51"
+ },
+ "sluka-law-plc": {
+  "county": "Windsor County",
+  "county_fips": "027",
+  "geoid": "50027",
+  "matched": true,
+  "state_fips": "50"
+ },
+ "smith-ball-b-ez-prather": {
+  "county": "Palm Beach County",
+  "county_fips": "099",
+  "geoid": "12099",
+  "matched": true,
+  "state_fips": "12"
+ },
+ "snyder-heitman-llc": {
+  "county": "Greenville County",
+  "county_fips": "045",
+  "geoid": "45045",
+  "matched": true,
+  "state_fips": "45"
+ },
+ "spencer-morgan-law": {
+  "county": "Miami-Dade County",
+  "county_fips": "086",
+  "geoid": "12086",
+  "matched": true,
+  "state_fips": "12"
+ },
+ "steinberg-law-p-a": {
+  "county": "Palm Beach County",
+  "county_fips": "099",
+  "geoid": "12099",
+  "matched": true,
+  "state_fips": "12"
+ },
+ "steinhardt-siskind-and-lieberman-llc": {
+  "county": "Anne Arundel County",
+  "county_fips": "003",
+  "geoid": "24003",
+  "matched": true,
+  "state_fips": "24"
+ },
+ "suncoast-civil-law": {
+  "county": "Sarasota County",
+  "county_fips": "115",
+  "geoid": "12115",
+  "matched": true,
+  "state_fips": "12"
+ },
+ "sweeney-law-p-a": {
+  "county": "Broward County",
+  "county_fips": "011",
+  "geoid": "12011",
+  "matched": true,
+  "state_fips": "12"
+ },
+ "the-baez-law-firm": {
+  "county": "Miami-Dade County",
+  "county_fips": "086",
+  "geoid": "12086",
+  "matched": true,
+  "state_fips": "12"
+ },
+ "the-beach-law-firm": {
+  "matched": false
+ },
+ "the-cahall-law-firm-pllc": {
+  "county": "Manatee County",
+  "county_fips": "081",
+  "geoid": "12081",
+  "matched": true,
+  "state_fips": "12"
+ },
+ "the-forsythe-law-firm-llc": {
+  "county": "DeKalb County",
+  "county_fips": "089",
+  "geoid": "13089",
+  "matched": true,
+  "state_fips": "13"
+ },
+ "the-garza-firm": {
+  "county": "Orange County",
+  "county_fips": "059",
+  "geoid": "06059",
+  "matched": true,
+  "state_fips": "06"
+ },
+ "the-law-firm-of-r-sam": {
+  "county": "Stanislaus County",
+  "county_fips": "099",
+  "geoid": "06099",
+  "matched": true,
+  "state_fips": "06"
+ },
+ "the-law-office-of-adam-r-weaver-esq": {
+  "county": "Carbon County",
+  "county_fips": "025",
+  "geoid": "42025",
+  "matched": true,
+  "state_fips": "42"
+ },
+ "the-law-office-of-angela-n-manz": {
+  "county": "Virginia Beach city",
+  "county_fips": "810",
+  "geoid": "51810",
+  "matched": true,
+  "state_fips": "51"
+ },
+ "the-law-office-of-julia-kefalinos-p-a": {
+  "county": "Miami-Dade County",
+  "county_fips": "086",
+  "geoid": "12086",
+  "matched": true,
+  "state_fips": "12"
+ },
+ "the-law-office-of-laura-a-olson-p-a": {
+  "county": "Hillsborough County",
+  "county_fips": "057",
+  "geoid": "12057",
+  "matched": true,
+  "state_fips": "12"
+ },
+ "the-law-office-of-laurie-r-chane": {
+  "county": "Pasco County",
+  "county_fips": "101",
+  "geoid": "12101",
+  "matched": true,
+  "state_fips": "12"
+ },
+ "the-law-office-of-oprea-weber": {
+  "county": "Travis County",
+  "county_fips": "453",
+  "geoid": "48453",
+  "matched": true,
+  "state_fips": "48"
+ },
+ "the-law-office-of-robert-s-sunshine-p-c": {
+  "matched": false
+ },
+ "the-law-office-of-sean-a-mcnicholas-p-c": {
+  "county": "Queens County",
+  "county_fips": "081",
+  "geoid": "36081",
+  "matched": true,
+  "state_fips": "36"
+ },
+ "the-law-offices-of-christopher-eads-pllc": {
+  "county": "Wilson County",
+  "county_fips": "189",
+  "geoid": "47189",
+  "matched": true,
+  "state_fips": "47"
+ },
+ "the-law-offices-of-david-c-hardaway": {
+  "county": "Hays County",
+  "county_fips": "209",
+  "geoid": "48209",
+  "matched": true,
+  "state_fips": "48"
+ },
+ "the-law-offices-of-jason-goldman": {
+  "county": "New York County",
+  "county_fips": "061",
+  "geoid": "36061",
+  "matched": true,
+  "state_fips": "36"
+ },
+ "the-pritchard-firm": {
+  "county": "Buncombe County",
+  "county_fips": "021",
+  "geoid": "37021",
+  "matched": true,
+  "state_fips": "37"
+ },
+ "the-probate-guy": {
+  "county": "Orange County",
+  "county_fips": "059",
+  "geoid": "06059",
+  "matched": true,
+  "state_fips": "06"
+ },
+ "the-reep-law-firm": {
+  "matched": false
+ },
+ "the-solomon-firm-llc": {
+  "county": "Fulton County",
+  "county_fips": "121",
+  "geoid": "13121",
+  "matched": true,
+  "state_fips": "13"
+ },
+ "the-spizman-firm": {
+  "county": "DeKalb County",
+  "county_fips": "089",
+  "geoid": "13089",
+  "matched": true,
+  "state_fips": "13"
+ },
+ "the-stanley-law-group": {
+  "county": "Richland County",
+  "county_fips": "079",
+  "geoid": "45079",
+  "matched": true,
+  "state_fips": "45"
+ },
+ "the-villari-firm-pllc": {
+  "county": "Philadelphia County",
+  "county_fips": "101",
+  "geoid": "42101",
+  "matched": true,
+  "state_fips": "42"
+ },
+ "tnl-miami-pllc": {
+  "county": "Miami-Dade County",
+  "county_fips": "086",
+  "geoid": "12086",
+  "matched": true,
+  "state_fips": "12"
+ },
+ "tobin-o-connor-concino-p-c": {
+  "county": "District of Columbia",
+  "county_fips": "001",
+  "geoid": "11001",
+  "matched": true,
+  "state_fips": "11"
+ },
+ "triumph-law": {
+  "county": "Fairfax County",
+  "county_fips": "059",
+  "geoid": "51059",
+  "matched": true,
+  "state_fips": "51"
+ },
+ "turzi-law-group": {
+  "county": "Manassas city",
+  "county_fips": "683",
+  "geoid": "51683",
+  "matched": true,
+  "state_fips": "51"
+ },
+ "valero-law": {
+  "county": "Broward County",
+  "county_fips": "011",
+  "geoid": "12011",
+  "matched": true,
+  "state_fips": "12"
+ },
+ "vanessa-l-prieto-law-offices-llc": {
+  "county": "Broward County",
+  "county_fips": "011",
+  "geoid": "12011",
+  "matched": true,
+  "state_fips": "12"
+ },
+ "wadhwani-shanfeld": {
+  "county": "Los Angeles County",
+  "county_fips": "037",
+  "geoid": "06037",
+  "matched": true,
+  "state_fips": "06"
+ },
+ "weinberg-schwartz-l-l-c": {
+  "county": "Howard County",
+  "county_fips": "027",
+  "geoid": "24027",
+  "matched": true,
+  "state_fips": "24"
+ },
+ "weir-kestner-injury-lawyers": {
+  "county": "Rutherford County",
+  "county_fips": "149",
+  "geoid": "47149",
+  "matched": true,
+  "state_fips": "47"
+ },
+ "wendy-doyle-palumbo-pa": {
+  "county": "Pasco County",
+  "county_fips": "101",
+  "geoid": "12101",
+  "matched": true,
+  "state_fips": "12"
+ },
+ "whitfield-crosby-flynn": {
+  "county": "Hopkins County",
+  "county_fips": "107",
+  "geoid": "21107",
+  "matched": true,
+  "state_fips": "21"
+ },
+ "william-wallshein-p-a": {
+  "county": "Palm Beach County",
+  "county_fips": "099",
+  "geoid": "12099",
+  "matched": true,
+  "state_fips": "12"
+ },
+ "williams-varsegi-llc": {
+  "matched": false
+ },
+ "wiselieberman-pllc": {
+  "county": "Palm Beach County",
+  "county_fips": "099",
+  "geoid": "12099",
+  "matched": true,
+  "state_fips": "12"
+ },
+ "yesner-law": {
+  "matched": false
+ },
+ "yeung-associates-pllc": {
+  "county": "Kings County",
+  "county_fips": "047",
+  "geoid": "36047",
+  "matched": true,
+  "state_fips": "36"
+ },
+ "young-marr-mallis-associates": {
+  "county": "Bucks County",
+  "county_fips": "017",
+  "geoid": "42017",
+  "matched": true,
+  "state_fips": "42"
+ },
+ "zavala-law": {
+  "county": "Ventura County",
+  "county_fips": "111",
+  "geoid": "06111",
+  "matched": true,
+  "state_fips": "06"
+ },
+ "zelman-law": {
+  "county": "Leon County",
+  "county_fips": "073",
+  "geoid": "12073",
+  "matched": true,
+  "state_fips": "12"
+ }
+}

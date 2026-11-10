@@ -9,6 +9,7 @@ Wadhwani & Shanfeld is a Southern California bankruptcy and debt relief law firm
 ## Contact
 
 - Address: 15233 Ventura Blvd, Suite 1000, Sherman Oaks, CA 91403
+- County: Los Angeles County
 - Phone: 818-658-2669
 - Website: [www.wslaw.com](https://www.wslaw.com/)
 

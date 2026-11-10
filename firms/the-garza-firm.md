@@ -10,6 +10,7 @@ The Garza Firm is a Newport Beach law firm representing individuals harmed by se
 ## Contact
 
 - Address: 4100 Newport Place Drive, Suite 770, Newport Beach, CA 92660
+- County: Orange County
 - Phone: 949-570-8350
 - Website: [www.thegarzafirm.com](https://www.thegarzafirm.com/)
 

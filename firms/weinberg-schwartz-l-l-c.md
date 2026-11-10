@@ -10,6 +10,7 @@ Weinberg & Schwartz, L.L.C. is a Columbia, Maryland firm that has practiced fami
 ## Contact
 
 - Address: 10632 Little Patuxent Parkway, Suite 446, Columbia, MD 21044
+- County: Howard County
 - Phone: 410-997-0203
 - Website: [www.wsfamilylaw.com](https://www.wsfamilylaw.com/)
 

@@ -11,6 +11,7 @@ The Law Office of Hammad S. Matin, P.A. is a criminal defense and personal injur
 ## Contact
 
 - Address: 204 Washington Ave, Suite 300, La Plata, MD 20646
+- County: Charles County
 - Phone: 301-259-3488
 - Website: [www.matinlaw.com](https://www.matinlaw.com/)
 

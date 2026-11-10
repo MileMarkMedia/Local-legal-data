@@ -9,6 +9,7 @@ Scriven Law, P.A. is a Tampa criminal defense firm founded in 2007 by Bryant A. 
 ## Contact
 
 - Address: 402 East 7th Avenue, Tampa, FL 33602
+- County: Hillsborough County
 - Phone: 813-226-8522
 - Website: [www.scrivenlawfirm.com](https://www.scrivenlawfirm.com/)
 

@@ -9,6 +9,7 @@ Alan Goldfarb, P.A. is a Miami personal injury and medical malpractice law firm 
 ## Contact
 
 - Address: 100 Southeast 2nd Street, Suite 4500, Miami, FL 33131
+- County: Miami-Dade County
 - Phone: 305-371-3111
 - Website: [www.goldfarbpa.com](https://www.goldfarbpa.com/)
 

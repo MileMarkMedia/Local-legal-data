@@ -9,6 +9,7 @@ Pursley Law Firm is a personal injury firm serving Carlsbad, Oceanside, San Marc
 ## Contact
 
 - Address: 701 Palomar Airport Road, Suite 300, Carlsbad, CA 92011
+- County: San Diego County
 - Phone: 760-678-1884
 - Website: [www.pursleylegal.com](https://www.pursleylegal.com/)
 

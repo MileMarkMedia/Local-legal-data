@@ -9,6 +9,7 @@ Sconzo Law Office is a West Palm Beach area law firm focused on employment law a
 ## Contact
 
 - Address: 300 Avenue of the Champions, Suite 260, Palm Beach Gardens, FL 33418
+- County: Palm Beach County
 - Phone: 561-279-6114
 - Website: [www.sconzolawoffice.com](https://www.sconzolawoffice.com/)
 

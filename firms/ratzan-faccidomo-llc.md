@@ -9,6 +9,7 @@ Ratzan & Faccidomo LLC is a Miami criminal defense firm founded in 2013 by Mycki
 ## Contact
 
 - Address: 2850 Tigertail Avenue, Suite 400, Miami, FL 33133
+- County: Miami-Dade County
 - Phone: 305-600-3519
 - Website: [www.rflawgroup.com](https://www.rflawgroup.com/)
 

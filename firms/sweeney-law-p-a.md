@@ -10,6 +10,7 @@ Sweeney Law, P.A. is a Fort Lauderdale law firm focused on business law, constru
 ## Contact
 
 - Address: 6750 N Andrews Ave, Suite 200, Fort Lauderdale, FL 33309
+- County: Broward County
 - Phone: 954-440-3993
 - Website: [www.sweeneylawpa.com](https://www.sweeneylawpa.com/)
 

@@ -9,6 +9,7 @@ Larsen & Rico, PLLC is a Salt Lake City business litigation boutique with a nati
 ## Contact
 
 - Address: 230 South 500 East, Suite 260, Salt Lake City, UT 84102
+- County: Salt Lake County
 - Phone: 801-550-6500
 - Website: [www.larsenrico.com](https://www.larsenrico.com/)
 

@@ -11,6 +11,7 @@ Anthony Z. Vargas, Esq. Attorney at Law is a San Diego employment law firm repre
 ## Contact
 
 - Address: 8880 Rio San Diego Dr, Suite 800, San Diego, CA 92108
+- County: San Diego County
 - Phone: 858-285-4595
 - Website: [www.esquirevargas.com](https://www.esquirevargas.com/)
 

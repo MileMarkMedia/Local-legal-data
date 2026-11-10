@@ -11,6 +11,7 @@ Kelley Kaplan Delaney & Eller, PLLC is a West Palm Beach law firm concentrating 
 ## Contact
 
 - Address: 1555 Palm Beach Lakes Blvd, Suite 1000, West Palm Beach, FL 33401
+- County: Palm Beach County
 - Phone: 561-264-6850
 - Website: [www.kelleylawoffice.com](https://www.kelleylawoffice.com/)
 

@@ -10,6 +10,7 @@ The Forsythe Law Firm, LLC is an Atlanta law firm focused on employment law, per
 ## Contact
 
 - Address: 1050 Crown Pointe Parkway, Suite 1240, Atlanta, GA 30338
+- County: DeKalb County
 - Phone: 404-476-2717
 - Website: [www.forsythelawfirm.com](https://www.forsythelawfirm.com/)
 

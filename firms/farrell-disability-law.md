@@ -9,6 +9,7 @@ Farrell Disability Law is a Jacksonville firm focused on Social Security Disabil
 ## Contact
 
 - Address: 4651 Salisbury Rd, Suite 400, Jacksonville, FL 32256
+- County: Duval County
 - Phone: 904-388-8870
 - Website: [www.mydisabilitylaw.com](https://www.mydisabilitylaw.com/)
 

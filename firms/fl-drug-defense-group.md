@@ -9,6 +9,7 @@ FL Drug Defense Group is a drug crime defense firm serving Orlando and Central F
 ## Contact
 
 - Address: 200 East Robinson Street, Suite 1140, Orlando, FL 32801
+- County: Orange County
 - Phone: 407-775-9052
 - Website: [www.fldrugdefensegroup.com](https://www.fldrugdefensegroup.com/)
 

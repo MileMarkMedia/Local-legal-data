@@ -12,6 +12,7 @@ The Cahall Law Firm, PLLC is a Bradenton, Florida litigation firm led by attorne
 ## Contact
 
 - Address: 1909 Manatee Ave E, Bradenton, FL 34208
+- County: Manatee County
 - Phone: 941-281-2019
 - Website: [www.bradentoninjurylaw.com](https://www.bradentoninjurylaw.com/)
 

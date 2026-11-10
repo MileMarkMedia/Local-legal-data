@@ -10,6 +10,7 @@ The Law Office of Joseph Linnehan, Jr. is a Boston personal injury firm represen
 ## Contact
 
 - Address: 15 Court Square, Suite 240, Boston, MA 02108
+- County: Suffolk County
 - Phone: 617-275-4200
 - Website: [www.bostoninjured.com](https://www.bostoninjured.com/)
 

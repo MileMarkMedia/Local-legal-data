@@ -9,6 +9,7 @@ Moore Law is a Tampa personal injury law firm founded in 2019 by principal attor
 ## Contact
 
 - Address: 14001 N Dale Mabry Hwy, Tampa, FL 33618
+- County: Hillsborough County
 - Phone: 813-510-5400
 - Website: [www.moorelawfla.com](https://www.moorelawfla.com/)
 

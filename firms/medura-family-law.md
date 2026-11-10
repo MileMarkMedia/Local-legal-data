@@ -10,6 +10,7 @@ Medura Family Law is a boutique, all-female family law firm serving Salt Lake Ci
 ## Contact
 
 - Address: 68 S Main St, 5th Fl, Salt Lake City, UT 84101
+- County: Salt Lake County
 - Phone: 801-883-8325
 - Website: [www.medurafamilylaw.com](https://www.medurafamilylaw.com/)
 

@@ -10,6 +10,7 @@ Bubley & Bubley, P.A. is a Tampa law firm focused on family law, estate planning
 ## Contact
 
 - Address: 12960 N Dale Mabry Hwy, Tampa, FL 33618
+- County: Hillsborough County
 - Phone: 813-963-7735
 - Website: [www.bubleylaw.com](https://www.bubleylaw.com/)
 

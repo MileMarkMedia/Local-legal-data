@@ -9,6 +9,7 @@ Maryland Injury Lawyers is a personal injury law firm based in Baltimore that re
 ## Contact
 
 - Address: 233 E Redwood Street, Suite 400F, Baltimore, MD 21202
+- County: Baltimore city
 - Phone: 866-836-4878
 - Website: [www.marylandpersonalinjurylawyer.com](https://www.marylandpersonalinjurylawyer.com/)
 

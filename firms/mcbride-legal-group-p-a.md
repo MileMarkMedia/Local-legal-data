@@ -10,6 +10,7 @@ McBride Legal Group, P.A. is a Stuart, Florida family law firm built for contest
 ## Contact
 
 - Address: 34 SE Osceola St, Stuart, FL 34994
+- County: Martin County
 - Phone: 772-236-0234
 - Website: [www.mcbridelegalgroup.com](https://www.mcbridelegalgroup.com/)
 

@@ -11,6 +11,7 @@ Andrew L. Schwartz, P.C. is a Marietta criminal defense firm representing people
 ## Contact
 
 - Address: 191 Roswell Street, Marietta, GA 30060
+- County: Cobb County
 - Phone: 678-853-2500
 - Website: [www.andrewschwartzlaw.com](https://www.andrewschwartzlaw.com/)
 

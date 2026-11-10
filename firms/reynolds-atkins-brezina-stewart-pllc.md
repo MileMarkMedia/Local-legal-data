@@ -9,6 +9,7 @@ Reynolds, Atkins, Brezina, & Stewart, PLLC is a Knoxville, Tennessee law firm fo
 ## Contact
 
 - Address: 606 W Main St, Suite 225, Knoxville, TN 37902
+- County: Knox County
 - Phone: 865-500-3121
 - Website: [www.brezinalaw.com](https://www.brezinalaw.com/)
 

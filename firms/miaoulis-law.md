@@ -12,6 +12,7 @@ Miaoulis Law is a family run law firm in Palm Harbor, Florida, serving clients t
 ## Contact
 
 - Address: 33715 US Hwy 19 N, Palm Harbor, FL 34684
+- County: Pinellas County
 - Phone: 727-754-1932
 - Website: [www.miaoulislaw.com](https://www.miaoulislaw.com/)
 

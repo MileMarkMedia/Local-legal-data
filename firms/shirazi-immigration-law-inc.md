@@ -9,6 +9,7 @@ Shirazi Immigration Law, Inc. is an Atlanta immigration firm serving clients thr
 ## Contact
 
 - Address: 303 Peachtree St NE, Suite 4100, Atlanta, GA 30308
+- County: Fulton County
 - Phone: 404-523-3611
 - Website: [www.shirazilaw.com](https://www.shirazilaw.com/)
 

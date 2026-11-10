@@ -9,6 +9,7 @@ Leifer & Ramirez is a personal injury law firm based in Boca Raton serving clien
 ## Contact
 
 - Address: 7251 West Palmetto Park Road, Suite 201, Boca Raton, FL 33433
+- County: Palm Beach County
 - Phone: 561-660-9421
 - Website: [www.leiferlaw.com](https://www.leiferlaw.com/)
 

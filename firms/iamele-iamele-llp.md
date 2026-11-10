@@ -11,6 +11,7 @@ Iamele & Iamele, LLP is a Baltimore litigation firm handling personal injury, me
 ## Contact
 
 - Address: 201 N Charles St, Suite 1802, Baltimore, MD 21201
+- County: Baltimore city
 - Phone: 410-779-6160
 - Website: [www.iamelelawfirmbaltimore.com](https://www.iamelelawfirmbaltimore.com/)
 

@@ -12,6 +12,7 @@ Albaugh Law Firm is a St. Augustine and Jacksonville law firm focused on bankrup
 ## Contact
 
 - Address: 1301 Plantation Island Dr. S., Suite 302B, Saint Augustine, FL 32080
+- County: St. Johns County
 - Phone: 904-471-3434
 - Website: [www.albaughlaw.com](https://www.albaughlaw.com/)
 

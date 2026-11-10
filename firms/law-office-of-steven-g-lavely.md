@@ -11,6 +11,7 @@ The Law Office of Steven G. Lavely is a personal injury and auto accident firm s
 ## Contact
 
 - Address: 527 Manatee Ave. East, Bradenton, FL 34208
+- County: Manatee County
 - Phone: 941-747-7994
 - Website: [www.lavelylaw.com](https://www.lavelylaw.com/)
 

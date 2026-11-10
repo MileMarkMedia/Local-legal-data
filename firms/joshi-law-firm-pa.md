@@ -9,6 +9,7 @@ Joshi Law Firm, PA is an Orlando criminal defense firm handling state and federa
 ## Contact
 
 - Address: 5750 Major Blvd, Unit 530, Orlando, FL 32819
+- County: Orange County
 - Phone: 407-661-1109
 - Website: [www.joshi-law.com](https://www.joshi-law.com/)
 

@@ -11,6 +11,7 @@ Hoy Law is a Sioux Falls personal injury firm representing injury victims throug
 ## Contact
 
 - Address: 4900 S Minnesota Ave, Suite 200, Sioux Falls, SD 57108
+- County: Lincoln County
 - Phone: 605-334-8900
 - Website: [www.hoylaw.com](https://www.hoylaw.com/)
 

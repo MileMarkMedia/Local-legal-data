@@ -10,6 +10,7 @@ Kainen Law Group, PLLC is a Las Vegas family law firm handling divorce and relat
 ## Contact
 
 - Address: 3303 Novat Street, Suite 200, Las Vegas, NV 89129
+- County: Clark County
 - Phone: 702-823-4900
 - Website: [www.kainenlawgroup.com](https://www.kainenlawgroup.com/)
 

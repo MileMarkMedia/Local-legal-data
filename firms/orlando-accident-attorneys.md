@@ -11,6 +11,7 @@ Orlando Accident Attorneys is a boutique personal injury law firm in downtown Or
 ## Contact
 
 - Address: 55 E Washington St, Suite 200, Orlando, FL 32801
+- County: Orange County
 - Phone: 407-775-4775
 - Website: [www.orlandoaccidentattorneys.com](https://www.orlandoaccidentattorneys.com/)
 

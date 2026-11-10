@@ -10,6 +10,7 @@ Faulkner Law Group, PLLC is a Tampa family law firm serving clients in Tampa, Cl
 ## Contact
 
 - Address: 4830 W Kennedy Blvd, Suite 600, Tampa, FL 33609
+- County: Hillsborough County
 - Phone: 813-544-3919
 - Website: [www.faulknerlawgroup.com](https://www.faulknerlawgroup.com/)
 

@@ -10,6 +10,7 @@ Knudsen Law is a Tampa law firm focused on estate planning, trusts, and probate 
 ## Contact
 
 - Address: 4006 S MacDill Ave, Suite G, Tampa, FL 33611
+- County: Hillsborough County
 - Phone: 727-398-3600
 - Website: [www.klawtb.com](https://www.klawtb.com/)
 

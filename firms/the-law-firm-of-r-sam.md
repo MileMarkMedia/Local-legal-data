@@ -13,6 +13,7 @@ The Law Firm of R. Sam is a personal injury law firm serving Modesto, Stockton a
 ## Contact
 
 - Address: 1800 Tully Rd, Suite B-2, Modesto, CA 95350
+- County: Stanislaus County
 - Phone: 209-222-3000
 - Website: [www.yourpersonalinjuryfirm.com](https://www.yourpersonalinjuryfirm.com/)
 

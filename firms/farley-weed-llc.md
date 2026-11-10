@@ -13,6 +13,7 @@ Farley & Weed, LLC is a full-service law firm in Hawley, Pennsylvania serving in
 ## Contact
 
 - Address: 2523 Route 6, Suite 1, Hawley, PA 18428
+- County: Pike County
 - Phone: 570-226-5771
 - Website: [www.farleyandbernathylaw.com](https://www.farleyandbernathylaw.com/)
 

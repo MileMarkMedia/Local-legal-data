@@ -9,6 +9,7 @@ Linkhorst Law Firm, P.A. is a construction law and litigation firm based in Jupi
 ## Contact
 
 - Address: 4495 Military Trail, Suite 106, Jupiter, FL 33458
+- County: Palm Beach County
 - Phone: 561-626-8880
 - Website: [www.floridahardhatlaw.com](https://www.floridahardhatlaw.com/)
 

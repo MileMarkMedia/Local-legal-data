@@ -10,6 +10,7 @@ Shelbourne Law is a locally owned Summerville, South Carolina law firm serving S
 ## Contact
 
 - Address: 131 E Richardson Ave., Summerville, SC 29483
+- County: Dorchester County
 - Phone: 843-871-2210
 - Website: [www.shelbournelaw.com](https://www.shelbournelaw.com/)
 

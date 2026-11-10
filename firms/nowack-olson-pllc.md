@@ -9,6 +9,7 @@ Nowack & Olson, PLLC is a bankruptcy, foreclosure defense, and real estate law f
 ## Contact
 
 - Address: 8551 West Sunrise Blvd, Suite 208, Plantation, FL 33322
+- County: Broward County
 - Phone: 954-349-2265
 - Website: [www.floridabankruptcynow.com](https://www.floridabankruptcynow.com/)
 

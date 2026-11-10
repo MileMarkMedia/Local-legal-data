@@ -10,6 +10,7 @@ The Law Offices of David M. Benenfeld, P.A. is a South Florida workers' compensa
 ## Contact
 
 - Address: 7800 W Oakland Park Blvd, Building F, Suite 216, Sunrise, FL 33351
+- County: Broward County
 - Phone: 954-677-0155
 - Website: [www.injurylawservice.com](https://www.injurylawservice.com/)
 

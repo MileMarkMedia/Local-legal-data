@@ -10,6 +10,7 @@ Kohn Law is a Tampa firm focused on representing victims of nursing home abuse a
 ## Contact
 
 - Address: 3004 W. Cypress Street, Tampa, FL 33609
+- County: Hillsborough County
 - Phone: 813-428-8504
 - Website: [www.kohnlawcares.com](https://www.kohnlawcares.com/)
 

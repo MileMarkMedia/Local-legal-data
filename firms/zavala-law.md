@@ -10,6 +10,7 @@ Zavala Law is a Ventura personal injury law firm focused on car accidents, truck
 ## Contact
 
 - Address: 674 County Square Dr, Suite 207-A, Ventura, CA 93003
+- County: Ventura County
 - Phone: 805-429-4292
 - Website: [www.zavalalawoffice.com](https://www.zavalalawoffice.com/)
 

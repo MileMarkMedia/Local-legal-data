@@ -10,6 +10,7 @@ Salazar & Kelly Law Group, P.A. is a Kissimmee based firm handling criminal defe
 ## Contact
 
 - Address: 603 Verona Street, Kissimmee, FL 34741
+- County: Osceola County
 - Phone: 407-483-0500
 - Website: [www.salazarandkelly.com](https://www.salazarandkelly.com/)
 

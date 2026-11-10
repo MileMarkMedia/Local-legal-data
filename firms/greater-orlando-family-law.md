@@ -10,6 +10,7 @@ Greater Orlando Family Law is a family law and divorce firm serving Orlando, Win
 ## Contact
 
 - Address: 631 South Orlando Avenue, Suite 301, Winter Park, FL 32789
+- County: Orange County
 - Phone: 407-377-6399
 - Website: [www.orlandolegal.com](https://www.orlandolegal.com/)
 

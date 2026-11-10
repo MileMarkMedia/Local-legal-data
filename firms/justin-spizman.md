@@ -10,6 +10,7 @@ The Spizman Firm is a criminal defense and personal injury practice led by Manag
 ## Contact
 
 - Address: 200 Ashford Center North, Suite 200, Atlanta, GA 30338
+- County: DeKalb County
 - Phone: 770-685-6400
 - Website: [www.justinspizman.com](https://www.justinspizman.com/)
 

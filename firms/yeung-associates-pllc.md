@@ -10,6 +10,7 @@ Yeung & Associates, PLLC is a Brooklyn law firm focused on real estate transacti
 ## Contact
 
 - Address: 2059 86th St, Suite 200, Brooklyn, NY 11214
+- County: Kings County
 - Phone: 718-889-7568
 - Website: [www.yeunglawfirm.com](https://www.yeunglawfirm.com/)
 

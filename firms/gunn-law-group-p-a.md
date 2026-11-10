@@ -10,6 +10,7 @@ Gunn Law Group, P.A. is a Tampa law firm serving Florida since 2005, focused on 
 ## Contact
 
 - Address: 401 East Jackson St, Suite 3600, Tampa, FL 33602
+- County: Hillsborough County
 - Phone: 813-228-7070
 - Website: [www.gunnlawgroup.com](https://www.gunnlawgroup.com/)
 

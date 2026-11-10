@@ -11,6 +11,7 @@ Empowerment Legal, PLLC is a Jacksonville area law firm focused on veterans' cla
 ## Contact
 
 - Address: 330 Crossing Blvd, Suite 116, Orange Park, FL 32073
+- County: Clay County
 - Phone: 904-601-5673
 - Website: [www.empower-law.com](https://www.empower-law.com/)
 

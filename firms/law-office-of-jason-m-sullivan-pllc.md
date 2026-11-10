@@ -10,6 +10,7 @@ The Law Office of Jason M. Sullivan, PLLC provides attorney-led immigration repr
 ## Contact
 
 - Address: 1 New Hampshire Ave, Suite 125, Portsmouth, NH 03801
+- County: Rockingham County
 - Phone: 603-433-1325
 - Website: [www.lojms.com](https://www.lojms.com/)
 

@@ -10,6 +10,7 @@ Lindamood & Robinson, P.C. is a Houston family law firm focused on divorce and r
 ## Contact
 
 - Address: 1415 Louisiana St, Suite 3450, Houston, TX 77002
+- County: Harris County
 - Phone: 713-654-2112
 - Website: [www.lawcl.com](https://www.lawcl.com/)
 

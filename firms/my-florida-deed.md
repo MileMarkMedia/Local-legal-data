@@ -9,6 +9,7 @@ My Florida Deed, a division of DeBoard Law, PLLC, is an Orlando law practice foc
 ## Contact
 
 - Address: 529 N. Fern Creek Ave., Suite A, Orlando, FL 32803
+- County: Orange County
 - Phone: 407-205-2906
 - Website: [www.myfloridadeed.com](https://www.myfloridadeed.com/)
 

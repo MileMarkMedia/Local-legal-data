@@ -9,6 +9,7 @@ Bundza & Rodriguez, P.A. is a Daytona Beach law firm focused on personal injury,
 ## Contact
 
 - Address: 444 Seabreeze Blvd, Suite 750, Daytona Beach, FL 32118
+- County: Volusia County
 - Phone: 386-252-5170
 - Website: [www.daytonalawyers.com](https://www.daytonalawyers.com/)
 

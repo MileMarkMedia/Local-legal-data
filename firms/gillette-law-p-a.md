@@ -9,6 +9,7 @@ Gillette Law, P.A. is a personal injury firm with offices in Jacksonville, Flori
 ## Contact
 
 - Address: 603 N Market St, Jacksonville, FL 32202
+- County: Duval County
 - Phone: 904-600-4758
 - Website: [www.gillettelaw.com](https://www.gillettelaw.com/)
 

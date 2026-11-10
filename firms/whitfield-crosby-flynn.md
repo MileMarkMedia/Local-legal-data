@@ -10,6 +10,7 @@ Whitfield Crosby & Flynn is a personal injury and wrongful death trial firm serv
 ## Contact
 
 - Address: 19 N Main St, Madisonville, KY 42431
+- County: Hopkins County
 - Phone: 270-821-0656
 - Website: [www.wcfjustice.com](https://www.wcfjustice.com/)
 

@@ -9,6 +9,7 @@ Perlet & Shiner, P.A. is a West Palm Beach criminal defense firm representing cl
 ## Contact
 
 - Address: 1801 Centrepark Drive East, Suite 110, West Palm Beach, FL 33401
+- County: Palm Beach County
 - Phone: 561-721-0552
 - Website: [www.palmbeachdefense.com](https://www.palmbeachdefense.com/)
 

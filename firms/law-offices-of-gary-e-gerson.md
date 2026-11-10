@@ -9,6 +9,7 @@ The Law Offices of Gary E. Gerson is a Pittsburgh criminal defense firm serving 
 ## Contact
 
 - Address: 304 Ross Street, Suite 600, Pittsburgh, PA 15219
+- County: Allegheny County
 - Phone: 412-219-6875
 - Website: [www.pittsburghdefenselawyers.com](https://www.pittsburghdefenselawyers.com/)
 

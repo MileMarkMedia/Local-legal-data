@@ -9,6 +9,7 @@ The Baez Law Firm is a criminal defense, civil rights and civil litigation firm 
 ## Contact
 
 - Address: 1200 Brickell Avenue, Suite 1410, Miami, FL 33131
+- County: Miami-Dade County
 - Phone: 305-999-5100
 - Website: [www.baezlawfirm.com](https://www.baezlawfirm.com/)
 

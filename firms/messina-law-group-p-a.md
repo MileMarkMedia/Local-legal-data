@@ -10,6 +10,7 @@ Messina Law Group, P.A. is a probate, estate planning, and real estate law firm 
 ## Contact
 
 - Address: 2550 Permit Pl, New Port Richey, FL 34655
+- County: Pasco County
 - Phone: 813-492-7798
 - Website: [www.messinalawgroup.com](https://www.messinalawgroup.com/)
 

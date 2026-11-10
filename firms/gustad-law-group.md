@@ -11,6 +11,7 @@ Gustad Law Group, PLLC is a Washington law firm focused on Social Security Disab
 ## Contact
 
 - Address: 7815 Greenwood Ave N, Seattle, WA 98103
+- County: King County
 - Phone: 206-533-2222
 - Website: [www.gustadlaw.com](https://www.gustadlaw.com/)
 

@@ -11,6 +11,7 @@ Kobal Law is a Tampa workers' compensation firm representing injured workers thr
 ## Contact
 
 - Address: 12169 West Linebaugh Avenue, Tampa, FL 33626
+- County: Hillsborough County
 - Phone: 813-873-2440
 - Website: [www.tampaworkcomplaw.com](https://www.tampaworkcomplaw.com/)
 

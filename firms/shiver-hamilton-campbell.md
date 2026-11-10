@@ -11,6 +11,7 @@ Shiver Hamilton Campbell is an Atlanta personal injury law firm focused on truck
 ## Contact
 
 - Address: 3490 Piedmont Rd NE, Suite 640, Atlanta, GA 30305
+- County: Fulton County
 - Phone: 404-593-0020
 - Website: [www.shiverhamilton.com](https://www.shiverhamilton.com/)
 

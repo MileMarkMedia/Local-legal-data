@@ -10,6 +10,7 @@ Daniel T. Fleischer, Attorney at Law, focuses on estate planning and probate for
 ## Contact
 
 - Address: 7805 SW 6th Ct, Plantation, FL 33324
+- County: Broward County
 - Phone: 954-888-1747
 - Website: [www.411probate.com](https://www.411probate.com/)
 

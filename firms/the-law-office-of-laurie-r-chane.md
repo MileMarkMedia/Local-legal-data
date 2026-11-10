@@ -13,6 +13,7 @@ The Law Office Of Laurie R. Chane is a Dade City, Florida law firm focused on di
 ## Contact
 
 - Address: 14206 5th St, Dade City, FL 33523
+- County: Pasco County
 - Phone: 352-567-0055
 - Website: [www.chanelaw.com](https://www.chanelaw.com/)
 

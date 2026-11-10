@@ -12,6 +12,7 @@ The Solomon Firm LLC is an Atlanta law firm focused on Georgia family law and di
 ## Contact
 
 - Address: 1718 Peachtree St NW, Suite 195, Atlanta, GA 30309
+- County: Fulton County
 - Phone: 404-565-0641
 - Website: [www.thesolomonfirm.com](https://www.thesolomonfirm.com/)
 

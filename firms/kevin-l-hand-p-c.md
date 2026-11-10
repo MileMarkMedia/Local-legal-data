@@ -12,6 +12,7 @@ Kevin L. Hand, P.C. is a Newtown law firm concentrating on divorce and family la
 ## Contact
 
 - Address: 626 South State Street, Newtown, PA 18940
+- County: Bucks County
 - Phone: 215-968-6602
 - Website: [www.khandlaw.com](https://www.khandlaw.com/)
 

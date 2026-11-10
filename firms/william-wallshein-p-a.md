@@ -11,6 +11,7 @@ William Wallshein P.A. is a West Palm Beach law firm focused on criminal defense
 ## Contact
 
 - Address: 1601 Forum Pl #602, West Palm Beach, FL 33401
+- County: Palm Beach County
 - Phone: 561-533-1221
 - Website: [www.wallsheinlaw.com](https://www.wallsheinlaw.com/)
 

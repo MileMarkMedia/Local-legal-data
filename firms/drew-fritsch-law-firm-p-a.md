@@ -9,6 +9,7 @@ Drew Fritsch Law Firm, P.A. is a Punta Gorda criminal defense firm representing 
 ## Contact
 
 - Address: 265 E Marion Ave, Suite 118, Punta Gorda, FL 33950
+- County: Charlotte County
 - Phone: 941-205-3535
 - Website: [www.fritschlawfirm.com](https://www.fritschlawfirm.com/)
 

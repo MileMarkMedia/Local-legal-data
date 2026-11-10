@@ -10,6 +10,7 @@ The Law Office of Linda Kenney Baden provides criminal defense and civil rights 
 ## Contact
 
 - Address: 15 West 53rd Street, New York, NY 10019
+- County: New York County
 - Phone: 732-219-7770
 - Website: [www.lindakenneybadenlaw.com](https://www.lindakenneybadenlaw.com/)
 

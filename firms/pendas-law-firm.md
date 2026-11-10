@@ -9,6 +9,7 @@ The Pendas Law Firm is a personal injury firm established in 2004 and based in O
 ## Contact
 
 - Address: 625 E Colonial Dr, Orlando, FL 32803
+- County: Orange County
 - Phone: 844-200-0000
 - Website: [www.pendaslaw.com](https://www.pendaslaw.com/)
 

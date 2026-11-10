@@ -9,6 +9,7 @@ Fuxa & Tyler is a Florida law firm focused on insurance claims and property dama
 ## Contact
 
 - Address: 490 Sawgrass Corporate Pkwy, Suite 110, Sunrise, FL 33325
+- County: Broward County
 - Phone: 954-990-5251
 - Website: [www.gft.law](https://www.gft.law/)
 

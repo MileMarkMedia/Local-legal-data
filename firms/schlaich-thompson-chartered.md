@@ -12,6 +12,7 @@ Schlaich & Thompson, Chartered is a Bel Air, Maryland law firm focused on family
 ## Contact
 
 - Address: 1318 East Churchville Road, Bel Air, MD 21014
+- County: Harford County
 - Phone: 410-838-0004
 - Website: [www.stclaw.net](https://www.stclaw.net/)
 

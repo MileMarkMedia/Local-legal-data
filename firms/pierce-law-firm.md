@@ -9,6 +9,7 @@ Pierce Law Firm is a Houston, Texas law firm focused exclusively on legal malpra
 ## Contact
 
 - Address: 24 Greenway Plz, Suite 500A, Houston, TX 77046
+- County: Harris County
 - Phone: 832-866-2861
 - Website: [www.suemylawyertexas.com](https://www.suemylawyertexas.com/)
 

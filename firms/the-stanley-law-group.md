@@ -9,6 +9,7 @@ The Stanley Law Group is a personal injury firm serving Columbia, South Carolina
 ## Contact
 
 - Address: 1418 Park St., Columbia, SC 29201
+- County: Richland County
 - Phone: 803-799-4700
 - Website: [www.thestanleylawgroup.com](https://www.thestanleylawgroup.com/)
 

@@ -11,6 +11,7 @@ Franco Law Firm is a bilingual Tampa law firm focused on workers' compensation, 
 ## Contact
 
 - Address: 800 W. Dr. M.L. King Jr. Boulevard, Suite 1, Tampa, FL 33603
+- County: Hillsborough County
 - Phone: 813-872-0929
 - Website: [www.francofirm.com](https://www.francofirm.com/)
 

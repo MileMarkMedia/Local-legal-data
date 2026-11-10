@@ -9,6 +9,7 @@ Konn LLC is a boutique debt settlement law firm serving clients throughout metro
 ## Contact
 
 - Address: 6075 Barfield Rd, Suite 411, Atlanta, GA 30328
+- County: Fulton County
 - Phone: 678-820-8704
 - Website: [www.konnlaw.com](https://www.konnlaw.com/)
 

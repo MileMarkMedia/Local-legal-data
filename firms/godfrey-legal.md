@@ -9,6 +9,7 @@ Godfrey Legal is an Orlando business law firm led by B.F. "Biff" Godfrey, who ha
 ## Contact
 
 - Address: 1000 Legion Place, 10th Floor, Orlando, FL 32801
+- County: Orange County
 - Phone: 407-890-0023
 - Website: [www.godfreylegal.com](https://www.godfreylegal.com/)
 

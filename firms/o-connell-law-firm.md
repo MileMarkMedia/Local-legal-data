@@ -9,6 +9,7 @@ O'Connell Law Firm focuses exclusively on Georgia workers' compensation and work
 ## Contact
 
 - Address: 1455 Church St, Decatur, GA 30030
+- County: DeKalb County
 - Phone: 404-410-0034
 - Website: [www.oconnellfirmllc.com](https://www.oconnellfirmllc.com/)
 

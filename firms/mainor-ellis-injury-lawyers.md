@@ -10,6 +10,7 @@ Mainor Ellis Injury Lawyers is a personal injury law firm serving accident victi
 ## Contact
 
 - Address: 8367 W. Flamingo Rd, Suite 200, Las Vegas, NV 89147
+- County: Clark County
 - Phone: 702-450-5000
 - Website: [www.mainorellis.com](https://www.mainorellis.com/)
 

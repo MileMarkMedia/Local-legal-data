@@ -9,6 +9,7 @@ Bentz Holguin Law Firm, LLC is a Chicago bankruptcy and debt relief firm serving
 ## Contact
 
 - Address: 27 N. Wacker Dr, Suite 310, Chicago, IL 60606
+- County: Cook County
 - Phone: 312-647-2116
 - Website: [www.bentzholguinlaw.com](https://www.bentzholguinlaw.com/)
 

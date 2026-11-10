@@ -10,6 +10,7 @@ Citizen Soldier Law, the trade name of Thomas Roughneen & Associates, Counsellor
 ## Contact
 
 - Address: 1 Edgeview Dr, Suite C, Hackettstown, NJ 07840
+- County: Morris County
 - Phone: 973-937-6010
 - Website: [www.citizensoldierlaw.com](https://www.citizensoldierlaw.com/)
 

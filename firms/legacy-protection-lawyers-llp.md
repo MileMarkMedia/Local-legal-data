@@ -11,6 +11,7 @@ Legacy Protection Lawyers, LLP is a boutique estate planning, probate and trust 
 ## Contact
 
 - Address: 100 2nd Ave S, Suite 900, St. Petersburg, FL 33701
+- County: Pinellas County
 - Phone: 727-471-5868
 - Website: [www.legacyprotectionlawyers.com](https://www.legacyprotectionlawyers.com/)
 

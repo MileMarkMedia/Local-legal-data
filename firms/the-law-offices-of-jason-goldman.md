@@ -9,6 +9,7 @@ The Law Offices of Jason Goldman is a New York City criminal defense firm repres
 ## Contact
 
 - Address: 275 Madison Ave, 35th Floor, New York, NY 10016
+- County: New York County
 - Phone: 212-466-6617
 - Website: [www.jasongoldmanlaw.com](https://www.jasongoldmanlaw.com/)
 

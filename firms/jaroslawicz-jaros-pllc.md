@@ -9,6 +9,7 @@ Jaroslawicz & Jaros, PLLC is a New York City personal injury law firm that has r
 ## Contact
 
 - Address: 225 Broadway, Suite 2400, New York, NY 10007
+- County: New York County
 - Phone: 212-227-2780
 - Website: [www.jaroslawiczandjaros.com](https://www.jaroslawiczandjaros.com/)
 

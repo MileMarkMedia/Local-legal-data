@@ -10,6 +10,7 @@ Foster Hsu, LLP is a San Jose family law firm serving clients throughout Santa C
 ## Contact
 
 - Address: 84 W Santa Clara St, Suite 789, San Jose, CA 95113
+- County: Santa Clara County
 - Phone: 408-841-7200
 - Website: [www.fosterhsu.com](https://www.fosterhsu.com/)
 

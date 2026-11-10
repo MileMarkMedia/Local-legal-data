@@ -10,6 +10,7 @@ Cohan Law Firm is a New York City personal injury law firm serving clients throu
 ## Contact
 
 - Address: 401 Park Ave S, 10th Floor, New York, NY 10016
+- County: New York County
 - Phone: 212-601-2693
 - Website: [www.cohanlegal.com](https://www.cohanlegal.com/)
 

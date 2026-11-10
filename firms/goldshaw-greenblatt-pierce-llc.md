@@ -10,6 +10,7 @@ Goldshaw Greenblatt Pierce LLC is a Philadelphia law firm concentrating in emplo
 ## Contact
 
 - Address: 1500 John F Kennedy Blvd, Suite 1230, Philadelphia, PA 19102
+- County: Philadelphia County
 - Phone: 215-978-9090
 - Website: [www.ggplawfirm.com](https://www.ggplawfirm.com/)
 

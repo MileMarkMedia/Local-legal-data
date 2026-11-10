@@ -10,6 +10,7 @@ Israoui Law is a personal injury firm representing accident victims in Orlando, 
 ## Contact
 
 - Address: 5301 E. Colonial Dr., Orlando, FL 32807
+- County: Orange County
 - Phone: 407-381-4529
 - Website: [www.orlando-injury-lawyer.com](https://www.orlando-injury-lawyer.com/)
 

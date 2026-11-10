@@ -9,6 +9,7 @@ OA Law Firm is a Tampa criminal defense firm founded by attorney Omar Abdelghany
 ## Contact
 
 - Address: 550 N Reo St #300, Tampa, FL 33609
+- County: Hillsborough County
 - Phone: 813-461-5291
 - Website: [www.tampa-criminal-attorney.com](https://www.tampa-criminal-attorney.com/)
 

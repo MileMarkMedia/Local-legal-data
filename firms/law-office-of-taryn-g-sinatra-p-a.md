@@ -10,6 +10,7 @@ The Law Office of Taryn G. Sinatra, P.A. is a Boynton Beach family law firm that
 ## Contact
 
 - Address: 1405 S. Federal Highway, Boynton Beach, FL 33435
+- County: Palm Beach County
 - Phone: 561-430-4121
 - Website: [www.sinatralegal.com](https://www.sinatralegal.com/)
 

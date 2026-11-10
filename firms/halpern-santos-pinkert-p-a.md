@@ -9,6 +9,7 @@ Halpern Santos & Pinkert, P.A. is a Coral Gables personal injury law firm repres
 ## Contact
 
 - Address: 150 Alhambra Cir, Suite 1100, Coral Gables, FL 33134
+- County: Miami-Dade County
 - Phone: 305-445-1111
 - Website: [www.hsptrial.com](https://www.hsptrial.com/)
 

@@ -11,6 +11,7 @@ Devore Law Group, P.A. is an immigration and nationality law firm in Palm Beach 
 ## Contact
 
 - Address: 4100 RCA Blvd., Suite 110, Palm Beach Gardens, FL 33410
+- County: Palm Beach County
 - Phone: 561-478-5353
 - Website: [www.devorelawgroup.com](https://www.devorelawgroup.com/)
 

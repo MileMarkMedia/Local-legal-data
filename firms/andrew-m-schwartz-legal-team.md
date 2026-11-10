@@ -16,6 +16,7 @@ The Andrew M. Schwartz Legal Team is a Boca Raton business litigation firm found
 ## Contact
 
 - Address: 4755 Technology Way #103, Boca Raton, FL 33431
+- County: Palm Beach County
 - Phone: 561-347-6767
 - Website: [www.amslegalteam.com](https://www.amslegalteam.com/)
 

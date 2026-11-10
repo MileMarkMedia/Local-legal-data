@@ -10,6 +10,7 @@ Edward J. Jennings, P.A. is a Fort Lauderdale law firm focused on probate litiga
 ## Contact
 
 - Address: 200 SE 18th Court, Fort Lauderdale, FL 33316
+- County: Broward County
 - Phone: 954-764-4330
 - Website: [www.ejj-law.com](https://www.ejj-law.com/)
 

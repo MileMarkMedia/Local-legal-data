@@ -9,6 +9,7 @@ Morain & Buckelew, LLC is an Atlanta personal injury and workers' compensation l
 ## Contact
 
 - Address: 1465 Northside Dr NW, Suite 211, Atlanta, GA 30318
+- County: Fulton County
 - Phone: 404-448-3146
 - Website: [www.morbuck.com](https://www.morbuck.com/)
 

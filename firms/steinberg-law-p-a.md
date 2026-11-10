@@ -9,6 +9,7 @@ Steinberg Law, P.A. is a personal injury law firm with offices in Delray Beach a
 ## Contact
 
 - Address: 1625 S Congress Ave, Suite 325, Delray Beach, FL 33445
+- County: Palm Beach County
 - Phone: 561-630-0053
 - Website: [www.brettsteinberglaw.com](https://www.brettsteinberglaw.com/)
 

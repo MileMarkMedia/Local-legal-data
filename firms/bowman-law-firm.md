@@ -14,6 +14,7 @@ Bowman Law Firm is an estate planning and elder law practice in Norcross serving
 ## Contact
 
 - Address: 1770 Indian Trail Lilburn Rd, Suite 320, Norcross, GA 30093
+- County: Gwinnett County
 - Phone: 678-395-7795
 - Website: [www.norcrosslawfirm.com](https://www.norcrosslawfirm.com/)
 

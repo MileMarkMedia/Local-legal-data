@@ -9,6 +9,7 @@ Ira H. Weinstock, P.C. is a Harrisburg law firm that has represented injured wor
 ## Contact
 
 - Address: 800 N 2nd St, Harrisburg, PA 17102
+- County: Dauphin County
 - Phone: 717-238-1657
 - Website: [www.paworkerscompensation.law](https://www.paworkerscompensation.law/)
 

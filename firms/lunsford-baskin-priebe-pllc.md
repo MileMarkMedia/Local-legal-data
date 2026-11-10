@@ -9,6 +9,7 @@ Lunsford, Baskin & Priebe PLLC is a workers' compensation law firm founded in 20
 ## Contact
 
 - Address: 5333 Magazine Street, New Orleans, LA 70115
+- County: Orleans Parish
 - Phone: 504-788-2994
 - Website: [www.lunsfordbaskin.com](https://www.lunsfordbaskin.com/)
 

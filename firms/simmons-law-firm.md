@@ -10,6 +10,7 @@ Simmons Law Firm is a Columbia, South Carolina law firm representing injury vict
 ## Contact
 
 - Address: 1711 Pickens Street, Columbia, SC 29201
+- County: Richland County
 - Phone: 803-779-4600
 - Website: [www.simmonslawfirm.com](https://www.simmonslawfirm.com/)
 

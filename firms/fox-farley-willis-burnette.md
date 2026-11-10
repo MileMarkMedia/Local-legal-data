@@ -9,6 +9,7 @@ Fox, Farley, Willis & Burnette is a Tennessee personal injury law firm with offi
 ## Contact
 
 - Address: 310 North Main St, Clinton, TN 37716
+- County: Anderson County
 - Phone: 865-457-6440
 - Website: [www.foxandfarleylaw.com](https://www.foxandfarleylaw.com/)
 

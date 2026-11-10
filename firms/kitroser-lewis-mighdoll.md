@@ -9,6 +9,7 @@ Kitroser Lewis & Mighdoll is a North Palm Beach law firm focused on estate plann
 ## Contact
 
 - Address: 631 US Hwy 1, Suite 406, North Palm Beach, FL 33408
+- County: Palm Beach County
 - Phone: 561-721-0600
 - Website: [www.kitroserlaw.com](https://www.kitroserlaw.com/)
 

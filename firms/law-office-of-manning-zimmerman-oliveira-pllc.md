@@ -10,6 +10,7 @@ The Law Office of Manning Zimmerman & Oliveira PLLC is a Manchester, New Hampshi
 ## Contact
 
 - Address: 87 Middle Street, Manchester, NH 03101
+- County: Hillsborough County
 - Phone: 603-624-7200
 - Website: [www.manningzimmermanlaw.com](https://www.manningzimmermanlaw.com/)
 

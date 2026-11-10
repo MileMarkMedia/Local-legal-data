@@ -13,6 +13,7 @@ Daniel M. Copeland, Attorney at Law, P.A. is a Jacksonville, Florida law firm fo
 ## Contact
 
 - Address: 9310 Old Kings Road South, Suite 1501, Jacksonville, FL 32257
+- County: Duval County
 - Phone: 904-482-0616
 - Website: [www.dmcopelandlaw.com](https://www.dmcopelandlaw.com/)
 

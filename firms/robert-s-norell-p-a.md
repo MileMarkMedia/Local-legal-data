@@ -9,6 +9,7 @@ Robert S. Norell, P.A. is a Florida employment law firm focused on unpaid overti
 ## Contact
 
 - Address: 300 N.W. 70th Avenue, Suite 305, Plantation, FL 33317
+- County: Broward County
 - Phone: 954-617-6017
 - Website: [www.floridawagelaw.com](https://www.floridawagelaw.com/)
 

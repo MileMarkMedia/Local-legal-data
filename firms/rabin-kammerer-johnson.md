@@ -10,6 +10,7 @@ Rabin Kammerer Johnson is a boutique law firm in West Palm Beach, Florida, focus
 ## Contact
 
 - Address: 1601 Forum Place, Suite 201, West Palm Beach, FL 33401
+- County: Palm Beach County
 - Phone: 561-659-7878
 - Website: [www.complexbusinesslitigation.com](https://www.complexbusinesslitigation.com/)
 

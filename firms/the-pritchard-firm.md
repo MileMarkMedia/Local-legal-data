@@ -11,6 +11,7 @@ The Pritchard Firm is an Asheville, North Carolina criminal defense firm founded
 ## Contact
 
 - Address: 22 South Pack Square, 12th Floor, Asheville, NC 28801
+- County: Buncombe County
 - Phone: 828-518-6007
 - Website: [www.pritchardfirm.com](https://www.pritchardfirm.com/)
 

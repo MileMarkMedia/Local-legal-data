@@ -10,6 +10,7 @@ The Law Office of Julia Kefalinos P.A. is a Miami firm focused on bankruptcy and
 ## Contact
 
 - Address: 2121 SW 3rd Ave., Suite 600, Miami, FL 33129
+- County: Miami-Dade County
 - Phone: 305-856-2713
 - Website: [www.kefalinoslaw.com](https://www.kefalinoslaw.com/)
 

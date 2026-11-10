@@ -11,6 +11,7 @@ John Reed, Attorney at Law is a criminal defense firm serving League City and th
 ## Contact
 
 - Address: 1500 Marina Bay Dr, Bldg 133, Clear Lake Shores, TX 77565
+- County: Galveston County
 - Phone: 281-928-8228
 - Website: [www.johnreedlaw.com](https://www.johnreedlaw.com/)
 

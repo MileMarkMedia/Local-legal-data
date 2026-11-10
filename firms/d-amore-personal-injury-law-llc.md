@@ -10,6 +10,7 @@ D'Amore Personal Injury Law, LLC is a Baltimore medical malpractice and catastro
 ## Contact
 
 - Address: 145 W Ostend St, Suite 600, Baltimore, MD 21230
+- County: Baltimore city
 - Phone: 410-324-2000
 - Website: [www.damoreinjurylaw.com](https://www.damoreinjurylaw.com/)
 

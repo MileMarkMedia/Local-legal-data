@@ -10,6 +10,7 @@ The Law Office of Brian S. Karpe, LLC is a Canton, Connecticut law firm focused 
 ## Contact
 
 - Address: 326 Albany Turnpike, Suite A, Canton, CT 06019
+- County: Capitol Planning Region
 - Phone: 860-217-1458
 - Website: [www.attorneykarpe.com](https://www.attorneykarpe.com/)
 

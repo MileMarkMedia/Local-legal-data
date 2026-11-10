@@ -9,6 +9,7 @@ The Law Office of Shane R. Kadlec is a Houston personal injury firm that has rep
 ## Contact
 
 - Address: 9575 Katy Freeway, Suite 200, Houston, TX 77024
+- County: Harris County
 - Phone: 281-643-2000
 - Website: [www.injurylawyerhouston.com](https://www.injurylawyerhouston.com/)
 

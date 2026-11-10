@@ -9,6 +9,7 @@ The Law Office of Sean A. McNicholas, P.C. is a criminal defense firm in Kew Gar
 ## Contact
 
 - Address: 125-16 C Queens Blvd, Kew Gardens, NY 11415
+- County: Queens County
 - Phone: 917-885-3167
 - Website: [www.seanlawoffice.com](https://www.seanlawoffice.com/)
 

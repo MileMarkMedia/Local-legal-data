@@ -10,6 +10,7 @@ Luke Newman, P.A. is a Tallahassee criminal defense and appellate law firm repre
 ## Contact
 
 - Address: 308 McDaniel Street, Tallahassee, FL 32303
+- County: Leon County
 - Phone: 850-224-4444
 - Website: [www.lukenewmanlaw.com](https://www.lukenewmanlaw.com/)
 

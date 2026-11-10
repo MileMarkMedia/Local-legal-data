@@ -9,6 +9,7 @@ Hornsby Law is a family personal injury and business litigation firm serving Orl
 ## Contact
 
 - Address: 1317 Edgewater Dr, Suite 216, Orlando, FL 32804
+- County: Orange County
 - Phone: 407-499-8887
 - Website: [www.hornsbylawgroup.com](https://www.hornsbylawgroup.com/)
 

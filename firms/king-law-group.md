@@ -9,6 +9,7 @@ King Law Group is a criminal defense law firm serving Clearwater, New Port Riche
 ## Contact
 
 - Address: 13575 58th St N, Suite 285, Clearwater, FL 33760
+- County: Pinellas County
 - Phone: 727-538-4265
 - Website: [www.tampabaydefenselawyer.com](https://www.tampabaydefenselawyer.com/)
 

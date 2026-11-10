@@ -10,6 +10,7 @@ The Law Offices of Timothy Grabe is a Portland personal injury firm that has rep
 ## Contact
 
 - Address: 909 SW St. Clair Ave, Suite 1C, Portland, OR 97205
+- County: Multnomah County
 - Phone: 971-645-7176
 - Website: [www.timgrabeattorney.com](https://www.timgrabeattorney.com/)
 

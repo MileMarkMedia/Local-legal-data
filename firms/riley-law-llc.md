@@ -9,6 +9,7 @@ Riley Law, LLC is a Bridgeport, Connecticut criminal defense firm led by attorne
 ## Contact
 
 - Address: 1087 Broad St, Bridgeport, CT 06604
+- County: Greater Bridgeport Planning Region
 - Phone: 203-818-1888
 - Website: [www.rileyup.com](https://www.rileyup.com/)
 

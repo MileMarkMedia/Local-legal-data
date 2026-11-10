@@ -9,6 +9,7 @@ Perkins Law is a Boca Raton intellectual property and brand protection firm serv
 ## Contact
 
 - Address: 2295 NW Corporate Boulevard, Suite 117, Boca Raton, FL 33431
+- County: Palm Beach County
 - Phone: 561-467-4001
 - Website: [www.brandprotection.law](https://www.brandprotection.law/)
 

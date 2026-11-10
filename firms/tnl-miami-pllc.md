@@ -11,6 +11,7 @@ TNL MIAMI, PLLC is a Florida family law and mediation firm based in Miami, servi
 ## Contact
 
 - Address: 390 NE 191st St, Suite 8368, Miami, FL 33179
+- County: Miami-Dade County
 - Phone: 786-730-6444
 - Website: [www.tnlmiami.com](https://www.tnlmiami.com/)
 

@@ -10,6 +10,7 @@ The Law Office of Angela N. Manz is an estate planning and elder law firm in Vir
 ## Contact
 
 - Address: 500 Viking Drive, Suite 103, Virginia Beach, VA 23452
+- County: Virginia Beach city
 - Phone: 757-271-6275
 - Website: [www.manzlawfirm.com](https://www.manzlawfirm.com/)
 

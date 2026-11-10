@@ -9,6 +9,7 @@ Kaye, Lembeck, Hitt & French Family Law is an Atlanta family law firm serving cl
 ## Contact
 
 - Address: 5555 Glenridge Connector, Suite 675, Atlanta, GA 30342
+- County: Fulton County
 - Phone: 404-233-2800
 - Website: [www.klhffamilylaw.com](https://www.klhffamilylaw.com/)
 

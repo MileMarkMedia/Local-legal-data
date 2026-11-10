@@ -12,6 +12,7 @@ Steinhardt, Siskind and Lieberman, LLC is a Glen Burnie law firm representing di
 ## Contact
 
 - Address: 808 Landmark Dr, Suite 227, Glen Burnie, MD 21061
+- County: Anne Arundel County
 - Phone: 410-766-7630
 - Website: [www.steinhardtlawfirm.com](https://www.steinhardtlawfirm.com/)
 

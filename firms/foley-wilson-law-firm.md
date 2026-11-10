@@ -9,6 +9,7 @@ Foley & Wilson Law Firm is a boutique federal and state criminal defense practic
 ## Contact
 
 - Address: 12481 Brantley Commons Ct., Fort Myers, FL 33907
+- County: Lee County
 - Phone: 239-690-6080
 - Website: [www.robertfoleylaw.com](https://www.robertfoleylaw.com/)
 

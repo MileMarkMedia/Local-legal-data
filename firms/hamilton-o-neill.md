@@ -9,6 +9,7 @@ Hamilton O'Neill is a Miami family law firm focused on high-net-worth and comple
 ## Contact
 
 - Address: 150 SE 2nd Ave, Suite 908, Miami, FL 33131
+- County: Miami-Dade County
 - Phone: 305-371-3788
 - Website: [www.hamiltonfamilylaw.com](https://www.hamiltonfamilylaw.com/)
 

@@ -9,6 +9,7 @@ Craig D. Earnhart, P.A., also known as Earnhart Law, is a personal injury firm s
 ## Contact
 
 - Address: 70 SE 4th Ave, Delray Beach, FL 33483
+- County: Palm Beach County
 - Phone: 561-265-2220
 - Website: [www.delrayinjuryattorneys.com](https://www.delrayinjuryattorneys.com/)
 

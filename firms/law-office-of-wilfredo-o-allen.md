@@ -9,6 +9,7 @@ The Law Office of Wilfredo O. Allen is a Miami immigration law firm led by found
 ## Contact
 
 - Address: 2250 SW 3rd Ave, Suite 301, Miami, FL 33129
+- County: Miami-Dade County
 - Phone: 305-854-5955
 - Website: [www.legalallen.com](https://www.legalallen.com/)
 

@@ -11,6 +11,7 @@ Smith, Ball, Báez & Prather is a Florida law firm devoted entirely to personal 
 ## Contact
 
 - Address: 4400 PGA Blvd, Suite 800, Palm Beach Gardens, FL 33410
+- County: Palm Beach County
 - Phone: 561-500-4357
 - Website: [www.smithball.com](https://www.smithball.com/)
 

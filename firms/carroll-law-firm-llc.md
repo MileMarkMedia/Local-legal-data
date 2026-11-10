@@ -10,6 +10,7 @@ Carroll Law Firm LLC is an Atlanta law firm focused on medical malpractice, pers
 ## Contact
 
 - Address: 4200 Northside Pkwy NW, Suite 300, Atlanta, GA 30327
+- County: Fulton County
 - Phone: 404-816-4555
 - Website: [www.carroll-firm.com](https://www.carroll-firm.com/)
 

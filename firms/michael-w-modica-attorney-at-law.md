@@ -10,6 +10,7 @@ Michael W. Modica, Attorney at Law is a criminal defense firm serving Wilmington
 ## Contact
 
 - Address: 22b Trolley Square, Wilmington, DE 19806
+- County: New Castle County
 - Phone: 302-600-1262
 - Website: [www.michaelmodicalaw.com](https://www.michaelmodicalaw.com/)
 

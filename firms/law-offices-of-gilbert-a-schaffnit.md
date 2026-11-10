@@ -9,6 +9,7 @@ The Law Offices of Gilbert A. Schaffnit is a Gainesville criminal defense firm s
 ## Contact
 
 - Address: 719 NE 1st St, Gainesville, FL 32601
+- County: Alachua County
 - Phone: 352-505-1799
 - Website: [www.gilschaffnit.com](https://www.gilschaffnit.com/)
 

@@ -11,6 +11,7 @@ Cessna & George Law Firm is a London, Kentucky law firm representing injured vic
 ## Contact
 
 - Address: 506 S Main St, London, KY 40741
+- County: Laurel County
 - Phone: 606-770-5400
 - Website: [www.cessnageorge.com](https://www.cessnageorge.com/)
 

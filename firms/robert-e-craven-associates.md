@@ -10,6 +10,7 @@ Robert E. Craven & Associates is a North Kingstown personal injury law firm repr
 ## Contact
 
 - Address: 7405 Post Road, North Kingstown, RI 02852
+- County: Washington County
 - Phone: 401-453-2700
 - Website: [www.robertecravenlaw.com](https://www.robertecravenlaw.com/)
 

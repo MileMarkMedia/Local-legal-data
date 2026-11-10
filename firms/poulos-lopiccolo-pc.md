@@ -10,6 +10,7 @@ Poulos LoPiccolo PC is a New Jersey litigation firm in Ocean serving clients in 
 ## Contact
 
 - Address: 1305 South Roller Rd., Ocean, NJ 07712
+- County: Monmouth County
 - Phone: 732-757-0165
 - Website: [www.pllawfirm.com](https://www.pllawfirm.com/)
 

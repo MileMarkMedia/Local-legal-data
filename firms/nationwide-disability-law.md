@@ -9,6 +9,7 @@ Nationwide Disability Law is a disability benefits firm based in Mount Clemens, 
 ## Contact
 
 - Address: 40 Macomb Place, Suite 203, Mount Clemens, MI 48043
+- County: Macomb County
 - Phone: 586-463-6666
 - Website: [www.nationwidedisabilitylaw.com](https://www.nationwidedisabilitylaw.com/)
 

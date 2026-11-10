@@ -10,6 +10,7 @@ The Law Offices of Lauren H. Kane is a Philadelphia family law firm focused on d
 ## Contact
 
 - Address: 3900 Ford Road, Suite 7L, Philadelphia, PA 19131
+- County: Philadelphia County
 - Phone: 215-918-9453
 - Website: [www.phillyfamilylawyer.com](https://www.phillyfamilylawyer.com/)
 

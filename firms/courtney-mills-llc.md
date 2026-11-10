@@ -11,6 +11,7 @@ Courtney & Mills, LLC is a Springfield, Missouri law firm focused on family law 
 ## Contact
 
 - Address: 725 West Battlefield Rd, Suite A, Springfield, MO 65807
+- County: Greene County
 - Phone: 417-869-9888
 - Website: [www.courtneyandmills.com](https://www.courtneyandmills.com/)
 

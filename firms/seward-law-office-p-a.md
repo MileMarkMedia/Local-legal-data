@@ -9,6 +9,7 @@ Seward Law Office, P.A. is a Tampa real estate law firm focused on homeowners an
 ## Contact
 
 - Address: 5401 W. Kennedy Blvd, Suite 100, Tampa, FL 33609
+- County: Hillsborough County
 - Phone: 813-252-6789
 - Website: [www.sewardlawoffice.com](https://www.sewardlawoffice.com/)
 

@@ -10,6 +10,7 @@ Berman \| Sobin \| Gross LLP is a Maryland workers' compensation and personal in
 ## Contact
 
 - Address: 481 N Frederick Ave, Suite 300, Gaithersburg, MD 20877
+- County: Montgomery County
 - Phone: 301-670-7030
 - Website: [www.marylandworkerscompensationlaw.com](https://www.marylandworkerscompensationlaw.com/)
 

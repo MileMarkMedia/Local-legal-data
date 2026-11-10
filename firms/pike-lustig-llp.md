@@ -10,6 +10,7 @@ Pike & Lustig, LLP is a West Palm Beach law firm focused on business litigation 
 ## Contact
 
 - Address: 1209 N Olive Ave, West Palm Beach, FL 33401
+- County: Palm Beach County
 - Phone: 561-291-8298
 - Website: [www.turnpikelaw.com](https://www.turnpikelaw.com/)
 

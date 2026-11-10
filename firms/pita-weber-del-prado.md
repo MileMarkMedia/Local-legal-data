@@ -9,6 +9,7 @@ Pita Weber Del Prado is a Miami law firm focused on personal injury, wrongful de
 ## Contact
 
 - Address: 9350 S Dixie Hwy, Suite 1200, Miami, FL 33156
+- County: Miami-Dade County
 - Phone: 305-670-2889
 - Website: [www.pwdlawfirm.com](https://www.pwdlawfirm.com/)
 

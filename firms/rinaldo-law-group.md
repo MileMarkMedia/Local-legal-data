@@ -10,6 +10,7 @@ Rinaldo Law Group is a Tampa personal injury firm founded by Catherine M. Rinald
 ## Contact
 
 - Address: 3800 Bay to Bay Blvd, Tampa, FL 33629
+- County: Hillsborough County
 - Phone: 813-831-9999
 - Website: [www.tampainjuryaccidentlaw.com](https://www.tampainjuryaccidentlaw.com/)
 

@@ -13,6 +13,7 @@ Ghandi Deeter Blackham Law Offices is a Las Vegas boutique firm focused on divor
 ## Contact
 
 - Address: 725 S 8th St, Suite 100, Las Vegas, NV 89101
+- County: Clark County
 - Phone: 702-878-1115
 - Website: [www.ghandilaw.com](https://www.ghandilaw.com/)
 

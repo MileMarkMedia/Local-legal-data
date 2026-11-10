@@ -1,0 +1,11 @@
+{
+ "checked": "2026-11-10",
+ "counties": {
+  "06073": {
+   "county": "San Diego County",
+   "county_fips": "073",
+   "state_fips": "06",
+   "years": {}
+  }
+ }
+}

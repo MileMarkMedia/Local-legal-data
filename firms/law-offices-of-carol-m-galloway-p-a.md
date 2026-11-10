@@ -11,6 +11,7 @@ The Law Offices of Carol M. Galloway, P.A. is a Jacksonville bankruptcy and debt
 ## Contact
 
 - Address: 301 West Bay Street, Suite 1451-52, Jacksonville, FL 32202
+- County: Duval County
 - Phone: 904-694-5489
 - Website: [www.gallowaylawoffices.com](https://www.gallowaylawoffices.com/)
 

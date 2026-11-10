@@ -13,6 +13,7 @@ Bruce S. Rosenwater & Associates, P.A. is a West Palm Beach law firm focused on 
 ## Contact
 
 - Address: 1601 Forum Place, Suite 602, West Palm Beach, FL 33401
+- County: Palm Beach County
 - Phone: 561-688-0991
 - Website: [www.rosenwater.com](https://www.rosenwater.com/)
 

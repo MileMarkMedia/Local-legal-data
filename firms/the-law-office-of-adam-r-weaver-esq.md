@@ -9,6 +9,7 @@ The Law Office of Adam R. Weaver, Esq. is a general practice law firm in Lehight
 ## Contact
 
 - Address: 1407 Blakeslee Blvd Dr E, Lehighton, PA 18235
+- County: Carbon County
 - Phone: 570-818-4888
 - Website: [www.weaveresq.com](https://www.weaveresq.com/)
 

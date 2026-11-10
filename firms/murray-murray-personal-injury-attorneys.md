@@ -10,6 +10,7 @@ Murray & Murray Personal Injury Attorneys is a family owned, fourth generation l
 ## Contact
 
 - Address: 111 E Shoreline Dr, Sandusky, OH 44870
+- County: Erie County
 - Phone: 419-624-3000
 - Website: [www.murrayandmurray.com](https://www.murrayandmurray.com/)
 

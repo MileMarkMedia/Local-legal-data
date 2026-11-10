@@ -10,6 +10,7 @@ The Law Offices of David C. Hardaway is a Central Texas criminal defense firm fo
 ## Contact
 
 - Address: 100 E San Antonio St, Suite 100, San Marcos, TX 78666
+- County: Hays County
 - Phone: 512-805-6613
 - Website: [www.davidhardawaylaw.com](https://www.davidhardawaylaw.com/)
 

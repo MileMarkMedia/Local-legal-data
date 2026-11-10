@@ -10,6 +10,7 @@ Florin Gray is a Tampa Bay law firm representing injured people, employees and w
 ## Contact
 
 - Address: 777 S Harbour Island Blvd, Suite 128, Tampa, FL 33602
+- County: Hillsborough County
 - Phone: 727-220-4000
 - Website: [www.floringray.com](https://www.floringray.com/)
 
