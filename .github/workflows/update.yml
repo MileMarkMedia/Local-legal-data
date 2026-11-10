@@ -23,9 +23,18 @@ jobs:
       - uses: actions/setup-python@v5
         with:
           python-version: '3.12'
+      - name: Look up office counties
+        timeout-minutes: 15
+        continue-on-error: true
+        run: python -u scripts/build.py geocode
+      - name: Pull county crash records
+        timeout-minutes: 20
+        continue-on-error: true
+        run: python -u scripts/build.py fars
       - name: Build dataset and reports
-        run: python scripts/build.py all
+        run: python -u scripts/build.py firms
       - name: Commit changes
+        if: always()
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"

@@ -1,8 +1,9 @@
 #!/usr/bin/env python3
 """Build the public firm dataset and county fatal crash reports.
 
-  python scripts/build.py firms     offline: dataset files and firm pages
-  python scripts/build.py all       also geocodes offices and pulls NHTSA FARS data
+  python scripts/build.py geocode   look up each office's county (U.S. Census geocoder)
+  python scripts/build.py fars      pull county fatal crash records (NHTSA FARS)
+  python scripts/build.py firms     write dataset files, firm pages and reports from what is cached
 
 Network steps use only free public U.S. government APIs and need no keys.
 """
@@ -30,11 +31,11 @@ def dump(path, data):
     path.write_text(json.dumps(data, ensure_ascii=False, indent=1, sort_keys=True) + "\n", encoding="utf-8")
 
 
-def get_json(url, tries=3):
+def get_json(url, tries=2):
     last = None
     for attempt in range(tries):
         try:
-            with urllib.request.urlopen(urllib.request.Request(url, headers=UA), timeout=60) as r:
+            with urllib.request.urlopen(urllib.request.Request(url, headers=UA), timeout=30) as r:
                 return json.loads(r.read().decode("utf-8", errors="replace"))
         except Exception as exc:  # network and parse errors are retried, then reported
             last = exc
@@ -55,9 +56,13 @@ def esc(text):
 def geocode(firms):
     cache = load(GEO_CACHE, {})
     changed = False
+    failures = done = 0
     for f in firms:
         if f["country"] != "US" or f["slug"] in cache:
             continue
+        if failures >= 6:
+            print("::warning::Geocoder unavailable, stopping early")
+            break
         street = re.sub(r"[,\s]+(suite|ste\.?|unit|floor|fl\.?|#|bldg\.?|building|room|rm\.?)\b.*$", "", f["street"], flags=re.I)
         street = re.sub(r",?\s+\d+(st|nd|rd|th)\s+floor.*$", "", street, flags=re.I)
         query = urllib.parse.urlencode({
@@ -68,7 +73,13 @@ def geocode(firms):
             matches = data["result"]["addressMatches"]
         except Exception as exc:
             print(f"::warning::Geocoder failed for {f['slug']}: {exc}")
+            failures += 1
             continue
+        failures = 0
+        done += 1
+        if done % 20 == 0:
+            print("geocoded", done, flush=True)
+            dump(GEO_CACHE, cache)
         entry = {"matched": False}
         if matches:
             county = matches[0]["geographies"]["Counties"][0]
@@ -116,7 +127,11 @@ def fetch_fars(firms, geo):
     last_year = datetime.date.today().year - 1
     known_latest = cache.get("latest_year") or 0
     printed = False
+    failures = 0
     for geoid, g in sorted(wanted.items()):
+        if failures >= 5:
+            print("::warning::FARS API unavailable, stopping early")
+            break
         entry = counties.setdefault(geoid, {"county": g["county"], "state_fips": g["state_fips"],
                                            "county_fips": g["county_fips"], "years": {}})
         for year in range(FIRST_YEAR, last_year + 1):
@@ -128,12 +143,18 @@ def fetch_fars(firms, geo):
                 rows = fars_rows(g["state_fips"], g["county_fips"], year)
             except Exception as exc:
                 print(f"::warning::FARS request failed for {geoid} {year}: {exc}")
+                failures += 1
+                if failures >= 5:
+                    break
                 continue
+            failures = 0
             if rows and not printed:
                 print("Sample FARS row:", rows[0])
                 printed = True
             entry["years"][key] = rows
             time.sleep(0.25)
+        print(geoid, g["county"], {y: len(r) for y, r in entry["years"].items()}, flush=True)
+        dump(FARS_CACHE, cache)
     years_with_data = [int(y) for c in counties.values() for y, rows in c["years"].items() if rows]
     if years_with_data:
         cache["latest_year"] = max(years_with_data)
@@ -405,9 +426,10 @@ def main():
     mode = sys.argv[1] if len(sys.argv) > 1 else "firms"
     source = load(SRC / "firms.json", None)
     firms = source["firms"]
-    if mode == "all":
-        geocode(firms)
-        fetch_fars(firms, load(GEO_CACHE, {}))
+    if mode == "geocode":
+        return geocode(firms)
+    if mode == "fars":
+        return fetch_fars(firms, load(GEO_CACHE, {}))
     build(firms, source["exported"])
 
 
