@@ -120,7 +120,7 @@ def fars_year(year, wanted):
     out = {geoid: {"crashes": 0, "deaths": 0, "multi": 0, "cities": {}, "roads": {}, "name": ""} for geoid in wanted}
     with archive.open(member) as fh:
         for row in csv.DictReader(io.TextIOWrapper(fh, encoding="cp1252", newline="")):
-            row = {k.strip().upper(): (v or "").strip() for k, v in row.items() if k}
+            row = {re.sub(r"[^A-Z0-9_]", "", k.upper()): (v or "").strip() for k, v in row.items() if k}
             geoid = f"{int(row['STATE']):02d}{int(row['COUNTY']):03d}"
             t = out.get(geoid)
             if t is None:
