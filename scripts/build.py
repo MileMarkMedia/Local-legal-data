@@ -276,19 +276,6 @@ def firm_page(f, rec, report):
         lines += ["## Local data", "",
                   f"- [Fatal crashes in {esc(report['county'])}, {report['state_name']}](../{report['path']})", ""]
     lines += ["---", "", f"[All firms](README.md) · [Dataset home](../README.md)", "", DISCLOSURE, ""]
-    schema = {"@context": "https://schema.org", "@type": "LegalService", "name": f["name"], "url": f["website"],
-              "telephone": f["phone"], "description": f["description"],
-              "address": {"@type": "PostalAddress", "streetAddress": f["street"], "addressLocality": f["city"],
-                          "addressRegion": f["state"], "postalCode": f["postal_code"], "addressCountry": f["country"]},
-              "knowsAbout": f["practice_areas"], "areaServed": f["areas_served"][:25] or [place],
-              "sameAs": [p["url"] for p in f["profiles"]]}
-    if f["attorneys"]:
-        schema["employee"] = [{"@type": "Person", "name": a["name"], **({"jobTitle": a["role"]} if a["role"] else {})}
-                              for a in f["attorneys"]]
-    if f["year_established"]:
-        schema["foundingDate"] = str(f["year_established"])
-    blob = json.dumps(schema, ensure_ascii=False).replace("</", "<\\/").replace("{{", "{ {").replace("{%", "{ %")
-    lines += [f'<script type="application/ld+json">{blob}</script>', ""]
     return "\n".join(lines)
 
 
@@ -344,14 +331,6 @@ def report_page(r, checked):
         lines.append(f"- [{esc(f['name'])}](../../../firms/{f['slug']}.md), {esc(f['city'])}: "
                      f"{esc(', '.join(p for p in f['practice_areas'] if p in CRASH_AREAS | {'Medical Malpractice', 'Product Liability', "Workers' Compensation"}))}")
     lines += ["", "---", "", "[All crash reports](../README.md) · [Dataset home](../../../README.md)", "", DISCLOSURE, ""]
-    schema = {"@context": "https://schema.org", "@type": "Dataset",
-              "name": f"Fatal crashes in {name}, {st}, {first['year']} to {last['year']}",
-              "description": f"Yearly counts of fatal motor vehicle crashes and deaths in {name}, {st}, from NHTSA FARS.",
-              "spatialCoverage": f"{name}, {st}", "temporalCoverage": f"{first['year']}/{last['year']}",
-              "isBasedOn": FARS_PAGE,
-              "license": "https://creativecommons.org/publicdomain/zero/1.0/",
-              "creator": {"@type": "Organization", "name": PUBLISHER}}
-    lines += [f'<script type="application/ld+json">{json.dumps(schema)}</script>', ""]
     return "\n".join(lines)
 
 

@@ -67,5 +67,3 @@ Source: [NHTSA FARS national data files](https://www.nhtsa.gov/research-data/fat
 [All crash reports](../README.md) · [Dataset home](../../../README.md)
 
 Firms listed here are clients of MileMark Legal Marketing, which maintains this dataset.
-
-<script type="application/ld+json">{"@context": "https://schema.org", "@type": "Dataset", "name": "Fatal crashes in Hillsborough County, Florida, 2020 to 2024", "description": "Yearly counts of fatal motor vehicle crashes and deaths in Hillsborough County, Florida, from NHTSA FARS.", "spatialCoverage": "Hillsborough County, Florida", "temporalCoverage": "2020/2024", "isBasedOn": "https://www.nhtsa.gov/research-data/fatality-analysis-reporting-system-fars", "license": "https://creativecommons.org/publicdomain/zero/1.0/", "creator": {"@type": "Organization", "name": "MileMark Legal Marketing"}}</script>
