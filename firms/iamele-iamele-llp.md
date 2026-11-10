@@ -39,6 +39,10 @@ Baltimore, Baltimore County, Ann Arundel County
 - [X](https://twitter.com/iamelelawmd)
 - [Google Business](https://g.page/BaltimorePersonalInjuryLawyers?gm)
 
+## Local data
+
+- [Fatal crashes in Baltimore city, Maryland](../reports/fatal-crashes/md/baltimore-city.md)
+
 ---
 
 [All firms](README.md) · [Dataset home](../README.md)

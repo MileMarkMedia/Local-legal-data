@@ -12059,7 +12059,7 @@
   },
   "24510": {
    "county": "Baltimore city",
-   "mismatch": true,
+   "mismatch": false,
    "years": {
     "2020": {
      "cities": {
@@ -21011,7 +21011,7 @@
   },
   "51683": {
    "county": "Manassas city",
-   "mismatch": true,
+   "mismatch": false,
    "years": {
     "2020": {
      "cities": {

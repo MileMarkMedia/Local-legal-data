@@ -41,6 +41,10 @@ Maryland
 - [Yelp](https://www.yelp.com/biz/maryland-injury-lawyers-baltimore)
 - [Google Business](https://maps.app.goo.gl/SmwBhFRJgsh9UxLA8)
 
+## Local data
+
+- [Fatal crashes in Baltimore city, Maryland](../reports/fatal-crashes/md/baltimore-city.md)
+
 ---
 
 [All firms](README.md) · [Dataset home](../README.md)

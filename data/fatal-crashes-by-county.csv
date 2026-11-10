@@ -124,6 +124,11 @@ county_fips,county,state,year,fatal_crashes,deaths,multi_vehicle_fatal_crashes
 24003,Anne Arundel County,MD,2022,46,48,19
 24003,Anne Arundel County,MD,2023,41,44,14
 24003,Anne Arundel County,MD,2024,51,52,23
+24510,Baltimore city,MD,2020,63,68,27
+24510,Baltimore city,MD,2021,47,48,17
+24510,Baltimore city,MD,2022,45,46,17
+24510,Baltimore city,MD,2023,45,46,19
+24510,Baltimore city,MD,2024,58,61,16
 24017,Charles County,MD,2020,25,26,8
 24017,Charles County,MD,2021,17,18,8
 24017,Charles County,MD,2022,23,25,10
@@ -269,6 +274,11 @@ county_fips,county,state,year,fatal_crashes,deaths,multi_vehicle_fatal_crashes
 48201,Harris County,TX,2022,527,558,226
 48201,Harris County,TX,2023,505,537,209
 48201,Harris County,TX,2024,551,583,231
+51683,Manassas city,VA,2020,1,1,0
+51683,Manassas city,VA,2021,1,1,1
+51683,Manassas city,VA,2022,2,2,0
+51683,Manassas city,VA,2023,5,5,3
+51683,Manassas city,VA,2024,0,0,0
 53033,King County,WA,2020,107,110,42
 53033,King County,WA,2021,126,137,49
 53033,King County,WA,2022,146,151,65

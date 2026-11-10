@@ -36,6 +36,10 @@ Manassas and Alexandria, VA
 - [X](https://x.com/theinjurylawyer)
 - [TikTok](https://www.tiktok.com/@roc_law)
 
+## Local data
+
+- [Fatal crashes in Manassas city, Virginia](../reports/fatal-crashes/va/manassas-city.md)
+
 ---
 
 [All firms](README.md) · [Dataset home](../README.md)

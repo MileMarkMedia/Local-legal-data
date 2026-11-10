@@ -1,6 +1,6 @@
 # Fatal Crash Reports by County
 
-County reports built from NHTSA's Fatality Analysis Reporting System. 55 counties are covered. Each report shows fatal crashes and deaths by year, the cities and roads where they happened, and local injury law firms.
+County reports built from NHTSA's Fatality Analysis Reporting System. 57 counties are covered. Each report shows fatal crashes and deaths by year, the cities and roads where they happened, and local injury law firms.
 
 ## California
 
@@ -46,6 +46,7 @@ County reports built from NHTSA's Fatality Analysis Reporting System. 55 countie
 ## Maryland
 
 - [Anne Arundel County](md/anne-arundel-county.md): 51 fatal crashes and 52 deaths in 2024
+- [Baltimore city](md/baltimore-city.md): 58 fatal crashes and 61 deaths in 2024
 - [Charles County](md/charles-county.md): 32 fatal crashes and 37 deaths in 2024
 - [Harford County](md/harford-county.md): 12 fatal crashes and 13 deaths in 2024
 - [Howard County](md/howard-county.md): 20 fatal crashes and 21 deaths in 2024
@@ -118,6 +119,10 @@ County reports built from NHTSA's Fatality Analysis Reporting System. 55 countie
 - [Bexar County](tx/bexar-county.md): 208 fatal crashes and 218 deaths in 2024
 - [Fort Bend County](tx/fort-bend-county.md): 38 fatal crashes and 41 deaths in 2024
 - [Harris County](tx/harris-county.md): 551 fatal crashes and 583 deaths in 2024
+
+## Virginia
+
+- [Manassas city](va/manassas-city.md): 0 fatal crashes and 0 deaths in 2024
 
 ## Washington
 

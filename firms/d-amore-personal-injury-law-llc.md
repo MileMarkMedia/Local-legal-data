@@ -37,6 +37,10 @@ Established in 2015.
 - Distinguished Justice Advocates
 - America's Top 100 High Stakes Litigators
 
+## Local data
+
+- [Fatal crashes in Baltimore city, Maryland](../reports/fatal-crashes/md/baltimore-city.md)
+
 ---
 
 [All firms](README.md) · [Dataset home](../README.md)
