@@ -1,0 +1,9 @@
+title: Local Legal Data
+description: Open data about U.S. law firms and local legal topics, including county fatal crash reports.
+theme: jekyll-theme-primer
+plugins:
+  - jekyll-sitemap
+  - jekyll-seo-tag
+exclude:
+  - scripts
+  - source
