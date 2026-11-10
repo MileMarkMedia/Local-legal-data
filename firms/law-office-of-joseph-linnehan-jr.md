@@ -29,6 +29,10 @@ Established in 2001.
 - [Facebook](https://www.facebook.com/p/Law-office-of-Joseph-R-Linnehan-Jr-100063475985730)
 - [LinkedIn](https://www.linkedin.com/company/law-office-of-joseph-r-linnehan-jr)
 
+## Local data
+
+- [Fatal crashes in Suffolk County, Massachusetts](../reports/fatal-crashes/ma/suffolk-county.md)
+
 ---
 
 [All firms](README.md) · [Dataset home](../README.md)

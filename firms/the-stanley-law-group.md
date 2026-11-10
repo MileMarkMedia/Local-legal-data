@@ -42,6 +42,10 @@ Established in 1990.
 - [YouTube](https://www.youtube.com/@TheStanleyLawGroup)
 - [Instagram](https://www.instagram.com/stanleylawgroup)
 
+## Local data
+
+- [Fatal crashes in Richland County, South Carolina](../reports/fatal-crashes/sc/richland-county.md)
+
 ---
 
 [All firms](README.md) · [Dataset home](../README.md)

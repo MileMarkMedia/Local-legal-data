@@ -43,6 +43,10 @@ Boca Raton, Fort Lauderdale & West Palm
 - [YouTube](https://www.youtube.com/channel/UCIrNLf9bFim1GeYPeI5ml5A)
 - [Google Business](https://maps.app.goo.gl/1XsMAw8LEZMZvhKRA)
 
+## Local data
+
+- [Fatal crashes in Palm Beach County, Florida](../reports/fatal-crashes/fl/palm-beach-county.md)
+
 ---
 
 [All firms](README.md) · [Dataset home](../README.md)

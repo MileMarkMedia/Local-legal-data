@@ -41,6 +41,10 @@ Miami
 - [Yelp](https://www.yelp.com/biz/pita-weber-and-del-prado-miami-5)
 - [FindLaw](https://lawyers.findlaw.com/florida/miami/3415333_1)
 
+## Local data
+
+- [Fatal crashes in Miami-Dade County, Florida](../reports/fatal-crashes/fl/miami-dade-county.md)
+
 ---
 
 [All firms](README.md) · [Dataset home](../README.md)

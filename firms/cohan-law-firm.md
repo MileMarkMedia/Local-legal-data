@@ -31,6 +31,10 @@ Established in 2016.
 - Multi-Million Dollar Advocates Forum
 - National Trial Lawyers - Top 40 Under 40
 
+## Local data
+
+- [Fatal crashes in New York County, New York](../reports/fatal-crashes/ny/new-york-county.md)
+
 ---
 
 [All firms](README.md) · [Dataset home](../README.md)

@@ -39,6 +39,10 @@ Established in 1976.
 - [Facebook](https://www.facebook.com/Mander-Law-Group-994350937339370)
 - [LinkedIn](https://www.linkedin.com/company/mander-law-group)
 
+## Local data
+
+- [Fatal crashes in Pasco County, Florida](../reports/fatal-crashes/fl/pasco-county.md)
+
 ---
 
 [All firms](README.md) · [Dataset home](../README.md)

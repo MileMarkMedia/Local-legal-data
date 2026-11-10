@@ -34,6 +34,10 @@ Miami
 - [X](https://twitter.com/AlangoldfarbPa)
 - [Expertise.com](https://www.expertise.com/fl/miami/medical-malpractice-attorney)
 
+## Local data
+
+- [Fatal crashes in Miami-Dade County, Florida](../reports/fatal-crashes/fl/miami-dade-county.md)
+
 ---
 
 [All firms](README.md) · [Dataset home](../README.md)

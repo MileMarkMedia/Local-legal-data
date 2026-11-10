@@ -42,6 +42,10 @@ Florida (Miami, Coral Gables)
 - [Justia](https://lawyers.justia.com/firm/halpern-santos-pinkert-p-a-38509)
 - [Yelp](https://www.yelp.com/biz/halpern-santos-and-pinkert-coral-gables)
 
+## Local data
+
+- [Fatal crashes in Miami-Dade County, Florida](../reports/fatal-crashes/fl/miami-dade-county.md)
+
 ---
 
 [All firms](README.md) · [Dataset home](../README.md)

@@ -33,6 +33,10 @@ Atlanta, Fulton, Dekalb, Cobb, Gwinnett, Clayton, Henry
 - [Yelp](https://www.yelp.com/biz/evans-law-atlanta)
 - [Avvo](https://www.avvo.com/attorneys/30305-ga-andrew-evans-2793170.html)
 
+## Local data
+
+- [Fatal crashes in Fulton County, Georgia](../reports/fatal-crashes/ga/fulton-county.md)
+
 ---
 
 [All firms](README.md) · [Dataset home](../README.md)

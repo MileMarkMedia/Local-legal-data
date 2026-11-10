@@ -36,6 +36,10 @@ Established in 1999.
 - [Facebook](https://www.facebook.com/muslehlawfirm)
 - [LinkedIn](https://www.linkedin.com/company/musleh-law-firm)
 
+## Local data
+
+- [Fatal crashes in Marion County, Florida](../reports/fatal-crashes/fl/marion-county.md)
+
 ---
 
 [All firms](README.md) · [Dataset home](../README.md)

@@ -39,6 +39,10 @@ Greenville, Spartanburg, Upstate South Carolina, Clemson, Travelers Rest, Greenw
 - [Super Lawyers](https://profiles.superlawyers.com/south-carolina/greenville/lawfirm/davis-and-snyder-pa/26a06696-6763-4a35-8f66-c4ce81e8107b.html)
 - [FindLaw](https://lawyers.findlaw.com/south-carolina/greenville/3898249_1)
 
+## Local data
+
+- [Fatal crashes in Greenville County, South Carolina](../reports/fatal-crashes/sc/greenville-county.md)
+
 ---
 
 [All firms](README.md) · [Dataset home](../README.md)

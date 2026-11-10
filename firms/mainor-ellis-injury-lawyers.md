@@ -31,6 +31,10 @@ Las Vegas
 - AV Preeminent rating from Martindale-Hubbell
 - Legal Elite, Nevada Business Magazine
 
+## Local data
+
+- [Fatal crashes in Clark County, Nevada](../reports/fatal-crashes/nv/clark-county.md)
+
 ---
 
 [All firms](README.md) · [Dataset home](../README.md)

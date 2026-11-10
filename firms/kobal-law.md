@@ -38,6 +38,10 @@ Tampa
 - [Avvo](https://www.avvo.com/attorneys/33626-fl-jason-kobal-1294497.html)
 - [Google Business](https://g.page/TampaWorkersComp)
 
+## Local data
+
+- [Fatal crashes in Hillsborough County, Florida](../reports/fatal-crashes/fl/hillsborough-county.md)
+
 ---
 
 [All firms](README.md) · [Dataset home](../README.md)

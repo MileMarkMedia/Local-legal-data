@@ -34,6 +34,10 @@ Established in 2019.
 - [Expertise.com](https://www.expertise.com/fl/clearwater/car-accident-lawyers)
 - [Instagram](https://www.instagram.com/moorelawfla)
 
+## Local data
+
+- [Fatal crashes in Hillsborough County, Florida](../reports/fatal-crashes/fl/hillsborough-county.md)
+
 ---
 
 [All firms](README.md) · [Dataset home](../README.md)

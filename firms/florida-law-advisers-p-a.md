@@ -47,6 +47,10 @@ Tampa & Orlando
 - [LinkedIn](https://www.linkedin.com/company/florida-law-advisers-p.a.)
 - [YouTube](https://www.youtube.com/channel/UCl2fOQ2p6ALOq-hZlFvp0cg)
 
+## Local data
+
+- [Fatal crashes in Hillsborough County, Florida](../reports/fatal-crashes/fl/hillsborough-county.md)
+
 ---
 
 [All firms](README.md) · [Dataset home](../README.md)

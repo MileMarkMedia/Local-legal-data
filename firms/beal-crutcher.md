@@ -35,6 +35,10 @@ Franklin & Brentwood
 
 - [Facebook](https://www.facebook.com/williamsbealnations)
 
+## Local data
+
+- [Fatal crashes in Williamson County, Tennessee](../reports/fatal-crashes/tn/williamson-county.md)
+
 ---
 
 [All firms](README.md) · [Dataset home](../README.md)

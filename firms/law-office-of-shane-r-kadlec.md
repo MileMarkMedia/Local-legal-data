@@ -38,6 +38,10 @@ Established in 1996.
 - [LinkedIn](https://www.linkedin.com/company/law-office-of-shane-r-kadlec)
 - [Yelp](https://www.yelp.com/biz/law-office-of-shane-r-kadlec-houston-3)
 
+## Local data
+
+- [Fatal crashes in Harris County, Texas](../reports/fatal-crashes/tx/harris-county.md)
+
 ---
 
 [All firms](README.md) · [Dataset home](../README.md)

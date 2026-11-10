@@ -44,6 +44,10 @@ Mount Juliet, Lebanon, Gallatin & Murfreesboro
 - [FindLaw](https://lawyers.findlaw.com/tennessee/mount-juliet/the-law-offices-of-christopher-eads-pllc-NTIxMjE3N18x)
 - [Super Lawyers](https://profiles.superlawyers.com/tennessee/mt-juliet/lawyer/christopher-eads/8f2c7b3d-0537-425a-b6a4-bfcd4a04972b.html)
 
+## Local data
+
+- [Fatal crashes in Wilson County, Tennessee](../reports/fatal-crashes/tn/wilson-county.md)
+
 ---
 
 [All firms](README.md) · [Dataset home](../README.md)

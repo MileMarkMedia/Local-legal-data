@@ -50,6 +50,10 @@ West Palm Beach
 - [Martindale-Hubbell](https://www.martindale.com/organization/pike-lustig-llp-turnpike-law-157597713/west-palm-beach-florida-158687535-f)
 - [LinkedIn](https://www.linkedin.com/company/pike-&-lustig-llp)
 
+## Local data
+
+- [Fatal crashes in Palm Beach County, Florida](../reports/fatal-crashes/fl/palm-beach-county.md)
+
 ---
 
 [All firms](README.md) · [Dataset home](../README.md)

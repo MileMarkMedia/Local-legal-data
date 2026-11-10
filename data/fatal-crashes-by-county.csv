@@ -1,0 +1,276 @@
+county_fips,county,state,year,fatal_crashes,deaths,multi_vehicle_fatal_crashes
+06073,San Diego County,CA,2020,270,293,85
+06073,San Diego County,CA,2021,298,316,103
+06073,San Diego County,CA,2022,272,286,92
+06073,San Diego County,CA,2023,271,288,100
+06073,San Diego County,CA,2024,282,303,98
+06099,Stanislaus County,CA,2020,78,84,39
+06099,Stanislaus County,CA,2021,107,119,57
+06099,Stanislaus County,CA,2022,78,88,32
+06099,Stanislaus County,CA,2023,77,89,27
+06099,Stanislaus County,CA,2024,76,88,29
+06111,Ventura County,CA,2020,53,59,18
+06111,Ventura County,CA,2021,56,61,19
+06111,Ventura County,CA,2022,51,57,15
+06111,Ventura County,CA,2023,65,72,27
+06111,Ventura County,CA,2024,55,58,17
+08077,Mesa County,CO,2020,13,13,6
+08077,Mesa County,CO,2021,15,15,4
+08077,Mesa County,CO,2022,28,29,14
+08077,Mesa County,CO,2023,21,21,6
+08077,Mesa County,CO,2024,15,17,3
+12011,Broward County,FL,2020,258,268,109
+12011,Broward County,FL,2021,264,280,105
+12011,Broward County,FL,2022,276,288,111
+12011,Broward County,FL,2023,216,219,100
+12011,Broward County,FL,2024,229,243,84
+12031,Duval County,FL,2020,174,187,72
+12031,Duval County,FL,2021,178,191,82
+12031,Duval County,FL,2022,142,150,57
+12031,Duval County,FL,2023,153,165,72
+12031,Duval County,FL,2024,148,152,73
+12057,Hillsborough County,FL,2020,198,213,103
+12057,Hillsborough County,FL,2021,254,271,107
+12057,Hillsborough County,FL,2022,215,225,108
+12057,Hillsborough County,FL,2023,209,230,95
+12057,Hillsborough County,FL,2024,174,181,75
+12081,Manatee County,FL,2020,61,65,22
+12081,Manatee County,FL,2021,67,71,30
+12081,Manatee County,FL,2022,64,69,22
+12081,Manatee County,FL,2023,67,71,34
+12081,Manatee County,FL,2024,58,61,26
+12083,Marion County,FL,2020,94,105,40
+12083,Marion County,FL,2021,84,93,35
+12083,Marion County,FL,2022,104,112,49
+12083,Marion County,FL,2023,91,99,51
+12083,Marion County,FL,2024,92,113,39
+12086,Miami-Dade County,FL,2020,295,314,141
+12086,Miami-Dade County,FL,2021,323,352,155
+12086,Miami-Dade County,FL,2022,290,307,125
+12086,Miami-Dade County,FL,2023,310,325,140
+12086,Miami-Dade County,FL,2024,265,279,128
+12095,Orange County,FL,2020,165,174,78
+12095,Orange County,FL,2021,201,216,90
+12095,Orange County,FL,2022,200,205,85
+12095,Orange County,FL,2023,169,172,65
+12095,Orange County,FL,2024,152,158,64
+12097,Osceola County,FL,2020,49,59,29
+12097,Osceola County,FL,2021,49,60,27
+12097,Osceola County,FL,2022,70,76,40
+12097,Osceola County,FL,2023,72,81,38
+12097,Osceola County,FL,2024,44,48,23
+12099,Palm Beach County,FL,2020,176,184,79
+12099,Palm Beach County,FL,2021,198,215,98
+12099,Palm Beach County,FL,2022,217,232,99
+12099,Palm Beach County,FL,2023,182,194,74
+12099,Palm Beach County,FL,2024,191,214,92
+12101,Pasco County,FL,2020,100,107,47
+12101,Pasco County,FL,2021,94,105,52
+12101,Pasco County,FL,2022,98,105,39
+12101,Pasco County,FL,2023,91,92,41
+12101,Pasco County,FL,2024,106,111,57
+12115,Sarasota County,FL,2020,55,61,21
+12115,Sarasota County,FL,2021,57,61,22
+12115,Sarasota County,FL,2022,52,58,26
+12115,Sarasota County,FL,2023,57,58,27
+12115,Sarasota County,FL,2024,52,56,23
+12127,Volusia County,FL,2020,129,137,53
+12127,Volusia County,FL,2021,136,148,70
+12127,Volusia County,FL,2022,124,131,64
+12127,Volusia County,FL,2023,104,110,49
+12127,Volusia County,FL,2024,101,108,43
+13089,DeKalb County,GA,2020,91,91,48
+13089,DeKalb County,GA,2021,138,145,66
+13089,DeKalb County,GA,2022,119,126,54
+13089,DeKalb County,GA,2023,139,151,61
+13089,DeKalb County,GA,2024,98,106,46
+13121,Fulton County,GA,2020,119,145,60
+13121,Fulton County,GA,2021,149,153,58
+13121,Fulton County,GA,2022,145,160,57
+13121,Fulton County,GA,2023,103,112,39
+13121,Fulton County,GA,2024,91,95,32
+13135,Gwinnett County,GA,2020,53,57,31
+13135,Gwinnett County,GA,2021,44,51,21
+13135,Gwinnett County,GA,2022,65,66,26
+13135,Gwinnett County,GA,2023,57,67,32
+13135,Gwinnett County,GA,2024,61,65,37
+17019,Champaign County,IL,2020,13,15,3
+17019,Champaign County,IL,2021,22,22,13
+17019,Champaign County,IL,2022,19,22,8
+17019,Champaign County,IL,2023,14,17,7
+17019,Champaign County,IL,2024,10,10,6
+17031,Cook County,IL,2020,339,371,142
+17031,Cook County,IL,2021,419,458,170
+17031,Cook County,IL,2022,365,399,151
+17031,Cook County,IL,2023,357,377,161
+17031,Cook County,IL,2024,333,362,138
+21107,Hopkins County,KY,2020,6,6,1
+21107,Hopkins County,KY,2021,5,6,3
+21107,Hopkins County,KY,2022,8,8,1
+21107,Hopkins County,KY,2023,6,6,1
+21107,Hopkins County,KY,2024,10,11,5
+21125,Laurel County,KY,2020,12,13,4
+21125,Laurel County,KY,2021,14,15,7
+21125,Laurel County,KY,2022,9,11,5
+21125,Laurel County,KY,2023,8,9,5
+21125,Laurel County,KY,2024,17,18,10
+25025,Suffolk County,MA,2020,19,19,4
+25025,Suffolk County,MA,2021,34,36,16
+25025,Suffolk County,MA,2022,26,28,9
+25025,Suffolk County,MA,2023,21,22,6
+25025,Suffolk County,MA,2024,31,33,5
+24003,Anne Arundel County,MD,2020,50,50,23
+24003,Anne Arundel County,MD,2021,34,39,12
+24003,Anne Arundel County,MD,2022,46,48,19
+24003,Anne Arundel County,MD,2023,41,44,14
+24003,Anne Arundel County,MD,2024,51,52,23
+24017,Charles County,MD,2020,25,26,8
+24017,Charles County,MD,2021,17,18,8
+24017,Charles County,MD,2022,23,25,10
+24017,Charles County,MD,2023,20,21,8
+24017,Charles County,MD,2024,32,37,12
+24025,Harford County,MD,2020,16,17,6
+24025,Harford County,MD,2021,18,18,8
+24025,Harford County,MD,2022,18,21,10
+24025,Harford County,MD,2023,23,24,12
+24025,Harford County,MD,2024,12,13,5
+24027,Howard County,MD,2020,26,29,11
+24027,Howard County,MD,2021,31,33,12
+24027,Howard County,MD,2022,29,29,16
+24027,Howard County,MD,2023,23,23,12
+24027,Howard County,MD,2024,20,21,11
+24031,Montgomery County,MD,2020,44,46,15
+24031,Montgomery County,MD,2021,40,43,21
+24031,Montgomery County,MD,2022,46,50,17
+24031,Montgomery County,MD,2023,45,46,17
+24031,Montgomery County,MD,2024,46,47,22
+29077,Greene County,MO,2020,38,40,20
+29077,Greene County,MO,2021,45,49,24
+29077,Greene County,MO,2022,41,46,21
+29077,Greene County,MO,2023,49,54,22
+29077,Greene County,MO,2024,37,38,26
+33011,Hillsborough County,NH,2020,19,21,9
+33011,Hillsborough County,NH,2021,29,31,11
+33011,Hillsborough County,NH,2022,29,30,13
+33011,Hillsborough County,NH,2023,22,23,13
+33011,Hillsborough County,NH,2024,29,32,12
+34025,Monmouth County,NJ,2020,33,34,15
+34025,Monmouth County,NJ,2021,32,34,18
+34025,Monmouth County,NJ,2022,46,54,18
+34025,Monmouth County,NJ,2023,36,37,14
+34025,Monmouth County,NJ,2024,48,49,15
+32003,Clark County,NV,2020,183,195,77
+32003,Clark County,NV,2021,225,236,104
+32003,Clark County,NV,2022,236,259,104
+32003,Clark County,NV,2023,243,262,108
+32003,Clark County,NV,2024,267,293,120
+36061,New York County,NY,2020,27,27,10
+36061,New York County,NY,2021,47,48,14
+36061,New York County,NY,2022,31,36,6
+36061,New York County,NY,2023,32,33,10
+36061,New York County,NY,2024,35,40,9
+39043,Erie County,OH,2020,10,10,8
+39043,Erie County,OH,2021,9,11,5
+39043,Erie County,OH,2022,5,9,2
+39043,Erie County,OH,2023,11,12,5
+39043,Erie County,OH,2024,10,10,6
+39049,Franklin County,OH,2020,117,123,50
+39049,Franklin County,OH,2021,117,125,53
+39049,Franklin County,OH,2022,118,125,43
+39049,Franklin County,OH,2023,118,129,73
+39049,Franklin County,OH,2024,83,89,44
+41051,Multnomah County,OR,2020,71,83,23
+41051,Multnomah County,OR,2021,75,80,28
+41051,Multnomah County,OR,2022,87,88,31
+41051,Multnomah County,OR,2023,85,90,31
+41051,Multnomah County,OR,2024,71,78,29
+42017,Bucks County,PA,2020,47,52,27
+42017,Bucks County,PA,2021,51,55,24
+42017,Bucks County,PA,2022,49,51,26
+42017,Bucks County,PA,2023,47,49,22
+42017,Bucks County,PA,2024,41,45,14
+42101,Philadelphia County,PA,2020,154,166,65
+42101,Philadelphia County,PA,2021,128,133,43
+42101,Philadelphia County,PA,2022,133,142,53
+42101,Philadelphia County,PA,2023,128,135,39
+42101,Philadelphia County,PA,2024,133,137,53
+42103,Pike County,PA,2020,6,6,2
+42103,Pike County,PA,2021,4,4,0
+42103,Pike County,PA,2022,8,9,4
+42103,Pike County,PA,2023,3,3,0
+42103,Pike County,PA,2024,9,10,2
+44009,Washington County,RI,2020,15,15,1
+44009,Washington County,RI,2021,12,12,8
+44009,Washington County,RI,2022,13,13,5
+44009,Washington County,RI,2023,7,7,1
+44009,Washington County,RI,2024,9,10,5
+45019,Charleston County,SC,2020,68,73,24
+45019,Charleston County,SC,2021,72,77,27
+45019,Charleston County,SC,2022,57,64,23
+45019,Charleston County,SC,2023,70,75,27
+45019,Charleston County,SC,2024,55,61,21
+45035,Dorchester County,SC,2020,22,24,7
+45035,Dorchester County,SC,2021,22,26,15
+45035,Dorchester County,SC,2022,19,20,7
+45035,Dorchester County,SC,2023,15,15,6
+45035,Dorchester County,SC,2024,33,38,22
+45045,Greenville County,SC,2020,72,82,27
+45045,Greenville County,SC,2021,88,93,44
+45045,Greenville County,SC,2022,100,103,52
+45045,Greenville County,SC,2023,71,75,30
+45045,Greenville County,SC,2024,82,94,36
+45079,Richland County,SC,2020,49,55,22
+45079,Richland County,SC,2021,70,74,35
+45079,Richland County,SC,2022,65,67,25
+45079,Richland County,SC,2023,58,60,21
+45079,Richland County,SC,2024,59,63,32
+46083,Lincoln County,SD,2020,6,6,3
+46083,Lincoln County,SD,2021,1,1,0
+46083,Lincoln County,SD,2022,9,10,6
+46083,Lincoln County,SD,2023,9,11,4
+46083,Lincoln County,SD,2024,7,8,4
+47001,Anderson County,TN,2020,11,12,6
+47001,Anderson County,TN,2021,14,16,6
+47001,Anderson County,TN,2022,10,15,7
+47001,Anderson County,TN,2023,10,13,5
+47001,Anderson County,TN,2024,12,13,6
+47037,Davidson County,TN,2020,107,114,38
+47037,Davidson County,TN,2021,122,131,59
+47037,Davidson County,TN,2022,129,136,53
+47037,Davidson County,TN,2023,126,138,50
+47037,Davidson County,TN,2024,106,114,51
+47149,Rutherford County,TN,2020,44,46,18
+47149,Rutherford County,TN,2021,28,30,12
+47149,Rutherford County,TN,2022,38,39,18
+47149,Rutherford County,TN,2023,35,37,21
+47149,Rutherford County,TN,2024,38,44,27
+47187,Williamson County,TN,2020,16,18,6
+47187,Williamson County,TN,2021,12,13,4
+47187,Williamson County,TN,2022,23,26,11
+47187,Williamson County,TN,2023,15,16,8
+47187,Williamson County,TN,2024,12,12,5
+47189,Wilson County,TN,2020,16,17,10
+47189,Wilson County,TN,2021,23,26,9
+47189,Wilson County,TN,2022,19,19,9
+47189,Wilson County,TN,2023,22,25,11
+47189,Wilson County,TN,2024,22,25,13
+48029,Bexar County,TX,2020,182,195,74
+48029,Bexar County,TX,2021,224,239,98
+48029,Bexar County,TX,2022,229,247,94
+48029,Bexar County,TX,2023,206,213,83
+48029,Bexar County,TX,2024,208,218,90
+48157,Fort Bend County,TX,2020,30,31,13
+48157,Fort Bend County,TX,2021,49,55,23
+48157,Fort Bend County,TX,2022,35,35,21
+48157,Fort Bend County,TX,2023,41,44,20
+48157,Fort Bend County,TX,2024,38,41,17
+48201,Harris County,TX,2020,457,492,197
+48201,Harris County,TX,2021,540,576,226
+48201,Harris County,TX,2022,527,558,226
+48201,Harris County,TX,2023,505,537,209
+48201,Harris County,TX,2024,551,583,231
+53033,King County,WA,2020,107,110,42
+53033,King County,WA,2021,126,137,49
+53033,King County,WA,2022,146,151,65
+53033,King County,WA,2023,151,168,55
+53033,King County,WA,2024,140,152,65

@@ -37,6 +37,10 @@ Established in 2003.
 - [LinkedIn](https://www.linkedin.com/in/israelgarcialaw)
 - [Yelp](https://www.yelp.com/biz/law-office-of-israel-garcia-san-antonio)
 
+## Local data
+
+- [Fatal crashes in Bexar County, Texas](../reports/fatal-crashes/tx/bexar-county.md)
+
 ---
 
 [All firms](README.md) · [Dataset home](../README.md)

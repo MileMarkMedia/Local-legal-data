@@ -37,6 +37,10 @@ Issaquah, Bellevue, Renton
 - [Instagram](https://www.instagram.com/injurylawgroupnw)
 - [LinkedIn](https://www.linkedin.com/company/injury-law-group-nw)
 
+## Local data
+
+- [Fatal crashes in King County, Washington](../reports/fatal-crashes/wa/king-county.md)
+
 ---
 
 [All firms](README.md) · [Dataset home](../README.md)

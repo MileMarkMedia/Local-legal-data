@@ -44,6 +44,10 @@ Palm Beach County & Treasure Coast, West Palm, Stuart, Port St. Lucie, Fort Pier
 - [LinkedIn](https://www.linkedin.com/company/scott-smith-injury-law)
 - [Google Business](https://www.google.com/maps?cid=15576992086975636749)
 
+## Local data
+
+- [Fatal crashes in Palm Beach County, Florida](../reports/fatal-crashes/fl/palm-beach-county.md)
+
 ---
 
 [All firms](README.md) · [Dataset home](../README.md)

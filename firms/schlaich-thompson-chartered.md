@@ -42,6 +42,10 @@ Established in 1998.
 - [Super Lawyers](https://profiles.superlawyers.com/maryland/bel-air/lawyer/katherine-kole-thompson/a8feed68-442f-485d-98db-a56d9b903c32.html)
 - [Lawyers.com](https://www.lawyers.com/bel-air/maryland/katherine-kole-thompson-626274-a)
 
+## Local data
+
+- [Fatal crashes in Harford County, Maryland](../reports/fatal-crashes/md/harford-county.md)
+
 ---
 
 [All firms](README.md) · [Dataset home](../README.md)

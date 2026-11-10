@@ -33,6 +33,10 @@ Established in 2001.
 - [Instagram](https://www.instagram.com/smorganlaw)
 - [Avvo](https://www.avvo.com/attorneys/33156-fl-spencer-morgan-1285848.html)
 
+## Local data
+
+- [Fatal crashes in Miami-Dade County, Florida](../reports/fatal-crashes/fl/miami-dade-county.md)
+
 ---
 
 [All firms](README.md) · [Dataset home](../README.md)

@@ -39,6 +39,10 @@ Alpharetta
 - [Instagram](https://www.instagram.com/cheeley.law.group)
 - [Super Lawyers](https://profiles.superlawyers.com/georgia/alpharetta/lawfirm/cheeley-law-group-llc/364eb36d-a27f-4faf-a5b5-65821d7d573a.html)
 
+## Local data
+
+- [Fatal crashes in Fulton County, Georgia](../reports/fatal-crashes/ga/fulton-county.md)
+
 ---
 
 [All firms](README.md) · [Dataset home](../README.md)

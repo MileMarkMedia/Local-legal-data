@@ -30,6 +30,10 @@ Established in 2021.
 - Super Lawyers Rising Stars
 - Lead Counsel Verified
 
+## Local data
+
+- [Fatal crashes in Cook County, Illinois](../reports/fatal-crashes/il/cook-county.md)
+
 ---
 
 [All firms](README.md) · [Dataset home](../README.md)

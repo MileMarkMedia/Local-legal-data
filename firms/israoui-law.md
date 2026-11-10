@@ -36,6 +36,10 @@ Established in 2007.
 - [X](https://twitter.com/IsraouiLaw)
 - [Expertise.com](https://www.expertise.com/fl/orlando/personal-injury-attorney)
 
+## Local data
+
+- [Fatal crashes in Orange County, Florida](../reports/fatal-crashes/fl/orange-county.md)
+
 ---
 
 [All firms](README.md) · [Dataset home](../README.md)

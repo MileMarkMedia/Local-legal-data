@@ -26,6 +26,10 @@ Delray Beach, South Palm Beach County
 - [Facebook](https://www.facebook.com/YourDelrayAttorney)
 - [Google Business](https://www.google.com/maps/place/70+SE+4th+Ave,+Delray+Beach,+FL+33483/@26.460373,-80.0703801,18z/data=!4m5!3m4!1s0x88d8dfdb6990a6cd:0x32b03e1091c695b5!8m2!3d26.460373!4d-80.0692858)
 
+## Local data
+
+- [Fatal crashes in Palm Beach County, Florida](../reports/fatal-crashes/fl/palm-beach-county.md)
+
 ---
 
 [All firms](README.md) · [Dataset home](../README.md)

@@ -50,6 +50,10 @@ Established in 1931.
 - [Instagram](https://www.instagram.com/murray_and_murray)
 - [Super Lawyers](https://profiles.superlawyers.com/ohio/sandusky/lawfirm/murray-and-murray-co-lpa/a931e2f0-25a9-45e2-b1be-304f5f0f5e44.html)
 
+## Local data
+
+- [Fatal crashes in Erie County, Ohio](../reports/fatal-crashes/oh/erie-county.md)
+
 ---
 
 [All firms](README.md) · [Dataset home](../README.md)

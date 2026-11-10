@@ -30,6 +30,10 @@ Portland
 - Oregon Trial Lawyers Association
 - Multnomah Bar Association
 
+## Local data
+
+- [Fatal crashes in Multnomah County, Oregon](../reports/fatal-crashes/or/multnomah-county.md)
+
 ---
 
 [All firms](README.md) · [Dataset home](../README.md)

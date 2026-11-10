@@ -29,6 +29,10 @@ Established in 2019.
 - Best Lawyers in America "Ones to Watch"
 - Super Lawyers
 
+## Local data
+
+- [Fatal crashes in Charleston County, South Carolina](../reports/fatal-crashes/sc/charleston-county.md)
+
 ---
 
 [All firms](README.md) · [Dataset home](../README.md)

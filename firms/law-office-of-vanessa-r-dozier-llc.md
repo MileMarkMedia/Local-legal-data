@@ -36,6 +36,10 @@ Maryland, Rockville, Silver Spring, Columbia, Hanover, Upper Marlboro, La Plata,
 
 - [LinkedIn](https://www.linkedin.com/in/vanessa-dozier-esquire-5b0416158)
 
+## Local data
+
+- [Fatal crashes in Howard County, Maryland](../reports/fatal-crashes/md/howard-county.md)
+
 ---
 
 [All firms](README.md) · [Dataset home](../README.md)

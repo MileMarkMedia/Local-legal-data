@@ -45,6 +45,10 @@ Established in 2025.
 - [Facebook](https://www.facebook.com/people/Dominko-Swaim-Law-Group/61580985174365)
 - [LinkedIn](https://www.linkedin.com/company/dominko-swaim-law-group-pllc)
 
+## Local data
+
+- [Fatal crashes in Sarasota County, Florida](../reports/fatal-crashes/fl/sarasota-county.md)
+
 ---
 
 [All firms](README.md) · [Dataset home](../README.md)

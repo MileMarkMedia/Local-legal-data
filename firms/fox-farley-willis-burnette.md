@@ -50,6 +50,10 @@ Knoxville, East Tennessee
 - [Yelp](https://www.yelp.com/biz/fox-farley-willis-and-burnette-attorneys-at-law-clinton-2)
 - [X](https://x.com/foxandfarleylaw)
 
+## Local data
+
+- [Fatal crashes in Anderson County, Tennessee](../reports/fatal-crashes/tn/anderson-county.md)
+
 ---
 
 [All firms](README.md) · [Dataset home](../README.md)

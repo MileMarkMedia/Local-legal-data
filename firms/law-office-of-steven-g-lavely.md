@@ -40,6 +40,10 @@ Established in 1986.
 - [YouTube](https://www.youtube.com/@Lavelylaw)
 - [Super Lawyers](https://profiles.superlawyers.com/florida/bradenton/lawyer/steven-g-lavely/6a414944-85b2-41b2-b036-5dbd090d4f33.html)
 
+## Local data
+
+- [Fatal crashes in Manatee County, Florida](../reports/fatal-crashes/fl/manatee-county.md)
+
 ---
 
 [All firms](README.md) · [Dataset home](../README.md)

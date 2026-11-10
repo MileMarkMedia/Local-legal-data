@@ -40,6 +40,10 @@ Established in 1983.
 - [Lawyers.com](https://www.lawyers.com/tampa/florida/timothy-g-anderson-p-a-844450-f)
 - [Instagram](https://www.instagram.com/andersonandersonlaw)
 
+## Local data
+
+- [Fatal crashes in Hillsborough County, Florida](../reports/fatal-crashes/fl/hillsborough-county.md)
+
 ---
 
 [All firms](README.md) · [Dataset home](../README.md)

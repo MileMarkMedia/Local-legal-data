@@ -27,6 +27,10 @@ Atlanta
 - [Facebook](https://www.facebook.com/The-Forsythe-Law-Firm-LLC-110780560803950)
 - [Instagram](https://www.instagram.com/theforsythelawfirm)
 
+## Local data
+
+- [Fatal crashes in DeKalb County, Georgia](../reports/fatal-crashes/ga/dekalb-county.md)
+
 ---
 
 [All firms](README.md) · [Dataset home](../README.md)

@@ -38,6 +38,10 @@ Orlando
 - [Super Lawyers](https://profiles.superlawyers.com/florida/orlando/lawfirm/arwani-law-firm-pllc/688cf171-5f46-4c1c-b3c1-b852a7a78a60.html)
 - [YouTube](https://www.youtube.com/channel/UCaQ5BVH7ALFBCYGFospECtw)
 
+## Local data
+
+- [Fatal crashes in Orange County, Florida](../reports/fatal-crashes/fl/orange-county.md)
+
 ---
 
 [All firms](README.md) · [Dataset home](../README.md)

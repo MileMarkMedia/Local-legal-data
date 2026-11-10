@@ -27,6 +27,10 @@ Hawley, PA, Milford, PA
 - John H. Klemeyer, Partner
 - Christian E. Weed, Attorney
 
+## Local data
+
+- [Fatal crashes in Pike County, Pennsylvania](../reports/fatal-crashes/pa/pike-county.md)
+
 ---
 
 [All firms](README.md) · [Dataset home](../README.md)

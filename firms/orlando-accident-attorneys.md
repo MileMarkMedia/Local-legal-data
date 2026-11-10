@@ -35,6 +35,10 @@ Orlando
 - [LinkedIn](https://www.linkedin.com/in/rania-arwani-esq)
 - [TikTok](https://www.tiktok.com/@rania.arwani)
 
+## Local data
+
+- [Fatal crashes in Orange County, Florida](../reports/fatal-crashes/fl/orange-county.md)
+
 ---
 
 [All firms](README.md) · [Dataset home](../README.md)

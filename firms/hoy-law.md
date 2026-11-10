@@ -43,6 +43,10 @@ Hoy Law is a Sioux Falls personal injury firm representing injury victims throug
 - [Super Lawyers](https://profiles.superlawyers.com/south-dakota/sioux-falls/lawyer/scott-g-hoy/f05e214c-98c5-48b2-a2eb-64ec2fc4ecaf.html)
 - [The National Trial Lawyers](https://thenationaltriallawyers.org/members/scott-hoy)
 
+## Local data
+
+- [Fatal crashes in Lincoln County, South Dakota](../reports/fatal-crashes/sd/lincoln-county.md)
+
 ---
 
 [All firms](README.md) · [Dataset home](../README.md)

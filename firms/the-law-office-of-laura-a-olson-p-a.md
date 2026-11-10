@@ -35,6 +35,10 @@ Tampa, Hillsborough & Pinellas County
 - [LinkedIn](https://www.linkedin.com/in/laura-olson-2b44531a5)
 - [Google Business](https://g.page/r/CQqHVGZnep3FEBM/review)
 
+## Local data
+
+- [Fatal crashes in Hillsborough County, Florida](../reports/fatal-crashes/fl/hillsborough-county.md)
+
 ---
 
 [All firms](README.md) · [Dataset home](../README.md)

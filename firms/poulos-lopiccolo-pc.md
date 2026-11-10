@@ -42,6 +42,10 @@ Monmouth County, Ocean County, Middlesex County
 - [X](https://twitter.com/pouloslopiccolo)
 - [LinkedIn](https://www.linkedin.com/company/poulos-lopiccolo-pc)
 
+## Local data
+
+- [Fatal crashes in Monmouth County, New Jersey](../reports/fatal-crashes/nj/monmouth-county.md)
+
 ---
 
 [All firms](README.md) · [Dataset home](../README.md)

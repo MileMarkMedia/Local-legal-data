@@ -40,6 +40,10 @@ Established in 2011.
 - [TikTok](https://www.tiktok.com/@morain.buckelew)
 - [YouTube](https://www.youtube.com/channel/UCAQOEsU6X_HzbR21u7z1hrg)
 
+## Local data
+
+- [Fatal crashes in Fulton County, Georgia](../reports/fatal-crashes/ga/fulton-county.md)
+
 ---
 
 [All firms](README.md) · [Dataset home](../README.md)

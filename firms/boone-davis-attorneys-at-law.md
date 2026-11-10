@@ -39,6 +39,10 @@ Established in 1981.
 - [Instagram](https://www.instagram.com/boonedavislaw)
 - [LawInfo](https://www.lawinfo.com/lawfirm/florida/wilton-manors/boone-and-davis/69724550-0cbd-4390-bbab-0ee5ee2d9560.html)
 
+## Local data
+
+- [Fatal crashes in Broward County, Florida](../reports/fatal-crashes/fl/broward-county.md)
+
 ---
 
 [All firms](README.md) · [Dataset home](../README.md)

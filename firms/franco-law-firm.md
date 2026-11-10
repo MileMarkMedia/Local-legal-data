@@ -29,6 +29,10 @@ Tampa
 - [YouTube](https://www.youtube.com/channel/UCFGKts9-oTy-yL-kL7KFnbw)
 - [Instagram](https://www.instagram.com/francofirmtampa)
 
+## Local data
+
+- [Fatal crashes in Hillsborough County, Florida](../reports/fatal-crashes/fl/hillsborough-county.md)
+
 ---
 
 [All firms](README.md) · [Dataset home](../README.md)

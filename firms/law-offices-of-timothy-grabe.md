@@ -34,6 +34,10 @@ Established in 1983.
 - [X](https://x.com/TimothyGrabe)
 - [LinkedIn](https://www.linkedin.com/in/timothy-grabe-5a4b1160)
 
+## Local data
+
+- [Fatal crashes in Multnomah County, Oregon](../reports/fatal-crashes/or/multnomah-county.md)
+
 ---
 
 [All firms](README.md) · [Dataset home](../README.md)

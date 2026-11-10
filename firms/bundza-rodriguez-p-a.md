@@ -35,6 +35,10 @@ Established in 2007.
 - [Yelp](https://www.yelp.com/biz/bundza-and-rodriguez-daytona-beach-3)
 - [LinkedIn](https://www.linkedin.com/in/michael-rodriguez-87663b10)
 
+## Local data
+
+- [Fatal crashes in Volusia County, Florida](../reports/fatal-crashes/fl/volusia-county.md)
+
 ---
 
 [All firms](README.md) · [Dataset home](../README.md)

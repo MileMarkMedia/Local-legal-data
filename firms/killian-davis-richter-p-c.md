@@ -46,6 +46,10 @@ Established in 1991.
 - [LinkedIn](https://www.linkedin.com/company/killian-davis-richter-p-c)
 - [Yelp](https://www.yelp.com/biz/killian-davis-and-richter-grand-junction)
 
+## Local data
+
+- [Fatal crashes in Mesa County, Colorado](../reports/fatal-crashes/co/mesa-county.md)
+
 ---
 
 [All firms](README.md) · [Dataset home](../README.md)

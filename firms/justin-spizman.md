@@ -26,6 +26,10 @@ The Spizman Firm is a criminal defense and personal injury practice led by Manag
 - Georgia Trend Legal Elite
 - Avvo Client's Choice Award
 
+## Local data
+
+- [Fatal crashes in DeKalb County, Georgia](../reports/fatal-crashes/ga/dekalb-county.md)
+
 ---
 
 [All firms](README.md) · [Dataset home](../README.md)

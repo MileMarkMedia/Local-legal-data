@@ -30,6 +30,10 @@ Atlanta
 - [Facebook](https://www.facebook.com/tricia.solomon.9)
 - [LinkedIn](https://www.linkedin.com/in/tricia-solomon-esq-9702b94)
 
+## Local data
+
+- [Fatal crashes in Fulton County, Georgia](../reports/fatal-crashes/ga/fulton-county.md)
+
 ---
 
 [All firms](README.md) · [Dataset home](../README.md)

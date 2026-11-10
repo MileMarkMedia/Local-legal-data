@@ -34,6 +34,10 @@ Rhode Island
 - [X](https://twitter.com/CravenLawRI)
 - [LinkedIn](https://www.linkedin.com/company/robert-e-craven-&-associates)
 
+## Local data
+
+- [Fatal crashes in Washington County, Rhode Island](../reports/fatal-crashes/ri/washington-county.md)
+
 ---
 
 [All firms](README.md) · [Dataset home](../README.md)

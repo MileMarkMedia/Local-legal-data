@@ -46,6 +46,10 @@ NYC, Long Island (Nassau, Suffolk County) and Upstate
 - [YouTube](https://www.youtube.com/@Jaroslawiczandjaros)
 - [Super Lawyers](https://profiles.superlawyers.com/new-york/new-york/lawfirm/jaroslawicz-and-jaros-pllc/9c324c55-a752-4ed0-b133-6cd7d4a78d57.html)
 
+## Local data
+
+- [Fatal crashes in New York County, New York](../reports/fatal-crashes/ny/new-york-county.md)
+
 ---
 
 [All firms](README.md) · [Dataset home](../README.md)

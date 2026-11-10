@@ -36,6 +36,10 @@ Established in 2003.
 - [X](https://twitter.com/salazarandkelly)
 - [Google Business](https://g.page/KissimmeePersonalinjuryLawyer)
 
+## Local data
+
+- [Fatal crashes in Osceola County, Florida](../reports/fatal-crashes/fl/osceola-county.md)
+
 ---
 
 [All firms](README.md) · [Dataset home](../README.md)

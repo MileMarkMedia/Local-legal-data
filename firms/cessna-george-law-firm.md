@@ -32,6 +32,10 @@ London, Somerset, Pulaski County, Corbin/Whitley County, Knox County/Barbourvill
 - [Justia](https://lawyers.justia.com/lawyer/tyler-george-1665966)
 - [Instagram](https://www.instagram.com/cessnaandgeorgelaw)
 
+## Local data
+
+- [Fatal crashes in Laurel County, Kentucky](../reports/fatal-crashes/ky/laurel-county.md)
+
 ---
 
 [All firms](README.md) · [Dataset home](../README.md)

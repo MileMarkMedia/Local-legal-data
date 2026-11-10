@@ -33,6 +33,10 @@ Bradenton, FL
 
 - [LinkedIn](https://www.linkedin.com/in/don-cahall-28467a48)
 
+## Local data
+
+- [Fatal crashes in Manatee County, Florida](../reports/fatal-crashes/fl/manatee-county.md)
+
 ---
 
 [All firms](README.md) · [Dataset home](../README.md)

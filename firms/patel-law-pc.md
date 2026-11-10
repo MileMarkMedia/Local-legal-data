@@ -45,6 +45,10 @@ Champaign, Urbana, Danville and Decatur, IL, Champaign County
 - [LinkedIn](https://www.linkedin.com/in/bakupatel-patellawteam)
 - [YouTube](https://www.youtube.com/@patellaw8773)
 
+## Local data
+
+- [Fatal crashes in Champaign County, Illinois](../reports/fatal-crashes/il/champaign-county.md)
+
 ---
 
 [All firms](README.md) · [Dataset home](../README.md)

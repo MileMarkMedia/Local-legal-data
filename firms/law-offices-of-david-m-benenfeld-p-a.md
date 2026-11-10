@@ -41,6 +41,10 @@ Fort Lauderdale, Broward County, Sunrise, Pompano Beach
 - [Yelp](https://www.yelp.com/biz/law-offices-of-david-m-benenfeld-p-a-sunrise-5)
 - [Avvo](https://www.avvo.com/attorneys/33351-fl-david-benenfeld-1285495.html)
 
+## Local data
+
+- [Fatal crashes in Broward County, Florida](../reports/fatal-crashes/fl/broward-county.md)
+
 ---
 
 [All firms](README.md) · [Dataset home](../README.md)

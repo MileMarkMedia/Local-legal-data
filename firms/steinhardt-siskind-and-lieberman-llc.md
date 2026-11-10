@@ -41,6 +41,10 @@ Maryland, Glen Burnie
 - [X](https://twitter.com/MarylandLawAtty)
 - [Justia](https://lawyers.justia.com/firm/steinhardt-siskind-and-associates-llc-55194)
 
+## Local data
+
+- [Fatal crashes in Anne Arundel County, Maryland](../reports/fatal-crashes/md/anne-arundel-county.md)
+
 ---
 
 [All firms](README.md) · [Dataset home](../README.md)

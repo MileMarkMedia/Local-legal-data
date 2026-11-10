@@ -33,6 +33,10 @@ Missouri City, TX
 - [Avvo](https://www.avvo.com/attorneys/77074-tx-henrietta-ezeoke-62048.html)
 - [LinkedIn](https://www.linkedin.com/in/henrietta-ezeoke-786b2876)
 
+## Local data
+
+- [Fatal crashes in Fort Bend County, Texas](../reports/fatal-crashes/tx/fort-bend-county.md)
+
 ---
 
 [All firms](README.md) · [Dataset home](../README.md)

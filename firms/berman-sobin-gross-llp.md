@@ -75,6 +75,10 @@ Established in 1991.
 - [Instagram](https://www.instagram.com/bsglaw)
 - [YouTube](https://www.youtube.com/@bermansobingross)
 
+## Local data
+
+- [Fatal crashes in Montgomery County, Maryland](../reports/fatal-crashes/md/montgomery-county.md)
+
 ---
 
 [All firms](README.md) · [Dataset home](../README.md)

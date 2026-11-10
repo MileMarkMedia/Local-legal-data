@@ -36,6 +36,10 @@ Established in 1995.
 - [LinkedIn](https://www.linkedin.com/company/gillette-law-florida-georgia)
 - [Google Business](https://g.page/JacksonvilleInjuryAttorney)
 
+## Local data
+
+- [Fatal crashes in Duval County, Florida](../reports/fatal-crashes/fl/duval-county.md)
+
 ---
 
 [All firms](README.md) · [Dataset home](../README.md)

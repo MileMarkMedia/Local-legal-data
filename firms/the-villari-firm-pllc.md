@@ -38,6 +38,10 @@ Established in 1998.
 - [Yelp](https://www.yelp.com/biz/the-villari-firm-medical-malpractice-lawyer-philadelphia)
 - [Google Business](https://g.page/TheVillariFirmPLLC?share)
 
+## Local data
+
+- [Fatal crashes in Philadelphia County, Pennsylvania](../reports/fatal-crashes/pa/philadelphia-county.md)
+
 ---
 
 [All firms](README.md) · [Dataset home](../README.md)

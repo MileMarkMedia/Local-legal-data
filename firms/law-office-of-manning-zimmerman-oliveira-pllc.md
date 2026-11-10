@@ -42,6 +42,10 @@ Manchester & New Hampshire
 - [Google Business](https://g.page/ManchesterPersonalInjury)
 - [Expertise.com](https://www.expertise.com/nh/manchester/car-accident-lawyers/award)
 
+## Local data
+
+- [Fatal crashes in Hillsborough County, New Hampshire](../reports/fatal-crashes/nh/hillsborough-county.md)
+
 ---
 
 [All firms](README.md) · [Dataset home](../README.md)

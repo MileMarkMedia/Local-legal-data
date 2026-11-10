@@ -44,6 +44,10 @@ Established in 2004.
 - [LinkedIn](https://www.linkedin.com/company/briangmillerlaw)
 - [Instagram](https://www.instagram.com/bgmillerlaw)
 
+## Local data
+
+- [Fatal crashes in Franklin County, Ohio](../reports/fatal-crashes/oh/franklin-county.md)
+
 ---
 
 [All firms](README.md) · [Dataset home](../README.md)

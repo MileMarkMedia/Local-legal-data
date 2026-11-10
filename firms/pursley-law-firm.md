@@ -28,6 +28,10 @@ Established in 2020.
 - [Facebook](https://www.facebook.com/pursleylawfirmapc/)
 - [LinkedIn](https://www.linkedin.com/company/pursley-law-firm-apc/)
 
+## Local data
+
+- [Fatal crashes in San Diego County, California](../reports/fatal-crashes/ca/san-diego-county.md)
+
 ---
 
 [All firms](README.md) · [Dataset home](../README.md)

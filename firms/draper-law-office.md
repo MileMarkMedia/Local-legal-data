@@ -38,6 +38,10 @@ Established in 1984.
 - [LinkedIn](https://www.linkedin.com/in/charles-draper-754bb187)
 - [X](https://twitter.com/Draperlawoffice)
 
+## Local data
+
+- [Fatal crashes in Osceola County, Florida](../reports/fatal-crashes/fl/osceola-county.md)
+
 ---
 
 [All firms](README.md) · [Dataset home](../README.md)

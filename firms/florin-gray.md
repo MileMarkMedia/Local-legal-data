@@ -31,6 +31,10 @@ Established in 2017.
 - Super Lawyers
 - Lead Counsel verified
 
+## Local data
+
+- [Fatal crashes in Hillsborough County, Florida](../reports/fatal-crashes/fl/hillsborough-county.md)
+
 ---
 
 [All firms](README.md) · [Dataset home](../README.md)

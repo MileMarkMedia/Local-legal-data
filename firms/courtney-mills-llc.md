@@ -33,6 +33,10 @@ Springfield, MO
 - [Facebook](https://www.facebook.com/Courtney-Mills-LLC-417707655000127)
 - [Google Business](https://g.page/SpringfieldMODivorceAttorney)
 
+## Local data
+
+- [Fatal crashes in Greene County, Missouri](../reports/fatal-crashes/mo/greene-county.md)
+
 ---
 
 [All firms](README.md) · [Dataset home](../README.md)

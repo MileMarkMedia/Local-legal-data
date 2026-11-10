@@ -36,6 +36,10 @@ Ventura, Santa Barbara
 - [Instagram](https://www.instagram.com/zavala_law)
 - [Yelp](https://www.yelp.com/biz/zavala-law-pc-ventura)
 
+## Local data
+
+- [Fatal crashes in Ventura County, California](../reports/fatal-crashes/ca/ventura-county.md)
+
 ---
 
 [All firms](README.md) · [Dataset home](../README.md)

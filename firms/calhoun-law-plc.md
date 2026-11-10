@@ -39,6 +39,10 @@ Nashville
 - [Super Lawyers](https://profiles.superlawyers.com/tennessee/nashville/lawyer/colin-b-calhoun/e124a964-76ab-405e-bd73-7f768c344408.html)
 - [Avvo](https://www.avvo.com/attorneys/37201-tn-colin-calhoun-1801493.html)
 
+## Local data
+
+- [Fatal crashes in Davidson County, Tennessee](../reports/fatal-crashes/tn/davidson-county.md)
+
 ---
 
 [All firms](README.md) · [Dataset home](../README.md)

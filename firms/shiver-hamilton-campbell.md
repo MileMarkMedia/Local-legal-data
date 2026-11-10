@@ -53,6 +53,10 @@ Established in 2011.
 - [Super Lawyers](https://profiles.superlawyers.com/georgia/atlanta/lawfirm/shiver-hamilton-campbell-llc/a93917fc-f682-4ef9-be04-3414374b6c91.html)
 - [Google Business](https://maps.app.goo.gl/uf31nAt7fzSVpi5q6)
 
+## Local data
+
+- [Fatal crashes in Fulton County, Georgia](../reports/fatal-crashes/ga/fulton-county.md)
+
 ---
 
 [All firms](README.md) · [Dataset home](../README.md)

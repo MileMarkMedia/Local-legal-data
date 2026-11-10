@@ -39,6 +39,10 @@ Established in 2012.
 - [X](https://twitter.com/NorcrossLaw)
 - [Google Business](https://maps.app.goo.gl/8orMPPwWvT2QP9MXA)
 
+## Local data
+
+- [Fatal crashes in Gwinnett County, Georgia](../reports/fatal-crashes/ga/gwinnett-county.md)
+
 ---
 
 [All firms](README.md) · [Dataset home](../README.md)

@@ -47,6 +47,10 @@ Established in 2012.
 - [Avvo](https://www.avvo.com/attorneys/37167-tn-joseph-weir-1711616.html)
 - [Justia](https://lawyers.justia.com/lawyer/joseph-allan-weir-1560789)
 
+## Local data
+
+- [Fatal crashes in Rutherford County, Tennessee](../reports/fatal-crashes/tn/rutherford-county.md)
+
 ---
 
 [All firms](README.md) · [Dataset home](../README.md)

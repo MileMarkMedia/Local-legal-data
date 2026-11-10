@@ -48,6 +48,10 @@ Modesto & Stockton
 - [Yelp](https://www.yelp.com/biz/the-law-firm-of-r-sam-modesto)
 - [Instagram](https://www.instagram.com/the_law_firm_of_rsam)
 
+## Local data
+
+- [Fatal crashes in Stanislaus County, California](../reports/fatal-crashes/ca/stanislaus-county.md)
+
 ---
 
 [All firms](README.md) · [Dataset home](../README.md)

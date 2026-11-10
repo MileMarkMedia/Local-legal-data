@@ -40,6 +40,10 @@ Columbia, SC
 - [FindLaw](https://lawyers.findlaw.com/south-carolina/columbia/3195919_1)
 - [Instagram](https://www.instagram.com/simmonslawfirm)
 
+## Local data
+
+- [Fatal crashes in Richland County, South Carolina](../reports/fatal-crashes/sc/richland-county.md)
+
 ---
 
 [All firms](README.md) · [Dataset home](../README.md)

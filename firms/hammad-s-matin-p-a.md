@@ -34,6 +34,10 @@ La Plata & Waldorf, MD, Charles County
 - [Facebook](https://www.facebook.com/The-Law-Office-of-Hammad-S-Matin-PA-749974535076308)
 - [Google Business](https://www.google.com/maps/place/The+Law+Office+of+Hammad+S.+Matin,+P.A./@38.5320583,-76.9800297,17z/data=!3m1!4b1!4m5!3m4!1s0x89b708c244ae0245:0xb5124854d148eba9!8m2!3d38.5320583!4d-76.9778357)
 
+## Local data
+
+- [Fatal crashes in Charles County, Maryland](../reports/fatal-crashes/md/charles-county.md)
+
 ---
 
 [All firms](README.md) · [Dataset home](../README.md)

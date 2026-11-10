@@ -35,6 +35,10 @@ Pasco County, Hudson, New Port Richey
 - [FindLaw](https://lawyers.findlaw.com/florida/brooksville/5269044_1)
 - [Avvo](https://www.avvo.com/attorneys/34601-fl-wendy-doylepalumbo-1272208.html)
 
+## Local data
+
+- [Fatal crashes in Pasco County, Florida](../reports/fatal-crashes/fl/pasco-county.md)
+
 ---
 
 [All firms](README.md) · [Dataset home](../README.md)

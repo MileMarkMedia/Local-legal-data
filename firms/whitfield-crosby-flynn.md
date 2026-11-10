@@ -47,6 +47,10 @@ Madisonville, KY, Chattanooga TN, Indianapolis IN
 - [Super Lawyers](https://profiles.superlawyers.com/kentucky/madisonville/lawfirm/whitfield-crosby-and-flynn-pllc/b161cec2-0e0b-4a18-b7e0-fa3a460cd480.html)
 - [Google Business](https://maps.app.goo.gl/9T5xaq1rzrCpgiyeA)
 
+## Local data
+
+- [Fatal crashes in Hopkins County, Kentucky](../reports/fatal-crashes/ky/hopkins-county.md)
+
 ---
 
 [All firms](README.md) · [Dataset home](../README.md)

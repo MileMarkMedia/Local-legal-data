@@ -35,6 +35,10 @@ Established in 2016.
 - [FindLaw](https://lawyers.findlaw.com/new-york/new-york/5154749_1)
 - [Google Business](https://www.google.com/maps?cid=969033754621437282)
 
+## Local data
+
+- [Fatal crashes in New York County, New York](../reports/fatal-crashes/ny/new-york-county.md)
+
 ---
 
 [All firms](README.md) · [Dataset home](../README.md)

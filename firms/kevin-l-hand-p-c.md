@@ -42,6 +42,10 @@ Established in 1981.
 - [Yelp](https://www.yelp.com/biz/kardos-rickles-and-hand-newtown)
 - [LinkedIn](https://www.linkedin.com/company/kardos-rickles-hand)
 
+## Local data
+
+- [Fatal crashes in Bucks County, Pennsylvania](../reports/fatal-crashes/pa/bucks-county.md)
+
 ---
 
 [All firms](README.md) · [Dataset home](../README.md)

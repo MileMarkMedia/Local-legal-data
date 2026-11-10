@@ -41,6 +41,10 @@ Delray Beach, Palm Beach Gardens, Boca Raton, Boynton Beach, West Palm Beach
 - [Yelp](https://www.yelp.com/biz/steinberg-law-delray-beach-10)
 - [Super Lawyers](https://profiles.superlawyers.com/florida/delray-beach/lawfirm/steinberg-law-pa/d6a48389-a15c-4a50-b4e5-c054c292dddc.html)
 
+## Local data
+
+- [Fatal crashes in Palm Beach County, Florida](../reports/fatal-crashes/fl/palm-beach-county.md)
+
 ---
 
 [All firms](README.md) · [Dataset home](../README.md)

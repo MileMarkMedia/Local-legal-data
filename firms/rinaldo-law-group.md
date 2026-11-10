@@ -44,6 +44,10 @@ Tampa
 - [YouTube](https://www.youtube.com/channel/UCCeP0P03Y7bBdpgAxv1eQew)
 - [Google Business](https://g.page/TampaPersonalInjuryLaw?share)
 
+## Local data
+
+- [Fatal crashes in Hillsborough County, Florida](../reports/fatal-crashes/fl/hillsborough-county.md)
+
 ---
 
 [All firms](README.md) · [Dataset home](../README.md)

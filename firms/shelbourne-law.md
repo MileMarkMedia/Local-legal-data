@@ -37,6 +37,10 @@ Summerville, SC
 - [Google Business](https://maps.app.goo.gl/2kPqDiizt5Po2WgU7)
 - [X](https://twitter.com/shelbournelaw)
 
+## Local data
+
+- [Fatal crashes in Dorchester County, South Carolina](../reports/fatal-crashes/sc/dorchester-county.md)
+
 ---
 
 [All firms](README.md) · [Dataset home](../README.md)
