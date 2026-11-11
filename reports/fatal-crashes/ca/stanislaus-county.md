@@ -49,7 +49,7 @@ Road names appear as they were entered in the federal crash record for 2020 thro
 
 The figures come from the Fatality Analysis Reporting System (FARS), the census of fatal traffic crashes kept by the National Highway Traffic Safety Administration. FARS counts a crash when it involves a motor vehicle on a public road and a person dies within 30 days. Crashes that caused injuries or property damage without a death are not included, so these numbers describe only the most serious crashes in the county.
 
-Source: [NHTSA FARS national data files](https://www.nhtsa.gov/research-data/fatality-analysis-reporting-system-fars). Data retrieved 2026-11-10. County totals for every county in this project are in [fatal-crashes-by-county.csv](../../../data/fatal-crashes-by-county.csv).
+Source: [NHTSA FARS national data files](https://www.nhtsa.gov/research-data/fatality-analysis-reporting-system-fars). Data retrieved 2026-11-11. County totals for every county in this project are in [fatal-crashes-by-county.csv](../../../data/fatal-crashes-by-county.csv).
 
 ## Injury law firms in Stanislaus County
 
