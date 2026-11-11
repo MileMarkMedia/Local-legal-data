@@ -1,5 +1,5 @@
 {
- "count": 259,
+ "count": 258,
  "firms": [
   {
    "areas_served": [
@@ -6603,47 +6603,6 @@
    "state": "FL",
    "street": "5750 Major Blvd, Unit 530",
    "website": "https://www.joshi-law.com/",
-   "year_established": null
-  },
-  {
-   "areas_served": [],
-   "attorneys": [
-    {
-     "name": "Justin Spizman",
-     "role": "Managing Partner"
-    }
-   ],
-   "city": "Atlanta",
-   "country": "US",
-   "county": "DeKalb County",
-   "county_fips": "13089",
-   "description": "The Spizman Firm is a criminal defense and personal injury practice led by Managing Partner Justin Spizman, serving clients in Atlanta, Georgia, including DeKalb and Fulton Counties and throughout the state. The firm handles criminal matters such as DUI, traffic offenses, drug charges, assault, and other felonies and misdemeanors, along with personal injury cases involving vehicle accidents, medical malpractice, nursing home abuse, catastrophic injuries, and wrongful death. Justin Spizman brings more than 19 years of experience to his clients and has been recognized by Super Lawyers, the National Trial Lawyers as a Top 40 Under 40 and Top 100 Trial Lawyer, Georgia Trend Magazine's Legal Elite, and carries an AV Preeminent rating from Martindale-Hubbell. The Spizman Firm is located at 200 Ashford Center North, Suite 200, Atlanta, GA 30338 and can be reached by phone at (770) 685-6400.",
-   "id": "justin-spizman",
-   "name": "Justin Spizman",
-   "offices": [
-    {
-     "address": "200 Ashford Center North, Suite 200, Atlanta, GA 30338",
-     "label": "Atlanta",
-     "phone": "(770) 685-6400"
-    }
-   ],
-   "phone": "770-685-6400",
-   "postal_code": "30338",
-   "practice_areas": [
-    "Criminal Defense",
-    "Personal Injury"
-   ],
-   "profiles": [],
-   "recognition": [
-    "Super Lawyers",
-    "AV Preeminent rating from Martindale-Hubbell",
-    "National Trial Lawyers Top 40 Under 40",
-    "Georgia Trend Legal Elite",
-    "Avvo Client's Choice Award"
-   ],
-   "state": "GA",
-   "street": "200 Ashford Center North, Suite 200",
-   "website": "https://www.justinspizman.com/",
    "year_established": null
   },
   {
@@ -16783,7 +16742,7 @@
    "country": "US",
    "county": "Bucks County",
    "county_fips": "42017",
-   "description": "Young, Marr, Mallis & Associates is a Pennsylvania and New Jersey law firm focused on bankruptcy, criminal defense and disability law. Founding partner Paul H. Young leads the firm with senior partners Gail Marr, who began her legal career at the Bucks County District Attorney's Office, and Paul Mallis, a former prosecutor who handled hundreds of criminal cases ranging from DUI to homicide. With more than 40 years of experience, the firm serves Philadelphia, Bucks, Montgomery, Delaware, Chester, Lehigh, Northampton and Dauphin counties in Pennsylvania and Burlington, Mercer and Middlesex counties in New Jersey. Its attorneys have handled more than 15,000 Chapter 7 and Chapter 13 bankruptcy cases, defend clients facing charges from DUI and drug crimes to homicide, and pursue Social Security Disability and long-term disability benefits. The firm has earned an Avvo Superb rating, Avvo Clients' Choice and the American Institute of Bankruptcy Attorneys 10 Best Client Satisfaction Award, and its attorneys have been featured in The New York Times, USA Today, The Philadelphia Inquirer, BBC News and ABC News. Young, Marr, Mallis & Associates is located at 3554 Hulmeville Ave, Suite 102, Bensalem, PA 19020 and can be reached by phone at 215-639-5297.",
+   "description": "Young, Marr, Mallis & Associates is an Eastern Pennsylvania law firm focused on bankruptcy, criminal defense and disability law. Founding partner Paul H. Young leads the firm with senior partners Gail Marr, who began her legal career at the Bucks County District Attorney's Office, and Paul Mallis, a former prosecutor who handled hundreds of criminal cases ranging from DUI to homicide. With more than 40 years of experience, the firm serves clients across Eastern Pennsylvania, including Philadelphia, Bucks, Montgomery, Delaware, Chester, Lehigh and Northampton counties, from offices in Bensalem, Philadelphia, Bala Cynwyd, Jenkintown, Plymouth Meeting, Quakertown, Allentown and Easton. Its attorneys have handled more than 15,000 Chapter 7 and Chapter 13 bankruptcy cases, defend clients facing charges from DUI and drug crimes to homicide, and pursue Social Security Disability and long-term disability benefits. The firm has earned an Avvo Superb rating, Avvo Clients' Choice and the American Institute of Bankruptcy Attorneys 10 Best Client Satisfaction Award, and its attorneys have been featured in The New York Times, USA Today, The Philadelphia Inquirer, BBC News and ABC News. Young, Marr, Mallis & Associates is located at 3554 Hulmeville Ave, Suite 102, Bensalem, PA 19020 and can be reached by phone at 215-639-5297.",
    "id": "young-marr-mallis-associates",
    "name": "Young, Marr, Mallis & Associates",
    "offices": [
@@ -17103,5 +17062,5 @@
    "year_established": null
   }
  ],
- "updated": "2026-11-10"
+ "updated": "2026-11-11"
 }

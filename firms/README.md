@@ -1,6 +1,6 @@
 # Law Firm Directory
 
-259 law firms in 35 states and provinces. Each page lists the firm's practice areas, offices, attorneys and public profiles.
+258 law firms in 35 states and provinces. Each page lists the firm's practice areas, offices, attorneys and public profiles.
 
 ## Alabama
 
@@ -175,7 +175,6 @@
 - [Cheeley Law Group](cheeley-law-group.md), Alpharetta: Car Accidents, Personal Injury
 - [Evans Bowers](evans-bowers.md), Atlanta: Defamation, Environmental Law
 - [Evans Law](evans-law.md), Atlanta: Real Estate Law, Estate and Trust Litigation, Foreclosure Defense
-- [Justin Spizman](justin-spizman.md), Atlanta: Criminal Defense, Personal Injury
 - [Kaye, Lembeck, Hitt & French Family Law](kaye-lembeck-hitt-french-family-law.md), Atlanta: Family Law
 - [Konn LLC](konn-llc.md), Atlanta: Debt Settlement
 - [Morain & Buckelew, LLC](morain-buckelew-llc.md), Atlanta: Personal Injury

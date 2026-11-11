@@ -688,13 +688,6 @@
   "matched": true,
   "state_fips": "12"
  },
- "justin-spizman": {
-  "county": "DeKalb County",
-  "county_fips": "089",
-  "geoid": "13089",
-  "matched": true,
-  "state_fips": "13"
- },
  "kainen-law-group-pllc": {
   "county": "Clark County",
   "county_fips": "003",

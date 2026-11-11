@@ -53,7 +53,6 @@ Source: [NHTSA FARS national data files](https://www.nhtsa.gov/research-data/fat
 
 ## Injury law firms in DeKalb County
 
-- [Justin Spizman](../../../firms/justin-spizman.md), Atlanta: Personal Injury
 - [The Forsythe Law Firm, LLC](../../../firms/the-forsythe-law-firm-llc.md), Atlanta: Personal Injury
 
 ---
