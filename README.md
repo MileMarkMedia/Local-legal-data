@@ -4,7 +4,7 @@ Open data about U.S. law firms and local legal topics, published as plain files 
 
 ## What is here
 
-- [Law firm directory](firms/README.md): 258 firms with practice areas, offices, attorneys and public profiles
+- [Law firm directory](firms/README.md): 257 firms with practice areas, offices, attorneys and public profiles
 - [firms.csv](data/firms.csv) and [firms.json](data/firms.json): the same directory as a dataset
 - [Fatal crash reports by county](reports/fatal-crashes/README.md): 57 county reports from federal crash data
 - [fatal-crashes-by-county.csv](data/fatal-crashes-by-county.csv): yearly county totals
@@ -13,7 +13,7 @@ Open data about U.S. law firms and local legal topics, published as plain files 
 
 | Practice area | Firms |
 | --- | --- |
-| Personal Injury | 91 |
+| Personal Injury | 90 |
 | Family Law | 65 |
 | Divorce | 55 |
 | Criminal Defense | 48 |

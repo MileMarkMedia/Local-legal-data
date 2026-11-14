@@ -660,13 +660,6 @@
   "matched": true,
   "state_fips": "12"
  },
- "jaroslawicz-jaros-pllc": {
-  "county": "New York County",
-  "county_fips": "061",
-  "geoid": "36061",
-  "matched": true,
-  "state_fips": "36"
- },
  "jennifer-kane-waterway": {
   "county": "Broward County",
   "county_fips": "011",

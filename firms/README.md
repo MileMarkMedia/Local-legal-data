@@ -1,6 +1,6 @@
 # Law Firm Directory
 
-258 law firms in 35 states and provinces. Each page lists the firm's practice areas, offices, attorneys and public profiles.
+257 law firms in 35 states and provinces. Each page lists the firm's practice areas, offices, attorneys and public profiles.
 
 ## Alabama
 
@@ -261,7 +261,6 @@
 - [Cavallo & Cavallo](cavallo-cavallo.md), Bronx: Estate Planning
 - [Cohan Law Firm](cohan-law-firm.md), New York: Personal Injury, Car Accidents
 - [Hillen Druek, PLLC](hillen-druek-pllc.md), Islandia: Divorce
-- [Jaroslawicz & Jaros, PLLC](jaroslawicz-jaros-pllc.md), New York: Personal Injury
 - [Law Office of Linda Kenney Baden](law-office-of-linda-kenney-baden.md), New York: Criminal Defense, Employment Law
 - [Law Office of Michael Lawrence Varon, PLLC](law-office-of-michael-lawrence-varon-pllc.md), White Plains: Workers' Compensation, Social Security Disability, Veterans Benefits
 - [Mark David Shirian P.C.](mark-david-shirian-p-c.md), New York: Personal Injury

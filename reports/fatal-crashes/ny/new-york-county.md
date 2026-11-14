@@ -47,7 +47,6 @@ Source: [NHTSA FARS national data files](https://www.nhtsa.gov/research-data/fat
 ## Injury law firms in New York County
 
 - [Cohan Law Firm](../../../firms/cohan-law-firm.md), New York: Personal Injury, Car Accidents
-- [Jaroslawicz & Jaros, PLLC](../../../firms/jaroslawicz-jaros-pllc.md), New York: Personal Injury
 - [Mark David Shirian P.C.](../../../firms/mark-david-shirian-p-c.md), New York: Personal Injury
 
 ---
