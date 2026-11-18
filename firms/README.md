@@ -1,6 +1,6 @@
 # Law Firm Directory
 
-257 law firms in 35 states and provinces. Each page lists the firm's practice areas, offices, attorneys and public profiles.
+259 law firms in 35 states and provinces. Each page lists the firm's practice areas, offices, attorneys and public profiles.
 
 ## Alabama
 
@@ -165,6 +165,7 @@
 - [WiseLieberman, PLLC](wiselieberman-pllc.md), Boca Raton: Divorce, Family Law
 - [Yesner Law](yesner-law.md), Clearwater: Bankruptcy, Real Estate Law
 - [Zelman Law](zelman-law.md), Tallahassee: Criminal Defense, Family Law
+- [Sotolongo Law](sotolongo-law.md), Miami Beach: Medical Malpractice, Personal Injury
 
 ## Georgia
 
@@ -184,6 +185,7 @@
 - [The Forsythe Law Firm, LLC](the-forsythe-law-firm-llc.md), Atlanta: Employment Law, Personal Injury
 - [The Solomon Firm LLC](the-solomon-firm-llc.md), Atlanta: Family Law, Divorce, Criminal Defense
 - [The Spizman Firm](the-spizman-firm.md), Atlanta: DUI Defense, Drug Crime Defense, Family Law
+- [Cassutt Law Firm](cassutt-law-firm.md), Alpharetta: Business Law, Real Estate Law
 
 ## Illinois
 

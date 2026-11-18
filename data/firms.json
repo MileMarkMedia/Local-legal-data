@@ -1,5 +1,5 @@
 {
- "count": 257,
+ "count": 259,
  "firms": [
   {
    "areas_served": [
@@ -16958,6 +16958,107 @@
    "state": "FL",
    "street": "1030 E Lafayette St, Suite 9",
    "website": "https://www.joshuadzelman.com/",
+   "year_established": null
+  },
+  {
+   "areas_served": [
+    "Miami, FL"
+   ],
+   "attorneys": [
+    {
+     "name": "Pedro P. Sotolongo",
+     "role": "Attorney"
+    }
+   ],
+   "city": "Miami Beach",
+   "country": "US",
+   "county": "Miami-Dade County",
+   "county_fips": "12086",
+   "description": "Sotolongo Law is a Miami, Florida law firm focused on medical malpractice and serious personal injury cases. The firm is led by Pedro P. Sotolongo, who brings more than 20 years of medical malpractice experience to representing people seriously injured by negligent healthcare providers. Before representing injured patients, Sotolongo spent five years defending medical malpractice claims, giving him insight into how healthcare providers, hospitals, insurers, and defense attorneys approach these cases. The firm handles medical malpractice matters including surgical errors, birth injuries, misdiagnosis, nursing and hospital errors, and anesthesia errors, as well as car, truck, and boating accidents, premises liability cases such as slip and fall and negligent security, nursing home abuse and neglect, catastrophic injuries, and wrongful death claims. Sotolongo Law serves clients in Miami Beach, Miami-Dade, Palm Beach, Boca Raton, Fort Lauderdale, and Orlando. The firm has obtained results including a $10,000,000 car accident settlement, a $6,000,000 trip and fall settlement, and a $1,000,000 maritime claim settlement. Services are offered in English and Spanish. The firm offers a free consultation and emphasizes a personal approach to each case while being prepared to take on large hospital systems and insurance companies. Sotolongo Law is located at 1000 5th St., Suite #402, Miami Beach, FL 33139 and can be reached by phone at 305-415-0073.",
+   "id": "sotolongo-law",
+   "name": "Sotolongo Law",
+   "offices": [
+    {
+     "address": "1000 5th St., Suite #402, Miami Beach, FL 33139",
+     "label": "Miami Beach",
+     "phone": "(305) 415-0073"
+    }
+   ],
+   "phone": "305-415-0073",
+   "postal_code": "33139",
+   "practice_areas": [
+    "Medical Malpractice",
+    "Personal Injury"
+   ],
+   "profiles": [
+    {
+     "label": "Facebook",
+     "url": "https://www.facebook.com/sotolongolawfirm"
+    },
+    {
+     "label": "Instagram",
+     "url": "https://www.instagram.com/sotolongo_law"
+    },
+    {
+     "label": "LinkedIn",
+     "url": "https://www.linkedin.com/company/sotolongo-p.a."
+    },
+    {
+     "label": "Avvo",
+     "url": "https://www.avvo.com/attorneys/33130-fl-pedro-sotolongo-1268811.html"
+    },
+    {
+     "label": "Lawyers.com",
+     "url": "https://www.lawyers.com/miami/florida/sotolongo-p-a-42120823-f"
+    }
+   ],
+   "recognition": [
+    "Million Dollar Advocates Forum",
+    "National Trial Lawyers",
+    "Top 100 Trial Lawyers"
+   ],
+   "state": "FL",
+   "street": "1000 5th St., Suite #402",
+   "website": "https://www.sotolongolaw.com/",
+   "year_established": null
+  },
+  {
+   "areas_served": [
+    "Alpharetta, GA",
+    "Roswell, GA",
+    "Sandy Springs, GA"
+   ],
+   "attorneys": [
+    {
+     "name": "Kenneth Cassutt",
+     "role": "Attorney"
+    }
+   ],
+   "city": "Alpharetta",
+   "country": "US",
+   "county": null,
+   "county_fips": null,
+   "description": "Cassutt Law Firm is an Alpharetta, Georgia law firm focused on business and real estate law. The firm is led by Attorney Kenneth Cassutt, who represents individuals, business owners, entrepreneurs, investors, and companies throughout Alpharetta and the surrounding communities. His practice covers business transactions, business litigation, real estate transactions, and real estate litigation, including business formation and entity selection, business purchases and sales, contract drafting and negotiation, operating and partnership agreements, shareholder and ownership agreements, and business succession matters. He also represents clients in business disputes involving breach of contract, partnership conflicts, and ownership interests, evaluating opportunities for negotiation and settlement while remaining prepared to litigate when necessary. On the real estate side, the firm assists with residential and commercial real estate transactions, commercial leases, land use and zoning, and real estate litigation such as title disputes and boundary or easement disputes. The firm serves clients in Alpharetta, Roswell, Sandy Springs, Cumming, Duluth, Johns Creek, and Suwanee. Kenneth Cassutt emphasizes clear communication, accessibility, and keeping clients informed throughout their legal matters. Cassutt Law Firm is located at 11175 Cicero Dr., Building 200, Suite 100, Alpharetta, GA 30022 and can be reached by phone at 678-733-1284.",
+   "id": "cassutt-law-firm",
+   "name": "Cassutt Law Firm",
+   "offices": [
+    {
+     "address": "11175 Cicero Dr., Building 200, Suite 100, Alpharetta, GA 30022",
+     "label": "Alpharetta",
+     "phone": "(678) 733-1284"
+    }
+   ],
+   "phone": "678-733-1284",
+   "postal_code": "30022",
+   "practice_areas": [
+    "Business Law",
+    "Real Estate Law"
+   ],
+   "profiles": [],
+   "recognition": [],
+   "state": "GA",
+   "street": "11175 Cicero Dr., Building 200, Suite 100",
+   "website": "https://www.cassuttlaw.com/",
    "year_established": null
   }
  ],

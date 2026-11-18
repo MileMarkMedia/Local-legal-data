@@ -191,6 +191,9 @@
   "matched": true,
   "state_fips": "13"
  },
+ "cassutt-law-firm": {
+  "matched": false
+ },
  "cavallo-cavallo": {
   "county": "Bronx County",
   "county_fips": "005",
@@ -1434,6 +1437,13 @@
   "geoid": "45045",
   "matched": true,
   "state_fips": "45"
+ },
+ "sotolongo-law": {
+  "county": "Miami-Dade County",
+  "county_fips": "086",
+  "geoid": "12086",
+  "matched": true,
+  "state_fips": "12"
  },
  "spencer-morgan-law": {
   "county": "Miami-Dade County",

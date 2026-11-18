@@ -56,6 +56,7 @@ Source: [NHTSA FARS national data files](https://www.nhtsa.gov/research-data/fat
 - [Alan Goldfarb, P.A.](../../../firms/alan-goldfarb-p-a.md), Miami: Personal Injury
 - [Halpern Santos & Pinkert, P.A.](../../../firms/halpern-santos-pinkert-p-a.md), Coral Gables: Personal Injury
 - [Pita Weber Del Prado](../../../firms/pita-weber-del-prado.md), Miami: Personal Injury
+- [Sotolongo Law](../../../firms/sotolongo-law.md), Miami Beach: Medical Malpractice, Personal Injury
 - [Spencer Morgan Law](../../../firms/spencer-morgan-law.md), Miami: Personal Injury, Car Accidents
 
 ---
