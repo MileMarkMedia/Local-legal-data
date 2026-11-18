@@ -1,6 +1,6 @@
 # The Villari Firm, PLLC
 
-The Villari Firm, PLLC is a Philadelphia law firm focused on medical malpractice, birth injury and personal injury cases throughout Pennsylvania and New Jersey. Founded in 1998 by Heidi G. Villari, the firm represents injured patients and families in claims against doctors, nurses and hospitals. Ms. Villari began her career on the defense side, where she became one of the first female partners at her firm, and she has served as a Judge Pro Tempore in Philadelphia County and on the Board of the Philadelphia Trial Lawyers Association. The firm handles surgical errors, misdiagnosis and failure to diagnose, medication errors, birth injuries such as cerebral palsy and Erb's palsy, and wrongful death claims. It has recovered over $190 million in verdicts and settlements, including a $20 million settlement in a brain damage baby case, a $12 million global settlement in a school bus accident and an $11 million verdict in a childbirth case. Heidi G. Villari has been recognized by Super Lawyers, including its Top 50 Women Pennsylvania list, and holds an Avvo Rating of 10.0 Superb. The firm offers free consultations and works on a contingency fee basis. The Villari Firm, PLLC is located at 258 S 11th Street, 1st Floor, Philadelphia, PA 19107 and can be reached by phone at 215-372-8889.
+The Villari Firm, PLLC is a Philadelphia law firm focused on medical malpractice, birth injury and personal injury cases throughout Pennsylvania and New Jersey. Founded in 1998 by Heidi G. Villari, the firm represents injured patients and families in claims against doctors, nurses and hospitals. Ms. Villari began her career on the defense side, where she became one of the first female partners at her firm, and she has served as a Judge Pro Tempore in Philadelphia County and on the Board of the Philadelphia Trial Lawyers Association. The firm handles surgical errors, misdiagnosis and failure to diagnose, medication errors, birth injuries such as cerebral palsy and Erb's palsy, and wrongful death claims. It has recovered over $190 million in verdicts and settlements, including a $20 million settlement in a brain damage baby case, a $12 million global settlement in a school bus accident and an $11 million verdict in a childbirth case. Heidi G. Villari has been recognized by Super Lawyers, including its Top 50 Women Pennsylvania list, and holds an Avvo Rating of 10.0 Superb. The firm offers free consultations and works on a contingency fee basis. The Villari Firm, PLLC is located at 822 Pine St, Suite 3A1, Philadelphia, PA 19107 and can be reached by phone at 215-372-8889.
 
 ## Practice areas
 
@@ -9,7 +9,7 @@ The Villari Firm, PLLC is a Philadelphia law firm focused on medical malpractice
 
 ## Contact
 
-- Address: 258 S 11th Street, 1st Floor, Philadelphia, PA 19107
+- Address: 822 Pine St, Suite 3A1, Philadelphia, PA 19107
 - County: Philadelphia County
 - Phone: 215-372-8889
 - Website: [www.thevillarifirm.com](https://www.thevillarifirm.com/)
