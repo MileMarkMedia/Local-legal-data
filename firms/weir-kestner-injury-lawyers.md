@@ -15,7 +15,7 @@ Weir & Kestner Injury Lawyers is a Tennessee personal injury law firm serving Mu
 
 ## Other offices
 
-- Smyrna: 10543 Cedar Grove Rd, Suite 170, Smyrna, TN 37167, (615) 220-4180
+- Smyrna: 10541 Cedar Grove Rd, Suite 130, Smyrna, TN 37167, (615) 220-4180
 - Nashville: 3200 West End Avenue, Suite 500, Nashville, TN 37203, (615) 220-4180
 - Chattanooga: 200 W. Martin Luther King Blvd. Ste 1000, Chattanooga, TN 37402, (423) 558-0717
 
